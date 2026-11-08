@@ -1,0 +1,8 @@
+{
+  "keywords_tested": 435,
+  "bursts": 114,
+  "top20_overlap_gamma_0.5": 1.0,
+  "top20_overlap_gamma_2.0": 1.0,
+  "citation_edges_internal": 103821,
+  "main_path_length": 35
+}

@@ -1,0 +1,175 @@
+{
+  "runs": 115,
+  "expected_runs": 115,
+  "runs_with_suspension_gap": 12,
+  "h5a": {
+    "M1": {
+      "problem": "P4",
+      "n_pairs": 5,
+      "median_log10_ratio": 0.8214577613648943,
+      "ci95": [
+        0.7164018191884707,
+        0.9852085804611863
+      ],
+      "wins": 0,
+      "supported": false,
+      "complete": true
+    },
+    "M2": {
+      "problem": "P4",
+      "n_pairs": 5,
+      "median_log10_ratio": -1.3337742739908132,
+      "ci95": [
+        -1.7762117288850119,
+        -0.8733316023083999
+      ],
+      "wins": 5,
+      "supported": true,
+      "complete": true
+    },
+    "M3": {
+      "problem": "P3",
+      "n_pairs": 5,
+      "median_log10_ratio": 0.3571546041379335,
+      "ci95": [
+        -0.8149951379058689,
+        0.6540450075779761
+      ],
+      "wins": 1,
+      "supported": false,
+      "complete": true
+    },
+    "M4": {
+      "problem": "P2",
+      "n_pairs": 5,
+      "median_log10_ratio": -0.004097672661261566,
+      "ci95": [
+        -0.042057538632270616,
+        0.009220120983670619
+      ],
+      "wins": 3,
+      "supported": false,
+      "complete": true
+    },
+    "M5": {
+      "problem": "P1",
+      "n_pairs": 5,
+      "median_log10_ratio": 1.0586254180923387,
+      "ci95": [
+        0.6667614097437073,
+        1.4484437403795025
+      ],
+      "wins": 0,
+      "supported": false,
+      "complete": true
+    }
+  },
+  "h5b": {
+    "P1": {
+      "best_pinn_method": "M4",
+      "best_pinn_median_rel_l2": 0.017472259312881853,
+      "best_pinn_active_min": 20.48406602666655,
+      "classical_best_rel_l2": 1.9068433670676583e-09,
+      "classical_max_seconds": 0.12073049999889918,
+      "classical_seconds_to_match_best_pinn": 0.008459600008791314,
+      "speed_ratio": 145283.93308463242,
+      "supported": true
+    },
+    "P2": {
+      "best_pinn_method": "M5",
+      "best_pinn_median_rel_l2": 0.061284983624187175,
+      "best_pinn_active_min": 43.630651521666735,
+      "classical_best_rel_l2": 3.692162755440697e-05,
+      "classical_max_seconds": 0.39293719999841414,
+      "classical_seconds_to_match_best_pinn": 0.023989199995412488,
+      "speed_ratio": 109125.73540595849,
+      "supported": true
+    },
+    "P3": {
+      "best_pinn_method": "M5",
+      "best_pinn_median_rel_l2": 0.004988644352592118,
+      "best_pinn_active_min": 46.37749396166667,
+      "classical_best_rel_l2": 6.952040270025293e-07,
+      "classical_max_seconds": 4.2189423000090756,
+      "classical_seconds_to_match_best_pinn": 0.4869679813658954,
+      "speed_ratio": 5714.235317679311,
+      "supported": true
+    },
+    "P4": {
+      "best_pinn_method": "M5",
+      "best_pinn_median_rel_l2": 0.004635030064017852,
+      "best_pinn_active_min": 63.30740964833337,
+      "classical_best_rel_l2": 0.0007637856510383202,
+      "classical_max_seconds": 0.8927440999977989,
+      "classical_seconds_to_match_best_pinn": 0.0818212185696892,
+      "speed_ratio": 46423.71068654729,
+      "supported": true
+    }
+  },
+  "friedman_nemenyi": {
+    "blocks": 15,
+    "chi2": 33.666666666666686,
+    "p_value": 2.7739066740780936e-06,
+    "mean_ranks": {
+      "M0": 4.333,
+      "M1": 5.2,
+      "M2": 1.8,
+      "M3": 4.067,
+      "M4": 3.0,
+      "M5": 2.6
+    },
+    "critical_difference": 1.9469206455323236
+  },
+  "replication": [
+    {
+      "problem": "P1",
+      "method": "M0",
+      "source": "krishnapriyan2021",
+      "setting": "1D convection beta=30, regular PINN",
+      "reported": 0.897,
+      "ours_median": 0.06314846455351253,
+      "n": 5,
+      "within_one_order": false
+    },
+    {
+      "problem": "P4",
+      "method": "M0",
+      "source": "wang2021gradpath",
+      "setting": "Helmholtz a1=1 a2=4, 50 units x 3 hidden layers, model M1 (original PINN)",
+      "reported": 0.106,
+      "ours_median": 0.1508524849967782,
+      "n": 5,
+      "within_one_order": true
+    },
+    {
+      "problem": "P4",
+      "method": "M0",
+      "source": "wang2021gradpath",
+      "setting": "Helmholtz, 50 units x 5 hidden layers, model M1",
+      "reported": 0.14,
+      "ours_median": 0.1508524849967782,
+      "n": 5,
+      "within_one_order": true
+    },
+    {
+      "problem": "P4",
+      "method": "M1",
+      "source": "wang2021gradpath",
+      "setting": "Helmholtz, 50 units x 3 hidden layers, model M2 (learning-rate annealing)",
+      "reported": 0.0112,
+      "ours_median": 1.0000235559042592,
+      "n": 5,
+      "within_one_order": false
+    },
+    {
+      "problem": "P4",
+      "method": "M1",
+      "source": "wang2021gradpath",
+      "setting": "Helmholtz, 50 units x 5 hidden layers, model M2",
+      "reported": 0.00743,
+      "ours_median": 1.0000235559042592,
+      "n": 5,
+      "within_one_order": false
+    }
+  ]
+}

@@ -1,0 +1,1001 @@
+id,citations,cluster,title,year,first_author,source,in_tier1,degree_strength
+https://openalex.org/W2899283552,6512,0,Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations,2018.0,Maziar Raissi,Journal of Computational Physics,True,84866.0
+https://openalex.org/W3163993681,2046,0,Physics-informed machine learning,2021.0,George Em Karniadakis,Nature Reviews Physics,False,30985.0
+https://openalex.org/W2957969499,1431,0,DeepXDE: A Deep Learning Library for Solving Differential Equations,2021.0,Lu Lu,SIAM Review,True,26038.0
+https://openalex.org/W3200673624,1190,0,Understanding and Mitigating Gradient Flow Pathologies in Physics-Informed Neural Networks,2021.0,Sifan Wang,SIAM Journal on Scientific Computing,True,24259.0
+https://openalex.org/W4288039037,1030,0,Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next,2022.0,Salvatore Cuomo,Journal of Scientific Computing,True,16521.0
+https://openalex.org/W3003922491,971,0,Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations,2020.0,Maziar Raissi,Science,True,19357.0
+https://openalex.org/W4220717841,959,0,Physics-informed neural networks (PINNs) for fluid mechanics: a review,2021.0,Shengze Cai,Acta Mechanica Sinica,True,17602.0
+https://openalex.org/W3205073660,888,0,When and why PINNs fail to train: A neural tangent kernel perspective,2021.0,Sifan Wang,Journal of Computational Physics,False,19651.0
+https://openalex.org/W3010839048,792,0,NSFnets (Navier-Stokes flow nets): Physics-informed neural networks for the incompressible Navier-Stokes equations,2020.0,Xiaowei Jin,Journal of Computational Physics,True,17113.0
+https://openalex.org/W2998366519,788,0,Physics-informed neural networks for high-speed flows,2019.0,Zhiping Mao,Computer Methods in Applied Mechanics and Engineering,True,16738.0
+https://openalex.org/W3015865829,760,0,Conservative physics-informed neural networks on discrete domains for conservation laws: Applications to forward and inverse problems,2020.0,Ameya D. Jagtap,Computer Methods in Applied Mechanics and Engineering,True,18673.0
+https://openalex.org/W3098546160,749,0,Extended Physics-Informed Neural Networks (XPINNs): A Generalized Space-Time Domain Decomposition Based Deep Learning Framework for Nonlinear Partial Differential Equations,2020.0,Ameya D. Jagtap,Communications in Computational Physics,True,18079.0
+https://openalex.org/W2962727772,733,0,Automatic Differentiation in Machine Learning: a Survey,2015.0,Atılım Güneş Baydin,Maynooth University ePrints and eTheses Archive (Maynooth University),False,14071.0
+https://openalex.org/W3153200540,638,0,Physics-Informed Neural Networks for Heat Transfer Problems,2021.0,Shengze Cai,ASME Journal of Heat and Mass Transfer,True,11634.0
+https://openalex.org/W2948551291,633,0,Adaptive activation functions accelerate convergence in deep and physics-informed neural networks,2019.0,Ameya D. Jagtap,Journal of Computational Physics,True,15033.0
+https://openalex.org/W2900501930,625,0,fPINNs: Fractional Physics-Informed Neural Networks,2019.0,Guofei Pang,SIAM Journal on Scientific Computing,True,13054.0
+https://openalex.org/W3010849941,623,0,B-PINNs: Bayesian physics-informed neural networks for forward and inverse PDE problems with noisy data,2020.0,Liu Yang,Journal of Computational Physics,True,12971.0
+https://openalex.org/W3137392741,586,0,A physics-informed deep learning framework for inversion and surrogate modeling in solid mechanics,2021.0,Ehsan Haghighat,Computer Methods in Applied Mechanics and Engineering,True,12303.0
+https://openalex.org/W2948230027,563,0,Surrogate modeling for fluid flows based on physics-constrained deep learning without simulation data,2019.0,Luning Sun,Computer Methods in Applied Mechanics and Engineering,True,12212.0
+https://openalex.org/W2051434435,554,0,On the limited memory BFGS method for large scale optimization,1989.0,Dong C. Liu,Mathematical Programming,False,10119.0
+https://openalex.org/W6638908295,554,0,,,,,False,10800.0
+https://openalex.org/W3011806874,521,0,hp-VPINNs: Variational physics-informed neural networks with domain decomposition,2020.0,Ehsan Kharazmi,Computer Methods in Applied Mechanics and Engineering,True,12785.0
+https://openalex.org/W3128157635,508,0,Physics-Informed Neural Networks with Hard Constraints for Inverse Design,2021.0,Lu Lu,SIAM Journal on Scientific Computing,True,10503.0
+https://openalex.org/W3209909540,477,0,Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems,2022.0,Jeremy Yu,Computer Methods in Applied Mechanics and Engineering,True,10554.0
+https://openalex.org/W3197732874,476,0,Characterizing possible failure modes in physics-informed neural networks,2021.0,Aditi S. Krishnapriyan,arXiv (Cornell University),True,10848.0
+https://openalex.org/W2993158195,465,0,Physics-informed neural networks for inverse problems in nano-optics and metamaterials,2020.0,Yuyao Chen,Optics Express,True,10345.0
+https://openalex.org/W3116268267,457,0,On the eigenvector bias of Fourier feature networks: From regression to solving multi-scale PDEs with physics-informed neural networks,2021.0,Sifan Wang,Computer Methods in Applied Mechanics and Engineering,True,10553.0
+https://openalex.org/W4307154444,417,0,A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks,2022.0,Chenxi Wu,Computer Methods in Applied Mechanics and Engineering,True,9701.0
+https://openalex.org/W1533861849,401,0,Understanding the difficulty of training deep feedforward neural networks,2010.0,Xavier Glorot,,False,7547.0
+https://openalex.org/W3041682155,380,0,PPINN: Parareal physics-informed neural network for time-dependent PDEs,2020.0,Xuhui Meng,Computer Methods in Applied Mechanics and Engineering,True,8876.0
+https://openalex.org/W3111914315,369,0,PhyGeoNet: Physics-informed geometry-adaptive convolutional neural networks for solving parameterized steady-state PDEs on irregular domain,2020.0,Han Gao,Journal of Computational Physics,True,9525.0
+https://openalex.org/W2998847955,353,0,"An energy approach to the solution of partial differential equations in computational mechanics via machine learning: Concepts, implementation and applications",2020.0,Esteban P. Samaniego,Computer Methods in Applied Mechanics and Engineering,True,7809.0
+https://openalex.org/W2890968382,326,0,Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems,2019.0,Dongkun Zhang,Journal of Computational Physics,True,7919.0
+https://openalex.org/W2973886134,316,0,Machine learning in cardiovascular flows modeling: Predicting arterial blood pressure from non-invasive 4D flow MRI data using physics-informed neural networks,2019.0,Georgios Kissas,Computer Methods in Applied Mechanics and Engineering,True,7747.0
+https://openalex.org/W4229015109,307,0,Self-adaptive loss balanced Physics-informed neural networks,2022.0,Zixue Xiang,Neurocomputing,True,6644.0
+https://openalex.org/W1853291804,298,0,Automatic differentiation in machine learning: a survey,2015.0,"Baydin, Atilim Gunes",arXiv (Cornell University),False,5582.0
+https://openalex.org/W2955939954,295,0,Transfer learning enhanced physics informed neural network for phase-field modeling of fracture,2019.0,Somdatta Goswami,Theoretical and Applied Fracture Mechanics,True,7260.0
+https://openalex.org/W3156609952,288,0,Parallel physics-informed neural networks via domain decomposition,2021.0,Khemraj Shukla,Journal of Computational Physics,True,8058.0
+https://openalex.org/W2975003945,286,0,Locally adaptive activation functions with slope recovery for deep and physics-informed neural networks,2020.0,Ameya D. Jagtap,Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences,True,7463.0
+https://openalex.org/W4308979219,282,0,Self-Adaptive Physics-Informed Neural Networks,2022.0,Levi D. McClenny,SSRN Electronic Journal,True,6569.0
+https://openalex.org/W3155333505,257,0,Exact imposition of boundary conditions with distance functions in physics-informed deep neural networks,2021.0,N. Sukumar,Computer Methods in Applied Mechanics and Engineering,True,5744.0
+https://openalex.org/W3008118574,254,0,Physics-Informed Neural Networks for Cardiac Activation Mapping,2020.0,Francisco Sahli Costabal,Frontiers in Physics,True,5787.0
+https://openalex.org/W3185095713,254,0,Physics-informed neural networks for solving Reynolds-averaged Navier–Stokes equations,2022.0,Hamidreza Eivazi,Physics of Fluids,True,4787.0
+https://openalex.org/W3004450693,249,0,Physics-Informed Generative Adversarial Networks for Stochastic Differential Equations,2020.0,Liu Yang,SIAM Journal on Scientific Computing,True,6123.0
+https://openalex.org/W3154575637,240,0,Efficient training of physics‐informed neural networks via importance sampling,2021.0,Mohammad Amin Nabian,Computer-Aided Civil and Infrastructure Engineering,True,6689.0
+https://openalex.org/W4221158602,236,0,Physics-Informed Neural Networks for Inverse Problems in Supersonic Flows,2022.0,Ameya D. Jagtap,Journal of Computational Physics,True,5051.0
+https://openalex.org/W3118861991,235,0,Solving Allen-Cahn and Cahn-Hilliard Equations Using the Adaptive Physics Informed Neural Networks,2021.0,Colby Wight,Communications in Computational Physics,True,5956.0
+https://openalex.org/W3208953217,226,0,CAN-PINN: A fast physics-informed neural network based on coupled-automatic–numerical differentiation method,2022.0,Pao‐Hsiung Chiu,Computer Methods in Applied Mechanics and Engineering,True,5612.0
+https://openalex.org/W3014468003,225,0,Physics‐Informed Deep Neural Networks for Learning Parameters and Constitutive Relationships in Subsurface Flow Problems,2020.0,Alexandre M. Tartakovsky,Water Resources Research,True,5340.0
+https://openalex.org/W3118260203,223,0,Physics-informed learning of governing equations from scarce data,2021.0,Zhao Chen,Nature Communications,True,4345.0
+https://openalex.org/W3025645353,222,0,SciANN: A Keras/TensorFlow wrapper for scientific computations and physics-informed deep learning using artificial neural networks,2020.0,Ehsan Haghighat,Computer Methods in Applied Mechanics and Engineering,True,5495.0
+https://openalex.org/W3164032021,222,0,Physics-Informed Deep Learning for Computational Elastodynamics without Labeled Data,2021.0,Chengping Rao,Journal of Engineering Mechanics,True,5688.0
+https://openalex.org/W2900369848,221,0,Adversarial uncertainty quantification in physics-informed neural networks,2019.0,Yibo Yang,Journal of Computational Physics,True,5331.0
+https://openalex.org/W3184908771,220,0,Finite basis physics-informed neural networks (FBPINNs): a scalable domain decomposition approach for solving differential equations,2023.0,Ben Moseley,Advances in Computational Mathematics,True,5633.0
+https://openalex.org/W4394649613,211,0,Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations,2017.0,Maziar Raissi,arXiv (Cornell University),True,3776.0
+https://openalex.org/W3021668893,204,0,Physics-informed neural networks for multiphysics data assimilation with application to subsurface transport,2020.0,Qizhi He,Advances in Water Resources,True,5048.0
+https://openalex.org/W4225995462,202,0,A-PINN: Auxiliary physics informed neural networks for forward and inverse problems of nonlinear integro-differential equations,2022.0,Lei Yuan,Journal of Computational Physics,True,4115.0
+https://openalex.org/W3047245470,200,0,LIMITATIONS OF PHYSICS INFORMED MACHINE LEARNING FOR NONLINEAR TWO-PHASE TRANSPORT IN POROUS MEDIA,2020.0,Olga Fuks,Journal of Machine Learning for Modeling and Computing,True,4142.0
+https://openalex.org/W3008419421,200,0,Physics-informed deep learning for incompressible laminar flows,2020.0,Chengping Rao,Theoretical and Applied Mechanics Letters,True,4371.0
+https://openalex.org/W2889522259,195,0,Deep learning of vortex-induced vibrations,2018.0,Maziar Raissi,Journal of Fluid Mechanics,False,4604.0
+https://openalex.org/W2991550674,193,0,Variational Physics-Informed Neural Networks For Solving Partial Differential Equations,2019.0,Ehsan Kharazmi,arXiv (Cornell University),True,4967.0
+https://openalex.org/W2919958648,193,0,A composite neural network that learns from multi-fidelity data: Application to function approximation and inverse PDE problems,2019.0,Xuhui Meng,Journal of Computational Physics,True,4288.0
+https://openalex.org/W3011147100,192,0,Learning in Modal Space: Solving Time-Dependent Stochastic PDEs Using Physics-Informed Neural Networks,2020.0,Dongkun Zhang,SIAM Journal on Scientific Computing,True,4964.0
+https://openalex.org/W3096600878,189,0,A physics-informed machine learning approach for solving heat transfer equation in advanced manufacturing and engineering applications,2021.0,Navid Zobeiry,Engineering Applications of Artificial Intelligence,True,4019.0
+https://openalex.org/W3036843665,189,0,Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains,2020.0,Matthew Tancik,arXiv (Cornell University),False,4106.0
+https://openalex.org/W4287671439,187,0,Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism,2020.0,Levi D. McClenny,arXiv (Cornell University),True,5320.0
+https://openalex.org/W4213199992,184,0,Analyses of internal structures and defects in materials using physics-informed neural networks,2022.0,Enrui Zhang,Science Advances,True,4683.0
+https://openalex.org/W3133608513,179,0,Flow over an espresso cup: inferring 3-D velocity and pressure fields from tomographic background oriented Schlieren via physics-informed neural networks,2021.0,Shengze Cai,Journal of Fluid Mechanics,True,3878.0
+https://openalex.org/W4206264522,179,0,A novel sequential method to train physics informed neural networks for Allen Cahn and Cahn Hilliard equations,2022.0,Revanth Mattey,Computer Methods in Applied Mechanics and Engineering,True,4514.0
+https://openalex.org/W2000359198,177,0,A Limited Memory Algorithm for Bound Constrained Optimization,1995.0,Richard H. Byrd,SIAM Journal on Scientific Computing,False,3275.0
+https://openalex.org/W2897097528,176,0,On the Spectral Bias of Neural Networks,2018.0,Nasim Rahaman,arXiv (Cornell University),False,3993.0
+https://openalex.org/W3173549089,175,0,PhyCRNet: Physics-informed convolutional-recurrent network for solving spatiotemporal PDEs,2021.0,Pu Ren,Computer Methods in Applied Mechanics and Engineering,True,4615.0
+https://openalex.org/W3105648287,170,0,Deep learning of vortex-induced vibrations,2019.0,Maziar Raissi,DSpace@MIT (Massachusetts Institute of Technology),False,3971.0
+https://openalex.org/W4391629689,165,0,Respecting causality for training physics-informed neural networks,2024.0,Sifan Wang,Computer Methods in Applied Mechanics and Engineering,True,3914.0
+https://openalex.org/W3022471935,165,0,Physics-Informed Neural Network for Ultrasound Nondestructive Quantification of Surface Breaking Cracks,2020.0,Khemraj Shukla,Journal of Nondestructive Evaluation,True,4058.0
+https://openalex.org/W3109749236,164,0,Physics-informed neural network for modelling the thermochemical curing process of composite-tool systems during manufacture,2021.0,Sina Amini Niaki,Computer Methods in Applied Mechanics and Engineering,False,3815.0
+https://openalex.org/W3119602513,163,0,Machine learning for metal additive manufacturing: predicting temperature and melt pool fluid dynamics using physics-informed neural networks,2021.0,Qiming Zhu,Computational Mechanics,True,3541.0
+https://openalex.org/W3168386838,163,0,NVIDIA SimNet™: An AI-Accelerated Multi-Physics Simulation Framework,2021.0,Oliver Hennigh,Lecture notes in computer science,True,4314.0
+https://openalex.org/W3183994952,162,0,Physics-informed graph neural Galerkin networks: A unified framework for solving PDE-governed forward and inverse problems,2022.0,Han Gao,Computer Methods in Applied Mechanics and Engineering,True,3854.0
+https://openalex.org/W3180490621,158,0,Prediction of porous media fluid flow using physics informed neural networks,2021.0,Muhammad Majid Almajid,Journal of Petroleum Science and Engineering,True,3639.0
+https://openalex.org/W3153315752,157,0,Uncovering near-wall blood flow from sparse data with physics-informed neural networks,2021.0,Amirhossein Arzani,Physics of Fluids,True,3562.0
+https://openalex.org/W3177797101,154,0,The Old and the New: Can Physics-Informed Deep-Learning Replace Traditional Linear Solvers?,2021.0,Stefano Markidis,Frontiers in Big Data,True,2975.0
+https://openalex.org/W4221160766,148,0,Respecting causality is all you need for training physics-informed neural networks,2022.0,Sifan Wang,arXiv (Cornell University),True,3608.0
+https://openalex.org/W3037134996,143,0,Physics-informed multi-LSTM networks for metamodeling of nonlinear structures,2020.0,Ruiyang Zhang,Computer Methods in Applied Mechanics and Engineering,True,3534.0
+https://openalex.org/W4310153797,137,0,A physics-informed neural network technique based on a modified loss function for computational 2D and 3D solid mechanics,2022.0,Jinshuai Bai,Computational Mechanics,True,2609.0
+https://openalex.org/W2982123645,135,0,A deep energy method for finite deformation hyperelasticity,2019.0,Vien Minh Nguyen‐Thanh,European Journal of Mechanics - A/Solids,False,3026.0
+https://openalex.org/W3102254925,135,0,Stiff-PINN: Physics-Informed Neural Network for Stiff Chemical Kinetics,2021.0,Weiqi Ji,The Journal of Physical Chemistry A,True,2822.0
+https://openalex.org/W1968326286,132,0,A hybrid neural network‐first principles approach to process modeling,1992.0,Dimitris C. Psichogios,AIChE Journal,False,2927.0
+https://openalex.org/W3093127984,129,0,Physics-informed neural networks for solving forward and inverse flow problems via the Boltzmann-BGK formulation,2021.0,Qin Lou,Journal of Computational Physics,True,3304.0
+https://openalex.org/W2989521711,127,0,Physics-Informed Neural Networks for Power Systems,2020.0,George S. Misyris,IEEE Power Engineering Society General Meeting,True,2315.0
+https://openalex.org/W3043516796,125,0,A method for representing periodic functions and enforcing exactly periodic boundary conditions with deep neural networks,2021.0,Suchuan  Steven Dong,Journal of Computational Physics,True,3261.0
+https://openalex.org/W3092743582,124,0,A physics-guided neural network framework for elastic plates: Comparison of governing equations-based and energy-based approaches,2021.0,Wei Li,Computer Methods in Applied Mechanics and Engineering,True,3205.0
+https://openalex.org/W4313531672,124,0,Transfer learning based physics-informed neural networks for solving inverse problems in engineering structures under different loading scenarios,2022.0,Xu Chen,Computer Methods in Applied Mechanics and Engineering,True,3161.0
+https://openalex.org/W3099892132,122,0,Systems biology informed deep learning for inferring parameters and hidden dynamics,2020.0,Alireza Z. K. Yazdani,PLoS Computational Biology,False,2889.0
+https://openalex.org/W4313419889,122,0,DAS-PINNs: A deep adaptive sampling method for solving high-dimensional partial differential equations,2022.0,Kejun Tang,Journal of Computational Physics,True,2800.0
+https://openalex.org/W3169719976,122,0,Simulation of multi-species flow and heat transfer using physics-informed neural networks,2021.0,R. Laubscher,Physics of Fluids,True,2446.0
+https://openalex.org/W4220699563,116,0,Applications of Physics-Informed Neural Networks in Power Systems - A Review,2022.0,Bin Huang,IEEE Transactions on Power Systems,True,1603.0
+https://openalex.org/W4283689645,115,0,A mixed formulation for physics-informed neural networks as a potential solver for engineering problems in heterogeneous domains: Comparison with finite element method,2022.0,Shahed Rezaei,Computer Methods in Applied Mechanics and Engineering,True,3050.0
+https://openalex.org/W4315628777,114,0,"Uncertainty quantification in scientific machine learning: Methods, metrics, and comparisons",2023.0,Apostolos F. Psaros,Journal of Computational Physics,False,2587.0
+https://openalex.org/W4226480439,113,0,Physics informed neural networks for continuum micromechanics,2022.0,Alexander Henkes,Computer Methods in Applied Mechanics and Engineering,True,2903.0
+https://openalex.org/W4221147887,110,0,Error estimates for physics-informed neural networks approximating the Navier–Stokes equations,2022.0,Tim De Ryck,IMA Journal of Numerical Analysis,True,2946.0
+https://openalex.org/W4385356755,110,0,Failure-Informed Adaptive Sampling for PINNs,2023.0,Zhiwei Gao,SIAM Journal on Scientific Computing,True,2407.0
+https://openalex.org/W4398238760,109,0,Can physics-informed neural networks beat the finite element method?,2024.0,Tamara G. Grossmann,IMA Journal of Applied Mathematics,True,2104.0
+https://openalex.org/W3199775905,109,0,When Do Extended Physics-Informed Neural Networks (XPINNs) Improve Generalization?,2022.0,Zheyuan Hu,SIAM Journal on Scientific Computing,True,3360.0
+https://openalex.org/W2998004632,107,0,Deep Physical Informed Neural Networks for Metamaterial Design,2019.0,Zhiwei Fang,IEEE Access,False,2981.0
+https://openalex.org/W4408489371,104,0,Multi-Objective Loss Balancing for Physics-Informed Deep Learning,2025.0,Rafael Bischof,Computer Methods in Applied Mechanics and Engineering,True,2173.0
+https://openalex.org/W3028009715,103,0,Non-invasive inference of thrombus material properties with physics-informed neural networks,2020.0,Minglang Yin,Computer Methods in Applied Mechanics and Engineering,True,2808.0
+https://openalex.org/W3152851547,101,0,A High-Efficient Hybrid Physics-Informed Neural Networks Based on Convolutional Neural Network,2021.0,Zhiwei Fang,IEEE Transactions on Neural Networks and Learning Systems,True,2360.0
+https://openalex.org/W3207890637,100,0,Thermodynamically consistent physics-informed neural networks for hyperbolic systems,2021.0,Ravi G. Patel,Journal of Computational Physics,True,2700.0
+https://openalex.org/W3027712952,100,0,Transfer learning based multi-fidelity physics informed deep neural network,2020.0,Souvik Chakraborty,Journal of Computational Physics,True,2654.0
+https://openalex.org/W4391418547,99,0,Residual-based attention in physics-informed neural networks,2024.0,Sokratis Anagnostopoulos,Computer Methods in Applied Mechanics and Engineering,True,2509.0
+https://openalex.org/W4396690897,98,0,Tackling the curse of dimensionality with physics-informed neural networks,2024.0,Zheyuan Hu,Neural Networks,True,1830.0
+https://openalex.org/W3215332512,98,0,Optimally weighted loss functions for solving PDEs with Neural Networks,2020.0,Remco van der Meer,"Centrum Wiskunde & Informatica (CWI), the national research institute for mathematics and computer science in the Netherlands",True,2469.0
+https://openalex.org/W3126393581,97,0,Deep Learning Method Based on Physics Informed Neural Network with Resnet Block for Solving Fluid Flow Problems,2021.0,Chen Cheng,Water,True,2447.0
+https://openalex.org/W3181235980,95,0,Meta-learning PINN loss functions,2022.0,Apostolos F. Psaros,Journal of Computational Physics,False,2513.0
+https://openalex.org/W3161115940,95,0,Deep Kronecker neural networks: A general framework for neural networks with adaptive activation functions,2021.0,Ameya D. Jagtap,Neurocomputing,True,2833.0
+https://openalex.org/W3201958666,95,0,Physics-informed neural network simulation of multiphase poroelasticity using stress-split sequential training,2022.0,Ehsan Haghighat,Computer Methods in Applied Mechanics and Engineering,True,2531.0
+https://openalex.org/W2165698076,94,0,A Survey on Transfer Learning,2009.0,Sinno Jialin Pan,IEEE Transactions on Knowledge and Data Engineering,False,1500.0
+https://openalex.org/W3048778144,94,0,nPINNs: Nonlocal physics-informed neural networks for a parametrized nonlocal universal Laplacian operator. Algorithms and applications,2020.0,Guofei Pang,Journal of Computational Physics,True,2410.0
+https://openalex.org/W4387206291,93,0,Augmented Physics-Informed Neural Networks (APINNs): A gating network-based soft domain decomposition methodology,2023.0,Zheyuan Hu,Engineering Applications of Artificial Intelligence,True,3093.0
+https://openalex.org/W4210729890,91,0,Dense velocity reconstruction from particle image velocimetry/particle tracking velocimetry using a physics-informed neural network,2022.0,Hongping Wang,Physics of Fluids,True,1719.0
+https://openalex.org/W3127241283,89,0,Meshless physics‐informed deep learning method for three‐dimensional solid mechanics,2021.0,Diab Abueidda,International Journal for Numerical Methods in Engineering,True,2095.0
+https://openalex.org/W3025960736,86,0,DiscretizationNet: A machine-learning based solver for Navier–Stokes equations using finite volume discretization,2021.0,Rishikesh Ranade,Computer Methods in Applied Mechanics and Engineering,True,2341.0
+https://openalex.org/W3022953487,86,0,Physics-guided convolutional neural network (PhyCNN) for data-driven seismic response modeling,2020.0,Ruiyang Zhang,Engineering Structures,True,1519.0
+https://openalex.org/W3155568564,86,0,The mixed Deep Energy Method for resolving concentration features in finite strain hyperelasticity,2021.0,Jan N. Fuhg,Journal of Computational Physics,True,2311.0
+https://openalex.org/W3006689658,85,0,Deep learning of subsurface flow via theory-guided neural network,2020.0,Nanzhe Wang,Journal of Hydrology,True,1561.0
+https://openalex.org/W4285604295,84,0,Bayesian Physics Informed Neural Networks for real-world nonlinear dynamical systems,2022.0,Kevin Linka,Computer Methods in Applied Mechanics and Engineering,True,2245.0
+https://openalex.org/W4386280222,84,0,A Unified Scalable Framework for Causal Sweeping Strategies for Physics-Informed Neural Networks (Pinns) and Their Temporal Decompositions,2023.0,Michael Penwarden,Journal of Computational Physics,True,2238.0
+https://openalex.org/W3202132106,84,0,Residual-based adaptivity for two-phase flow simulation in porous media using Physics-informed Neural Networks,2022.0,John M. Hanna,Computer Methods in Applied Mechanics and Engineering,True,2107.0
+https://openalex.org/W4308469717,84,0,Optimal control of PDEs using physics-informed neural networks,2022.0,Saviz Mowlavi,Journal of Computational Physics,True,1578.0
+https://openalex.org/W4309548460,83,0,Physics-Informed Neural Network (PINN) Evolution and Beyond: A Systematic Literature Review and Bibliometric Analysis,2022.0,Zaharaddeen Karami Lawal,Big Data and Cognitive Computing,False,1351.0
+https://openalex.org/W4235892290,82,0,Multi-Fidelity Physics-Constrained Neural Network and Its Application in Materials Modeling,2019.0,Dehao Liu,Journal of Mechanical Design,True,1882.0
+https://openalex.org/W4285818764,80,0,Learning in Sinusoidal Spaces With Physics-Informed Neural Networks,2022.0,Jian Cheng Wong,IEEE Transactions on Artificial Intelligence,True,1730.0
+https://openalex.org/W2920959147,79,0,Predictive large-eddy-simulation wall modeling via physics-informed neural networks,2019.0,Xiang I. A. Yang,Physical Review Fluids,True,1945.0
+https://openalex.org/W4390671307,79,0,"Physics-Guided, Physics-Informed, and Physics-Encoded Neural Networks and Operators in Scientific Computing: Fluid and Solid Mechanics",2024.0,Salah Aldin Faroughi,Journal of Computing and Information Science in Engineering,True,1483.0
+https://openalex.org/W4200119169,79,0,A Physics-Informed Neural Network for Quantifying the Microstructural Properties of Polycrystalline Nickel Using Ultrasound Data: A promising approach for solving inverse problems,2021.0,Khemraj Shukla,IEEE Signal Processing Magazine,True,2397.0
+https://openalex.org/W4385965970,79,0,An Expert's Guide to Training Physics-informed Neural Networks,2023.0,Sifan Wang,arXiv (Cornell University),True,1386.0
+https://openalex.org/W3092231855,78,0,Physics-constrained bayesian neural network for fluid flow reconstruction with sparse and noisy data,2020.0,Luning Sun,Theoretical and Applied Mechanics Letters,False,2003.0
+https://openalex.org/W4224222807,78,0,Adaptive deep neural networks methods for high-dimensional partial differential equations,2022.0,Shaojie Zeng,Journal of Computational Physics,True,1965.0
+https://openalex.org/W4212954647,78,0,On the application of physics informed neural networks (PINN) to solve boundary layer thermal-fluid problems,2022.0,Hassan Bararnia,International Communications in Heat and Mass Transfer,True,1428.0
+https://openalex.org/W3033526262,78,0,The neural particle method – An updated Lagrangian physics informed neural network for computational fluid dynamics,2020.0,Henning Wessels,Computer Methods in Applied Mechanics and Engineering,True,1994.0
+https://openalex.org/W4288734997,77,0,Physics-informed PointNet: A deep learning solver for steady-state incompressible flows and thermal fields on multiple sets of irregular geometries,2022.0,Ali Kashefi,Journal of Computational Physics,True,1633.0
+https://openalex.org/W3021801979,77,0,Physics-informed neural networks for solving nonlinear diffusivity and Biot’s equations,2020.0,Teeratorn Kadeethum,PLoS ONE,True,1634.0
+https://openalex.org/W3031879091,76,0,A nonlocal physics-informed deep learning framework using the peridynamic differential operator,2021.0,Ehsan Haghighat,Computer Methods in Applied Mechanics and Engineering,True,2683.0
+https://openalex.org/W3115283966,76,0,Physics‐Informed Neural Network Method for Forward and Backward Advection‐Dispersion Equations,2021.0,Qizhi He,Water Resources Research,True,1500.0
+https://openalex.org/W2005126631,76,0,Algorithm 778: L-BFGS-B,1997.0,Ciyou Zhu,ACM Transactions on Mathematical Software,False,1400.0
+https://openalex.org/W4296060623,76,0,Monte Carlo fPINNs: Deep learning method for forward and inverse problems involving high dimensional fractional partial differential equations,2022.0,Ling Guo,Computer Methods in Applied Mechanics and Engineering,True,1423.0
+https://openalex.org/W3195330636,75,0,Parametric deep energy approach for elasticity accounting for strain gradient effects,2021.0,Vien Minh Nguyen‐Thanh,Computer Methods in Applied Mechanics and Engineering,True,1760.0
+https://openalex.org/W2963677766,75,0,Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics,2018.0,Roberto Cipolla,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,False,1404.0
+https://openalex.org/W3202433620,75,0,Application of physics-informed neural networks to inverse problems in unsaturated groundwater flow,2021.0,Ivan Depina,Georisk Assessment and Management of Risk for Engineered Systems and Geohazards,True,1631.0
+https://openalex.org/W3020952481,74,0,A Dual-Dimer method for training physics-constrained neural networks with minimax architecture,2021.0,Dehao Liu,Neural Networks,True,2217.0
+https://openalex.org/W4391969228,74,0,Physics-informed neural nets for control of dynamical systems,2024.0,Eric Aislan Antonelo,Neurocomputing,True,1124.0
+https://openalex.org/W3085463724,74,0,Distributed learning machines for solving forward and inverse problems in partial differential equations,2020.0,Vikas Dwivedi,Neurocomputing,True,1747.0
+https://openalex.org/W3008453832,73,0,NeuroDiffEq: A Python package for solving differential equations with neural networks,2020.0,Feiyu Chen,The Journal of Open Source Software,False,2067.0
+https://openalex.org/W4293246336,73,0,Physics-Informed Machine Learning,2022.0,Steven L. Brunton,Cambridge University Press eBooks,False,1467.0
+https://openalex.org/W3081716925,72,0,Solving Partial Differential Equations Using Deep Learning and Physical Constraints,2020.0,Yanan Guo,Applied Sciences,True,1116.0
+https://openalex.org/W4383102565,72,0,Enhancing PINNs for solving PDEs via adaptive collocation point movement and adaptive loss weighting,2023.0,Jie Hou,Nonlinear Dynamics,True,1504.0
+https://openalex.org/W3012417314,71,0,Extraction of mechanical properties of materials through deep learning from instrumented indentation,2020.0,Lu Lu,Proceedings of the National Academy of Sciences,False,1962.0
+https://openalex.org/W3097124738,71,0,Super-resolution and denoising of fluid flow using physics-informed convolutional neural networks without high-resolution labels,2021.0,Han Gao,Physics of Fluids,True,1806.0
+https://openalex.org/W4322743280,71,0,A Review of Physics-Informed Machine Learning in Fluid Mechanics,2023.0,Pushan Sharma,Energies,True,1148.0
+https://openalex.org/W2093625674,70,0,On the distribution of points in a cube and the approximate evaluation of integrals,1967.0,Ilya M. Sobol,USSR Computational Mathematics and Mathematical Physics,False,1494.0
+https://openalex.org/W3180558463,70,0,Inverse Dirichlet weighting enables reliable training of physics informed neural networks,2021.0,Suryanarayana Maddu,Machine Learning Science and Technology,True,2206.0
+https://openalex.org/W4402774937,70,0,Physics-informed Neural Networks (PINN) for computational solid mechanics: Numerical frameworks and applications,2024.0,Haoteng Hu,Thin-Walled Structures,True,1206.0
+https://openalex.org/W3140906137,70,0,Physics-informed neural networks for the shallow-water equations on the sphere,2022.0,Alexander Bihlo,Journal of Computational Physics,True,1384.0
+https://openalex.org/W321261355,69,0,Spectral/hp Element Methods for Computational Fluid Dynamics,2005.0,George Em Karniadakis,,False,1628.0
+https://openalex.org/W3035493266,69,0,Deep learning of free boundary and Stefan problems,2020.0,Sifan Wang,Journal of Computational Physics,True,1907.0
+https://openalex.org/W3184364599,69,0,"SPINN: Sparse, Physics-based, and partially Interpretable Neural Networks for PDEs",2021.0,Amuthan Arunkumar Ramabathiran,Journal of Computational Physics,True,1949.0
+https://openalex.org/W4379533000,69,0,Solving multi-material problems in solid mechanics using physics-informed neural networks based on domain decomposition technology,2023.0,Yu Diao,Computer Methods in Applied Mechanics and Engineering,True,1947.0
+https://openalex.org/W3214040539,69,0,nn-PINNs: Non-Newtonian physics-informed neural networks for complex fluid modeling,2021.0,Mohammadamin Mahmoudabadbozchelou,Soft Matter,True,1823.0
+https://openalex.org/W4224314625,69,0,Physics-informed neural networks for phase-field method in two-phase flow,2022.0,Rundi Qiu,Physics of Fluids,True,1536.0
+https://openalex.org/W4408339746,68,0,From PINNs to PIKANs: recent advances in physics-informed machine learning,2025.0,Juan Diego Toscano,Machine learning for computational science and engineering,True,1328.0
+https://openalex.org/W2901943374,68,0,A review of automatic differentiation and its efficient implementation,2019.0,Charles C. Margossian,Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery,False,1349.0
+https://openalex.org/W2587288333,67,0,The finite element method. Linear static and dynamic finite element analysis,1987.0,Thomas Zimmermann,Computer Methods in Applied Mechanics and Engineering,False,1545.0
+https://openalex.org/W4401697219,66,0,A comprehensive and FAIR comparison between MLP and KAN representations for differential equations and operator networks,2024.0,Khemraj Shukla,Computer Methods in Applied Mechanics and Engineering,True,1434.0
+https://openalex.org/W2000425991,66,0,"Isogeometric analysis: CAD, finite elements, NURBS, exact geometry and mesh refinement",2005.0,Thomas J.R. Hughes,Computer Methods in Applied Mechanics and Engineering,False,1192.0
+https://openalex.org/W1549748890,66,0,Finite volume methods,2000.0,Robert Eymard,Handbook of numerical analysis,False,1364.0
+https://openalex.org/W3111557793,65,0,DPM: A Novel Training Method for Physics-Informed Neural Networks in Extrapolation,2021.0,Jung-Eun Kim,Proceedings of the AAAI Conference on Artificial Intelligence,True,1369.0
+https://openalex.org/W4280607878,65,0,Physics and equality constrained artificial neural networks: Application to forward and inverse problems with multi-fidelity data fusion,2022.0,Shamsulhaq Basir,Journal of Computational Physics,True,1667.0
+https://openalex.org/W4382893306,65,0,Physics-informed neural networks with residual/gradient-based adaptive sampling methods for solving partial differential equations with sharp solutions,2023.0,Zhiping Mao,Applied Mathematics and Mechanics,True,1396.0
+https://openalex.org/W4317214033,64,0,A physics-informed convolutional neural network for the simulation and prediction of two-phase Darcy flows in heterogeneous porous media,2023.0,Zhao Zhang,Journal of Computational Physics,True,1575.0
+https://openalex.org/W4306920631,64,0,Multi-domain physics-informed neural network for solving forward and inverse problems of steady-state heat conduction in multilayer media,2022.0,Benrong Zhang,Physics of Fluids,True,1070.0
+https://openalex.org/W4249517230,63,0,A Comparison of Three Methods for Selecting Values of Input Variables in the Analysis of Output From a Computer Code,2000.0,Michael D. McKay,Technometrics,False,1277.0
+https://openalex.org/W4389681626,63,0,Discontinuity Computing Using Physics-Informed Neural Networks,2023.0,Li Liu,Journal of Scientific Computing,True,1316.0
+https://openalex.org/W3162045419,62,0,Structural identification with physics-informed neural ordinary differential equations,2021.0,Zhilu Lai,Journal of Sound and Vibration,False,1350.0
+https://openalex.org/W4306982088,62,0,Physics-informed convolutional neural networks for temperature field prediction of heat source layout without labeled data,2022.0,Xiaoyu Zhao,Engineering Applications of Artificial Intelligence,True,1387.0
+https://openalex.org/W4313216545,62,0,A Physics-Informed Neural Network-based Topology Optimization (PINNTO) framework for structural optimization,2022.0,Hyogu Jeong,Engineering Structures,True,1436.0
+https://openalex.org/W4386857800,62,0,Physics-Informed Neural Networks for Solving Forward and Inverse Problems in Complex Beam Systems,2023.0,Taniya Kapoor,IEEE Transactions on Neural Networks and Learning Systems,True,1061.0
+https://openalex.org/W4213444041,62,0,Deep learning of inverse water waves problems using multi-fidelity data: Application to Serre–Green–Naghdi equations,2022.0,Ameya D. Jagtap,Ocean Engineering,True,1974.0
+https://openalex.org/W3197271163,62,0,Physics‐Informed Neural Network for Nonlinear Dynamics in Fiber Optics,2022.0,Xiaotian Jiang,Laser & Photonics Review,True,908.0
+https://openalex.org/W3207294759,62,0,Physics Informed Deep Learning for Flow and Transport in Porous Media,2021.0,Cedric G. Fraces,SPE Reservoir Simulation Conference,True,1185.0
+https://openalex.org/W2996028791,61,0,Deep learning predicts path-dependent plasticity,2019.0,Mojtaba Mozaffar,Proceedings of the National Academy of Sciences,False,1271.0
+https://openalex.org/W4229368245,60,0,Physics-informed attention-based neural network for hyperbolic partial differential equations: application to the Buckley–Leverett problem,2022.0,Ruben Rodriguez-Torrado,Scientific Reports,True,1120.0
+https://openalex.org/W4293198592,59,0,Physics Informed Neural Networks for Electromagnetic Analysis,2022.0,Arbaaz Khan,IEEE Transactions on Magnetics,True,936.0
+https://openalex.org/W3041133507,59,0,A Comprehensive Survey on Transfer Learning,2020.0,Fuzhen Zhuang,Proceedings of the IEEE,False,886.0
+https://openalex.org/W4387953130,58,0,NAS-PINN: Neural architecture search-guided physics-informed neural network for solving PDEs,2023.0,Yifan Wang,Journal of Computational Physics,True,1211.0
+https://openalex.org/W2978281981,57,0,"Integrating machine learning and multiscale modeling—perspectives, challenges, and opportunities in the biological, biomedical, and behavioral sciences",2019.0,Mark Alber,npj Digital Medicine,True,1035.0
+https://openalex.org/W4396821501,57,0,KAN: Kolmogorov-Arnold Networks,2024.0,Ziming Liu,arXiv (Cornell University),True,945.0
+https://openalex.org/W4381687077,57,0,PINN-FORM: A new physics-informed neural network for reliability analysis with partial differential equation,2023.0,Zeng Meng,Computer Methods in Applied Mechanics and Engineering,True,1107.0
+https://openalex.org/W4399840403,56,0,Multilevel domain decomposition-based architectures for physics-informed neural networks,2024.0,Victorita Dolean,Computer Methods in Applied Mechanics and Engineering,True,1438.0
+https://openalex.org/W3120780149,56,0,Hybrid FEM-NN models: Combining artificial neural networks with the finite element method,2021.0,Sebastian K. Mitusch,Journal of Computational Physics,True,1280.0
+https://openalex.org/W4311459430,56,0,Modeling finite-strain plasticity using physics-informed neural network and assessment of the network performance,2022.0,Sijun Niu,Journal of the Mechanics and Physics of Solids,True,1223.0
+https://openalex.org/W3195334072,54,0,A physics-informed deep learning method for solving direct and inverse heat conduction problems of materials,2021.0,Zhili He,Materials Today Communications,True,1143.0
+https://openalex.org/W4324044644,54,0,Deep learning-accelerated computational framework based on Physics Informed Neural Network for the solution of linear elasticity,2023.0,Arunabha Mohan Roy,Neural Networks,True,1274.0
+https://openalex.org/W3094438641,53,0,Physics‐Informed Neural Networks With Monotonicity Constraints for Richardson‐Richards Equation: Estimation of Constitutive Relationships and Soil Water Flux Density From Volumetric Water Content Measurements,2020.0,Toshiyuki Bandai,Water Resources Research,True,1086.0
+https://openalex.org/W3022923642,53,0,A deep learning framework for solution and discovery in solid mechanics,2020.0,Ehsan Haghighat,arXiv (Cornell University),True,1341.0
+https://openalex.org/W4385561992,52,0,Physics-informed radial basis network (PIRBN): A local approximating neural network for solving nonlinear partial differential equations,2023.0,Jinshuai Bai,Computer Methods in Applied Mechanics and Engineering,True,1332.0
+https://openalex.org/W4390086779,52,0,Physics-informed neural networks for heat transfer prediction in two-phase flows,2023.0,Darioush Jalili,International Journal of Heat and Mass Transfer,True,997.0
+https://openalex.org/W4322731021,52,0,Physics-Informed Neural Networks for Inverse Electromagnetic Problems,2023.0,Marco Baldan,IEEE Transactions on Magnetics,True,714.0
+https://openalex.org/W2767434619,51,0,GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks,2017.0,"Chen, Zhao",arXiv (Cornell University),False,1136.0
+https://openalex.org/W3084017095,51,0,Uncovering turbulent plasma dynamics via deep learning from partial observations,2021.0,Abhilash Mathews,Physical review. E,True,1258.0
+https://openalex.org/W3185491972,51,0,A novel meta-learning initialization method for physics-informed neural networks,2022.0,Xu Liu,Neural Computing and Applications,True,1375.0
+https://openalex.org/W3010749583,51,0,Deep Theory of Functional Connections: A New Method for Estimating the Solutions of Partial Differential Equations,2020.0,Carl Leake,Machine Learning and Knowledge Extraction,True,1291.0
+https://openalex.org/W3201253676,51,0,Explore missing flow dynamics by physics-informed deep learning: The parameterized governing systems,2021.0,Hui Xu,Physics of Fluids,True,1229.0
+https://openalex.org/W4365505884,51,0,Physics-informed deep learning for simultaneous surrogate modeling and PDE-constrained optimization of an airfoil geometry,2023.0,Yubiao Sun,Computer Methods in Applied Mechanics and Engineering,True,1088.0
+https://openalex.org/W4391591764,51,0,Challenges in Training PINNs: A Loss Landscape Perspective,2024.0,Pratik Rathore,arXiv (Cornell University),True,846.0
+https://openalex.org/W4221138924,51,0,A deep learning energy method for hyperelasticity and viscoelasticity,2022.0,Diab Abueidda,European Journal of Mechanics - A/Solids,True,1431.0
+https://openalex.org/W3028072861,50,0,Thermodynamics-based Artificial Neural Networks for constitutive modeling,2020.0,Filippo Masi,Journal of the Mechanics and Physics of Solids,False,912.0
+https://openalex.org/W2886802770,50,0,Physically informed artificial neural networks for atomistic modeling of materials,2019.0,G. P. Purja Pun,Nature Communications,True,920.0
+https://openalex.org/W2021041911,49,0,High-Re solutions for incompressible flow using the Navier-Stokes equations and a multigrid method,1982.0,Urmila Ghia,Journal of Computational Physics,False,1222.0
+https://openalex.org/W2162604832,49,0,A Closed‐form Equation for Predicting the Hydraulic Conductivity of Unsaturated Soils,1980.0,Martinus Th. van Genuchten,Soil Science Society of America Journal,False,791.0
+https://openalex.org/W3197719611,49,0,NH-PINN: Neural homogenization-based physics-informed neural network for multiscale problems,2022.0,Wing Tat Leung,Journal of Computational Physics,True,1182.0
+https://openalex.org/W4403069620,49,0,A comprehensive review of advances in physics-informed neural networks and their applications in complex fluid dynamics,2024.0,Chi Zhao,Physics of Fluids,True,1069.0
+https://openalex.org/W3200372603,49,0,"Spline-PINN: Approaching PDEs without Data Using Fast, Physics-Informed Hermite-Spline CNNs",2022.0,Nils Wandel,Proceedings of the AAAI Conference on Artificial Intelligence,True,1558.0
+https://openalex.org/W3026222427,49,0,"Systematic Construction of Neural Forms for Solving Partial Differential Equations Inside Rectangular Domains, Subject to Initial, Boundary and Interface Conditions",2020.0,Pola Lydia Lagari,International Journal of Artificial Intelligence Tools,True,1204.0
+https://openalex.org/W4296127673,49,0,Physics-Informed Neural Network Solution of Thermo–Hydro–Mechanical Processes in Porous Media,2022.0,Danial Amini,Journal of Engineering Mechanics,True,1293.0
+https://openalex.org/W3092020108,49,0,"Deep autoencoder based energy method for the bending, vibration, and buckling analysis of Kirchhoff plates with transfer learning",2021.0,Xiaoying Zhuang,European Journal of Mechanics - A/Solids,False,1044.0
+https://openalex.org/W4220937057,49,0,Physics-Informed Neural Networks for Brain Hemodynamic Predictions Using Medical Imaging,2022.0,Mohammad Sarabian,IEEE Transactions on Medical Imaging,True,634.0
+https://openalex.org/W3186083829,48,0,NeuralPDE: Automating Physics-Informed Neural Networks (PINNs) with Error Approximations,2021.0,Kirill Zubov,arXiv (Cornell University),True,1691.0
+https://openalex.org/W3193726109,48,0,A Physics-Informed Neural Network Approach to Solution and Identification of Biharmonic Equations of Elasticity,2021.0,M. Vahab,Journal of Engineering Mechanics,True,1306.0
+https://openalex.org/W4380184790,48,0,Enhanced physics-informed neural networks with Augmented Lagrangian relaxation method (AL-PINNs),2023.0,Hwijae Son,Neurocomputing,True,1289.0
+https://openalex.org/W3112778626,48,0,Theory-guided hard constraint projection (HCP): A knowledge-based data-driven scientific machine learning method,2021.0,Yuntian Chen,Journal of Computational Physics,True,1147.0
+https://openalex.org/W3084024723,48,0,Physics-Informed Neural Networks for Nonhomogeneous Material Identification in Elasticity Imaging,2020.0,Enrui Zhang,arXiv (Cornell University),True,1452.0
+https://openalex.org/W4387504329,48,0,VC-PINN: Variable coefficient physics-informed neural network for forward and inverse problems of PDEs with variable coefficient,2023.0,Zhengwu Miao,Physica D Nonlinear Phenomena,True,954.0
+https://openalex.org/W2576489192,48,0,2014 International Conference on Computational Science,2014.0,David Abramson,UvA-DARE (University of Amsterdam),False,1063.0
+https://openalex.org/W4387993277,48,0,Δ -PINNs: Physics-informed neural networks on complex geometries,2023.0,Francisco Sahli Costabal,Engineering Applications of Artificial Intelligence,True,1050.0
+https://openalex.org/W4382652314,47,0,Exact Dirichlet boundary Physics-informed Neural Network EPINN for solid mechanics,2023.0,Jiaji Wang,Computer Methods in Applied Mechanics and Engineering,True,934.0
+https://openalex.org/W3006087551,47,0,Informed Machine Learning - A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems,2021.0,Laura von Rueden,IEEE Transactions on Knowledge and Data Engineering,False,759.0
+https://openalex.org/W4281480322,47,0,Predicting high-fidelity multiphysics data from low-fidelity fluid flow and transport solvers using physics-informed neural networks,2022.0,Maryam Aliakbari,International Journal of Heat and Fluid Flow,True,1272.0
+https://openalex.org/W4281967127,47,0,Physics-informed neural networks and functional interpolation for stiff chemical kinetics,2022.0,Mario De Florio,Chaos An Interdisciplinary Journal of Nonlinear Science,True,926.0
+https://openalex.org/W2997588930,46,0,A Physics-Informed Neural Network Framework for PDEs on 3D Surfaces: Time Independent Problems,2019.0,Zhiwei Fang,IEEE Access,True,1128.0
+https://openalex.org/W3092172785,46,0,A tutorial on solving ordinary differential equations using Python and hybrid physics-informed neural network,2020.0,Renato Giorgiani do Nascimento,Engineering Applications of Artificial Intelligence,True,649.0
+https://openalex.org/W2942896733,46,0,A Deep Collocation Method for the Bending Analysis of Kirchhoff Plate,2019.0,Hongwei Guo,"Computers, materials & continua/Computers, materials & continua (Print)",True,895.0
+https://openalex.org/W4224285428,46,0,Physics-informed machine learning model for computational fracture of quasi-brittle materials without labelled data,2022.0,Bin Zheng,International Journal of Mechanical Sciences,True,1041.0
+https://openalex.org/W3129005144,46,0,A Maxwell's Equations Based Deep Learning Method for Time Domain Electromagnetic Simulations,2021.0,Pan Zhang,IEEE journal on multiscale and multiphysics computational techniques,False,567.0
+https://openalex.org/W4388509983,46,0,Mixed formulation of physics‐informed neural networks for thermo‐mechanically coupled systems and heterogeneous domains,2023.0,Ali Harandi,International Journal for Numerical Methods in Engineering,True,1098.0
+https://openalex.org/W3201579698,46,0,Physics-informed Neural Networks-based Model Predictive Control for Multi-link Manipulators,2022.0,Jonas Nicodemus,IFAC-PapersOnLine,True,518.0
+https://openalex.org/W4220910672,46,0,The application of improved physics-informed neural network (IPINN) method in finance,2022.0,Yuexing Bai,Nonlinear Dynamics,True,964.0
+https://openalex.org/W4391652323,46,0,NeuralUQ: A Comprehensive Library for Uncertainty Quantification in Neural Differential Equations and Operators,2024.0,Zongren Zou,SIAM Review,True,1204.0
+https://openalex.org/W2395579298,46,0,A survey of transfer learning,2016.0,Karl R. Weiss,Journal Of Big Data,False,592.0
+https://openalex.org/W4293569036,46,0,Forward and inverse modeling of water flow in unsaturated soils with discontinuous hydraulic conductivities using physics-informed neural networks with domain decomposition,2022.0,Toshiyuki Bandai,Hydrology and earth system sciences,True,1000.0
+https://openalex.org/W4404468356,45,0,Kolmogorov–Arnold-Informed neural network: A physics-informed deep learning framework for solving forward and inverse problems based on Kolmogorov–Arnold Networks,2024.0,Yizheng Wang,Computer Methods in Applied Mechanics and Engineering,True,1014.0
+https://openalex.org/W3139279894,45,0,Artificial intelligence velocimetry and microaneurysm-on-a-chip for three-dimensional analysis of blood flow in physiology and disease,2021.0,Shengze Cai,Proceedings of the National Academy of Sciences,True,1180.0
+https://openalex.org/W4386567964,45,0,A complete Physics-Informed Neural Network-based framework for structural topology optimization,2023.0,Hyogu Jeong,Computer Methods in Applied Mechanics and Engineering,True,1060.0
+https://openalex.org/W4206952684,45,0,A physics-informed deep convolutional neural network for simulating and predicting transient Darcy flows in heterogeneous reservoirs without labeled data,2022.0,Zhao Zhang,Journal of Petroleum Science and Engineering,True,1034.0
+https://openalex.org/W3086358797,44,0,A generic physics-informed neural network-based constitutive model for soft biological tissues,2020.0,Minliang Liu,Computer Methods in Applied Mechanics and Engineering,True,1172.0
+https://openalex.org/W4387189789,44,0,Hyper-parameter tuning of physics-informed neural networks: Application to Helmholtz problems,2023.0,Paul Escapil‐Inchauspé,Neurocomputing,True,712.0
+https://openalex.org/W4205142804,44,0,MaxwellNet: Physics-driven deep neural network training based on Maxwell's equations,2021.0,Joowon Lim,arXiv (Cornell University),False,519.0
+https://openalex.org/W4327519603,44,0,"HOW IMPORTANT ARE ACTIVATION FUNCTIONS IN REGRESSION AND CLASSIFICATION? A SURVEY, PERFORMANCE COMPARISON, AND FUTURE DIRECTIONS",2023.0,Ameya D. Jagtap,Journal of Machine Learning for Modeling and Computing,False,1192.0
+https://openalex.org/W2962933129,43,0,Visualizing the Loss Landscape of Neural Nets,2017.0,Hao Li,Repository for Publications and Research Data (ETH Zurich),False,797.0
+https://openalex.org/W4292443723,43,0,CENN: Conservative energy method based on neural networks with subdomains for solving variational problems involving heterogeneous and complex geometries,2022.0,Yizheng Wang,Computer Methods in Applied Mechanics and Engineering,True,1139.0
+https://openalex.org/W2944851425,43,0,A Review of Recurrent Neural Networks: LSTM Cells and Network Architectures,2019.0,Yong Yu,Neural Computation,False,617.0
+https://openalex.org/W4296407095,43,0,Dynamic Weight Strategy of Physics-Informed Neural Networks for the 2D Navier–Stokes Equations,2022.0,Shirong Li,Entropy,True,867.0
+https://openalex.org/W4309723652,43,0,Enhanced physics‐informed neural networks for hyperelasticity,2022.0,Diab Abueidda,International Journal for Numerical Methods in Engineering,True,1205.0
+https://openalex.org/W4317493021,43,0,A deep learning energy-based method for classical elastoplasticity,2023.0,Junyan He,International Journal of Plasticity,True,957.0
+https://openalex.org/W3023243091,42,0,Active training of physics-informed neural networks to aggregate and interpolate parametric solutions to the Navier-Stokes equations,2021.0,Christopher J. Arthurs,Journal of Computational Physics,True,931.0
+https://openalex.org/W4315782922,42,0,Hybrid thermal modeling of additive manufacturing processes using physics-informed neural networks for temperature prediction and parameter identification,2023.0,Shuheng Liao,Computational Mechanics,True,488.0
+https://openalex.org/W4391069710,42,0,Loss-attentional physics-informed neural networks,2024.0,Yanjie Song,Journal of Computational Physics,True,1349.0
+https://openalex.org/W4392620300,42,0,Correcting model misspecification in physics-informed neural networks (PINNs),2024.0,Zongren Zou,Journal of Computational Physics,True,856.0
+https://openalex.org/W3102100346,42,0,"A review of uncertainty quantification in deep learning: Techniques, applications and challenges",2021.0,Moloud Abdar,Information Fusion,False,781.0
+https://openalex.org/W4380738843,42,0,Adaptive transfer learning for PINN,2023.0,Yang Liu,Journal of Computational Physics,False,895.0
+https://openalex.org/W4320807042,42,0,A practical approach to flow field reconstruction with sparse or incomplete data through physics informed neural network,2022.0,Shengfeng Xu,Acta Mechanica Sinica,True,773.0
+https://openalex.org/W4229336057,41,0,Physics-informed data based neural networks for two-dimensional turbulence,2022.0,Vijay Kag,Physics of Fluids,True,1097.0
+https://openalex.org/W4283204116,41,0,Geometry aware physics informed neural network surrogate for solving Navier–Stokes equation (GAPINN),2022.0,Jan Oldenburg,Advanced Modeling and Simulation in Engineering Sciences,True,1053.0
+https://openalex.org/W3103559294,41,0,Physics-informed deep learning for one-dimensional consolidation,2020.0,Yared Worku Bekele,Journal of Rock Mechanics and Geotechnical Engineering,True,938.0
+https://openalex.org/W4221158608,41,0,Physics-informed neural networks with adaptive localized artificial viscosity,2023.0,Emilio J. R. Coutinho,Journal of Computational Physics,True,896.0
+https://openalex.org/W4308978381,41,0,Theory-guided physics-informed neural networks for boundary layer problems with singular perturbation,2022.0,Amirhossein Arzani,Journal of Computational Physics,True,767.0
+https://openalex.org/W4386591011,41,0,Physics-informed neural networks for studying heat transfer in porous media,2023.0,Jiaxuan Xu,International Journal of Heat and Mass Transfer,True,1108.0
+https://openalex.org/W3015421635,40,0,Physics-Informed Neural Networks for Non-linear System Identification for Power System Dynamics,2021.0,Jochen Stiasny,IEEE PowerTech Conference,False,569.0
+https://openalex.org/W3215365433,40,0,"Application of a mixed variable physics-informed neural network to solve the incompressible steady-state and transient mass, momentum, and energy conservation equations for flow over in-line heated tubes",2021.0,Ryno Laubscher,Applied Soft Computing,True,1004.0
+https://openalex.org/W4309726528,40,0,A transfer learning-physics informed neural network (TL-PINN) for vortex-induced vibration,2022.0,Hesheng Tang,Ocean Engineering,True,778.0
+https://openalex.org/W4312056925,40,0,Physics-informed neural networks combined with polynomial interpolation to solve nonlinear partial differential equations,2022.0,Siping Tang,Computers & Mathematics with Applications,True,944.0
+https://openalex.org/W3217086243,39,0,Identifiability and predictability of integer- and fractional-order epidemiological models using physics-informed neural networks,2021.0,Ehsan Kharazmi,Nature Computational Science,True,1022.0
+https://openalex.org/W1541162015,39,0,The Finite Element Method: its Basis and Fundamentals,2013.0,Olgierd Cecil Zienkiewicz,Elsevier eBooks,False,820.0
+https://openalex.org/W4289139828,39,0,Experience report of physics-informed neural networks in fluid simulations: pitfalls and frustration,2022.0,Pi-Yueh Chuang,Proceedings of the Python in Science Conferences,True,955.0
+https://openalex.org/W4397001969,39,0,A practical PINN framework for multi-scale problems with multi-magnitude loss terms,2024.0,Yong Wang,Journal of Computational Physics,True,918.0
+https://openalex.org/W4316926549,39,0,Recipes for when physics fails: recovering robust learning of physics informed neural networks,2023.0,Chandrajit Bajaj,Machine Learning Science and Technology,True,684.0
+https://openalex.org/W4281711890,39,0,GW-PINN: A deep learning algorithm for solving groundwater flow equations,2022.0,Xiaoping Zhang,Advances in Water Resources,True,989.0
+https://openalex.org/W4391930725,39,0,Multi-stage neural networks: Function approximator of machine precision,2024.0,Y. Wang,Journal of Computational Physics,True,922.0
+https://openalex.org/W3173192644,39,0,Solving Inverse Stochastic Problems from Discrete Particle Observations Using the Fokker--Planck Equation and Physics-Informed Neural Networks,2021.0,Xiaoli Chen,SIAM Journal on Scientific Computing,True,611.0
+https://openalex.org/W3084119156,39,0,Weak form theory-guided neural network (TgNN-wf) for deep learning of subsurface single- and two-phase flow,2021.0,Rui Xu,Journal of Computational Physics,True,879.0
+https://openalex.org/W3167256391,39,0,Learning functional priors and posteriors from data and physics,2022.0,Xuhui Meng,Journal of Computational Physics,True,1095.0
+https://openalex.org/W4200036085,39,0,Transfer learning for deep neural network-based partial differential equations solving,2021.0,Xinhai Chen,Advances in Aerodynamics,True,765.0
+https://openalex.org/W7133223635,39,0,Separable Physics-Informed Neural Networks,2023.0,Junwoo Cho,neural information processing systems,True,907.0
+https://openalex.org/W4308194133,39,0,Physics-Informed Neural Networks for shell structures,2022.0,Jan-Hendrik Bastek,European Journal of Mechanics - A/Solids,True,1191.0
+https://openalex.org/W3217738881,39,0,Physics informed neural networks for control oriented thermal modeling of buildings,2022.0,Gargya Gokhale,Applied Energy,True,395.0
+https://openalex.org/W4394871127,39,0,Physics-informed deep-learning applications to experimental fluid mechanics,2024.0,Hamidreza Eivazi,Measurement Science and Technology,True,610.0
+https://openalex.org/W2794284562,39,0,Deep Learning for Computer Vision: A Brief Review,2018.0,Athanasios S. Voulodimos,Computational Intelligence and Neuroscience,False,822.0
+https://openalex.org/W4312056741,38,0,Kolmogorov n–width and Lagrangian physics-informed neural networks: A causality-conforming manifold for convection-dominated PDEs,2022.0,Rambod Mojgani,Computer Methods in Applied Mechanics and Engineering,True,1173.0
+https://openalex.org/W2901694158,38,0,Deep learning of turbulent scalar mixing,2019.0,Maziar Raissi,Physical Review Fluids,False,1172.0
+https://openalex.org/W4379141442,38,0,Pre-training strategy for solving evolution equations based on physics-informed neural networks,2023.0,Jiawei Guo,Journal of Computational Physics,True,776.0
+https://openalex.org/W4205932592,38,0,3D temperature field prediction in direct energy deposition of metals using physics informed neural network,2022.0,Jibing Xie,The International Journal of Advanced Manufacturing Technology,True,455.0
+https://openalex.org/W3135266120,37,0,State–space modeling for control based on physics-informed neural networks,2021.0,Florian Arnold,Engineering Applications of Artificial Intelligence,True,632.0
+https://openalex.org/W3151003964,37,0,Conditional physics informed neural networks,2021.0,Alexander Kovacs,Communications in Nonlinear Science and Numerical Simulation,True,1238.0
+https://openalex.org/W3173233222,37,0,Multifidelity modeling for Physics-Informed Neural Networks (PINNs),2021.0,Michael Penwarden,Journal of Computational Physics,True,965.0
+https://openalex.org/W581347801,37,0,A First Course in the Numerical Analysis of Differential Equations,2008.0,Arieh Iserles,Cambridge University Press eBooks,False,685.0
+https://openalex.org/W4285226320,37,0,Physics-Informed Neural Networks for Solving Parametric Magnetostatic Problems,2022.0,Andrés Beltrán-Pulido,IEEE Transactions on Energy Conversion,True,593.0
+https://openalex.org/W4402938027,37,0,VW-PINNs: A volume weighting method for PDE residuals in physics-informed neural networks,2024.0,Jiahao Song,Acta Mechanica Sinica,True,963.0
+https://openalex.org/W3047333663,37,0,Physics-Informed Deep Neural Networks for Transient Electromagnetic Analysis,2020.0,Oameed Noakoasteen,IEEE Open Journal of Antennas and Propagation,True,604.0
+https://openalex.org/W3131163716,37,0,Spatiotemporal wind field prediction based on physics-informed deep learning and LIDAR measurements,2021.0,Jincheng Zhang,Applied Energy,True,451.0
+https://openalex.org/W3138646158,37,0,Teaching the incompressible Navier–Stokes equations to fast neural surrogate models in three dimensions,2021.0,Nils Wandel,Physics of Fluids,False,923.0
+https://openalex.org/W4388168443,37,0,Studying turbulent flows with physics-informed neural networks and sparse data,2023.0,Sean K. Hanrahan,International Journal of Heat and Fluid Flow,True,723.0
+https://openalex.org/W3205262385,37,0,One-Shot Transfer Learning of Physics-Informed Neural Networks,2021.0,Shaan A. Desai,arXiv (Cornell University),True,886.0
+https://openalex.org/W3082977546,36,0,Learning unknown physics of non-Newtonian fluids,2021.0,Brandon C Reyes,Physical Review Fluids,True,905.0
+https://openalex.org/W4401992148,36,0,"Understanding Physics-Informed Neural Networks: Techniques, Applications, Trends, and Challenges",2024.0,Amer Farea,AI,True,682.0
+https://openalex.org/W2032600630,36,0,CAPILLARY CONDUCTION OF LIQUIDS THROUGH POROUS MEDIUMS,1931.0,L. A. Richards,Physics,False,519.0
+https://openalex.org/W3007631929,36,0,Adaptive fourth-order phase field analysis using deep energy minimization,2020.0,Somdatta Goswami,Theoretical and Applied Fracture Mechanics,True,905.0
+https://openalex.org/W3115207133,36,0,Multi-fidelity Bayesian neural networks: Algorithms and applications,2021.0,Xuhui Meng,Journal of Computational Physics,False,931.0
+https://openalex.org/W3126053712,36,0,Inferring incompressible two-phase flow fields from the interface motion using physics-informed neural networks,2021.0,Aaron B. Buhendwa,Machine Learning with Applications,True,842.0
+https://openalex.org/W3086033911,36,0,Super-resolution and denoising of 4D-Flow MRI using physics-Informed deep neural nets,2020.0,Mojtaba F. Fathi,Computer Methods and Programs in Biomedicine,False,813.0
+https://openalex.org/W4205205982,36,0,Critical Investigation of Failure Modes in Physics-informed Neural Networks,2022.0,Shamsulhaq Basir,AIAA SciTech Forum,True,970.0
+https://openalex.org/W4293775970,36,0,Numerical Optimization,1999.0,Jorge M. Nocedal,Springer eBooks,False,666.0
+https://openalex.org/W4391505477,36,0,PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks,2024.0,Sifan Wang,arXiv (Cornell University),True,799.0
+https://openalex.org/W4382893215,36,0,Effective data sampling strategies and boundary condition constraints of physics-informed neural networks for identifying material properties in solid mechanics,2023.0,W. Wu,Applied Mathematics and Mechanics,True,874.0
+https://openalex.org/W4406366950,36,0,DeepOKAN: Deep operator network based on Kolmogorov Arnold networks for mechanics problems,2025.0,Diab Abueidda,Computer Methods in Applied Mechanics and Engineering,True,541.0
+https://openalex.org/W4321328685,36,0,Wavelets based physics informed neural networks to solve non-linear differential equations,2023.0,Ziya Uddin,Scientific Reports,True,597.0
+https://openalex.org/W4320039773,36,0,Physics‐Informed Neural Networks of the Saint‐Venant Equations for Downscaling a Large‐Scale River Model,2023.0,Dongyu Feng,Water Resources Research,True,527.0
+https://openalex.org/W4399840416,36,0,Interface PINNs (I-PINNs): A physics-informed neural networks framework for interface problems,2024.0,Antareep Kumar Sarma,Computer Methods in Applied Mechanics and Engineering,True,635.0
+https://openalex.org/W6600109629,35,0,,,,,False,693.0
+https://openalex.org/W3111308046,35,0,Estimating model inadequacy in ordinary differential equations with physics-informed neural networks,2020.0,Felipe Antonio Chegury Viana,Computers & Structures,True,767.0
+https://openalex.org/W3152689195,35,0,Physics-informed neural networks for rarefied-gas dynamics: Thermal creep flow in the Bhatnagar–Gross–Krook approximation,2021.0,Mario De Florio,Physics of Fluids,True,842.0
+https://openalex.org/W4385260981,35,0,PINNsFormer: A Transformer-Based Framework For Physics-Informed Neural Networks,2023.0,"Zhao, Zhiyuan",arXiv (Cornell University),True,856.0
+https://openalex.org/W4312053961,35,0,Active learning based sampling for high-dimensional nonlinear partial differential equations,2022.0,Wenhan Gao,Journal of Computational Physics,True,926.0
+https://openalex.org/W3202714406,35,0,Physics-informed neural networks for imaging and parameter retrieval of photonic nanostructures from near-field data,2022.0,Yuyao Chen,APL Photonics,True,738.0
+https://openalex.org/W3017305623,35,0,Driven by Data or Derived Through Physics? A Review of Hybrid Physics Guided Machine Learning Techniques With Cyber-Physical System (CPS) Focus,2020.0,Rahul Rai,IEEE Access,False,604.0
+https://openalex.org/W4318316085,35,0,Turbulence Modeling for Physics-Informed Neural Networks: Comparison of Different RANS Models for the Backward-Facing Step Flow,2023.0,Fabian Pioch,Fluids,True,713.0
+https://openalex.org/W4384207653,34,0,A Cusp-Capturing Pinn for Elliptic Interface Problems,2022.0,Yu-Hau Tseng,Journal of Computational Physics,True,830.0
+https://openalex.org/W2962949934,34,0,Recent advances in convolutional neural networks,2017.0,Jiuxiang Gu,Pattern Recognition,False,642.0
+https://openalex.org/W2946752227,34,0,Deep long short-term memory networks for nonlinear structural seismic response prediction,2019.0,Ruiyang Zhang,Computers & Structures,False,457.0
+https://openalex.org/W4214863413,34,0,A framework based on physics-informed neural networks and extreme learning for the analysis of composite structures,2022.0,Cheng Yan,Computers & Structures,True,1140.0
+https://openalex.org/W3168878243,34,0,Magnetostatics and micromagnetics with physics informed neural networks,2022.0,Alexander Kovacs,Journal of Magnetism and Magnetic Materials,True,804.0
+https://openalex.org/W4382405186,34,0,Inverse modeling of nonisothermal multiphase poromechanics using physics-informed neural networks,2023.0,Danial Amini,Journal of Computational Physics,True,930.0
+https://openalex.org/W4387171501,34,0,Adaptive Self-Supervision Algorithms for Physics-Informed Neural Networks,2023.0,Shashank Subramanian,Frontiers in artificial intelligence and applications,False,993.0
+https://openalex.org/W4387388072,34,0,GPT-PINN: Generative Pre-Trained Physics-Informed Neural Networks toward non-intrusive Meta-learning of parametric PDEs,2023.0,Yanlai Chen,Finite Elements in Analysis and Design,True,708.0
+https://openalex.org/W4392817028,34,0,wPINNs: Weak Physics Informed Neural Networks for Approximating Entropy Solutions of Hyperbolic Conservation Laws,2024.0,Tim De Ryck,SIAM Journal on Numerical Analysis,True,766.0
+https://openalex.org/W4318344220,34,0,A physics-informed neural network framework to predict 3D temperature field without labeled data in process of laser metal deposition,2023.0,Shilin Li,Engineering Applications of Artificial Intelligence,True,444.0
+https://openalex.org/W4313551293,34,0,"Physics-informed neural networks for data-driven simulation: Advantages, limitations, and opportunities",2022.0,Félix Fernández de la Mata,Physica A Statistical Mechanics and its Applications,True,520.0
+https://openalex.org/W4226282825,33,0,Temperature field inversion of heat-source systems via physics-informed neural networks,2022.0,Xü Liu,Engineering Applications of Artificial Intelligence,True,639.0
+https://openalex.org/W4315477618,33,0,A metalearning approach for Physics-Informed Neural Networks (PINNs): Application to parameterized PDEs,2023.0,Michael Penwarden,Journal of Computational Physics,True,938.0
+https://openalex.org/W4308033457,33,0,Physics-informed machine learning for reliability and systems safety applications: State of the art and challenges,2022.0,Yanwen Xu,Reliability Engineering & System Safety,False,365.0
+https://openalex.org/W4398164319,33,0,Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis,2024.0,Fujin Wang,Nature Communications,False,208.0
+https://openalex.org/W3008834654,33,0,Multiscale modeling meets machine learning: What can we learn?,2020.0,Grace C. Y. Peng,SUNY Digital Repository Support (State University of New York System),False,651.0
+https://openalex.org/W4366351147,33,0,Systems Biology: Identifiability Analysis and Parameter Identification via Systems-Biology-Informed Neural Networks,2023.0,Mitchell Daneker,Methods in molecular biology,False,828.0
+https://openalex.org/W4307296250,33,0,PI-VAE: Physics-Informed Variational Auto-Encoder for stochastic differential equations,2022.0,Weiheng Zhong,Computer Methods in Applied Mechanics and Engineering,True,593.0
+https://openalex.org/W4372319591,33,0,An Introduction to Programming Physics-Informed Neural Network-Based Computational Solid Mechanics,2023.0,Jinshuai Bai,International Journal of Computational Methods,True,775.0
+https://openalex.org/W4223440841,33,0,Normalizing field flows: Solving forward and inverse stochastic differential equations using physics-informed flow models,2022.0,Ling Guo,Journal of Computational Physics,True,649.0
+https://openalex.org/W4320711893,33,0,Enhanced surrogate modelling of heat conduction problems using physics-informed neural network framework,2023.0,Seyedalborz Manavi,International Communications in Heat and Mass Transfer,True,687.0
+https://openalex.org/W3180486861,33,0,Three-dimensional spatiotemporal wind field reconstruction based on physics-informed deep learning,2021.0,Jincheng Zhang,Applied Energy,True,353.0
+https://openalex.org/W4311910883,32,0,Enhancement of PIV measurements via physics-informed neural networks,2022.0,Gazi Hasanuzzaman,Measurement Science and Technology,True,645.0
+https://openalex.org/W4415796811,32,0,PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs,2024.0,Zhongkai Hao,neural information processing systems,True,771.0
+https://openalex.org/W4385128271,32,0,Practical uncertainty quantification for space-dependent inverse heat conduction problem via ensemble physics-informed neural networks,2023.0,Xinchao Jiang,International Communications in Heat and Mass Transfer,True,935.0
+https://openalex.org/W2998650708,32,0,SoftAdapt: Techniques for Adaptive Loss Weighting of Neural Networks with Multi-Part Loss Functions,2019.0,A. Ali Heydari,arXiv (Cornell University),False,588.0
+https://openalex.org/W3045938462,32,0,Deep‐Learning‐Based Inverse Modeling Approaches: A Subsurface Flow Example,2020.0,Nanzhe Wang,Journal of Geophysical Research Solid Earth,False,643.0
+https://openalex.org/W3117223116,32,0,A physics-informed deep learning paradigm for car-following models,2021.0,Zhaobin Mo,Transportation Research Part C Emerging Technologies,True,409.0
+https://openalex.org/W4385498228,32,0,Enforcing Dirichlet boundary conditions in physics-informed neural networks and variational physics-informed neural networks,2023.0,Stefano Berrone,Heliyon,True,958.0
+https://openalex.org/W3155397377,32,0,Personalising left-ventricular biophysical models of the heart using parametric physics-informed neural networks,2021.0,Stefano Buoso,Medical Image Analysis,True,511.0
+https://openalex.org/W3204849121,32,0,Deep learning based on PINN for solving 2 DOF vortex induced vibration of cylinder,2021.0,Chen Cheng,Ocean Engineering,True,510.0
+https://openalex.org/W3168141280,32,0,Physics-constrained deep learning for solving seepage equation,2021.0,Daolun Li,Journal of Petroleum Science and Engineering,True,616.0
+https://openalex.org/W4385383119,32,0,Physics-informed neural networks (PINNs) for 4D hemodynamics prediction: An investigation of optimal framework based on vascular morphology,2023.0,Xuelan Zhang,Computers in Biology and Medicine,True,577.0
+https://openalex.org/W4389263220,32,0,AT-PINN: Advanced time-marching physics-informed neural network for structural vibration analysis,2023.0,Zhaolin Chen,Thin-Walled Structures,True,547.0
+https://openalex.org/W4390176157,32,0,Physics-Informed Neural Networks with Periodic Activation Functions for Solute Transport in Heterogeneous Porous Media,2023.0,Salah Aldin Faroughi,Mathematics,True,848.0
+https://openalex.org/W3021027692,32,0,Physics-Informed Neural Networks for Missing Physics Estimation in Cumulative Damage Models: A Case Study in Corrosion Fatigue,2020.0,Arinan De Piemonte Dourado,Journal of Computing and Information Science in Engineering,True,582.0
+https://openalex.org/W1522301498,1196,1,Adam: A Method for Stochastic Optimization,2014.0,Diederik P. Kingma,arXiv (Cornell University),False,19735.0
+https://openalex.org/W2772097715,539,1,Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations,2017.0,Maziar Raissi,arXiv (Cornell University),True,8291.0
+https://openalex.org/W2970971581,498,1,"PyTorch: An Imperative Style, High-Performance Deep Learning Library",2019.0,Adam Paszke,arXiv (Cornell University),False,8228.0
+https://openalex.org/W2908541468,480,1,Physics-constrained deep learning for high-dimensional surrogate modeling and uncertainty quantification without labeled data,2019.0,Yinhao Zhu,Journal of Computational Physics,True,10569.0
+https://openalex.org/W2745110207,458,1,Hidden physics models: Machine learning of nonlinear partial differential equations,2017.0,Maziar Raissi,Journal of Computational Physics,True,8057.0
+https://openalex.org/W2239232218,446,1,Discovering governing equations from data by sparse identification of nonlinear dynamical systems,2016.0,Steven L. Brunton,Proceedings of the National Academy of Sciences,False,6720.0
+https://openalex.org/W2525748878,366,1,Data-driven discovery of partial differential equations,2017.0,Samuel Rudy,Science Advances,False,5974.0
+https://openalex.org/W2064675550,363,1,Long Short-Term Memory,1997.0,Sepp Hochreiter,Neural Computation,False,4508.0
+https://openalex.org/W2973119841,338,1,Machine Learning for Fluid Mechanics,2019.0,Steven L. Brunton,Annual Review of Fluid Mechanics,False,6334.0
+https://openalex.org/W2785024182,310,1,Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations,2018.0,Maziar Raissi,arXiv (Cornell University),True,6517.0
+https://openalex.org/W2402144811,261,1,TensorFlow: A system for large-scale machine learning,2016.0,Martı́n Abadi,arXiv (Cornell University),False,4683.0
+https://openalex.org/W2765872171,261,1,PDE-Net: Learning PDEs from Data,2017.0,Zichao Long,arXiv (Cornell University),True,5072.0
+https://openalex.org/W2903660960,253,1,PDE-Net 2.0: Learning PDEs from data with a numeric-symbolic hybrid deep network,2019.0,Zichao Long,Journal of Computational Physics,True,4786.0
+https://openalex.org/W1498436455,249,1,Learning representations by back-propagating errors,1986.0,David E. Rumelhart,Nature,False,3739.0
+https://openalex.org/W2534240011,247,1,Reynolds averaged turbulence modelling using deep neural networks with embedded invariance,2016.0,Julia Ling,Journal of Fluid Mechanics,False,4339.0
+https://openalex.org/W2573864470,206,1,Machine learning of linear differential equations using Gaussian processes,2017.0,Maziar Raissi,Journal of Computational Physics,False,3962.0
+https://openalex.org/W2891039272,196,1,Learning data-driven discretizations for partial differential equations,2019.0,Yohai Bar‐Sinai,Proceedings of the National Academy of Sciences,True,4263.0
+https://openalex.org/W2808746463,188,1,Neural Ordinary Differential Equations,2018.0,Ricky T. Q. Chen,arXiv (Cornell University),False,2716.0
+https://openalex.org/W2899771611,184,1,Automatic differentiation in PyTorch,2017.0,Adam Paszke,,False,3590.0
+https://openalex.org/W2795982117,170,1,Turbulence Modeling in the Age of Data,2018.0,Karthik Duraisamy,Annual Review of Fluid Mechanics,False,3113.0
+https://openalex.org/W2963755523,166,1,,,,,False,2531.0
+https://openalex.org/W2951392159,162,1,Modeling the dynamics of PDE systems with physics-constrained deep auto-regressive networks,2019.0,Nicholas Geneva,Journal of Computational Physics,True,4146.0
+https://openalex.org/W3003257820,158,1,SciPy 1.0: fundamental algorithms for scientific computing in Python,2020.0,Pauli Virtanen,Nature Methods,False,2184.0
+https://openalex.org/W2999026783,155,1,Universal Differential Equations for Scientific Machine Learning,2020.0,Christopher Rackauckas,Research Square,True,2392.0
+https://openalex.org/W2734256217,147,1,Theory-Guided Data Science: A New Paradigm for Scientific Discovery from Data,2017.0,Anuj Karpatne,IEEE Transactions on Knowledge and Data Engineering,False,1983.0
+https://openalex.org/W2777417212,147,1,Deep learning for universal linear embeddings of nonlinear dynamics,2018.0,Bethany Lusch,Nature Communications,False,2235.0
+https://openalex.org/W2605147767,143,1,Numerical Gaussian Processes for Time-Dependent and Nonlinear Partial Differential Equations,2018.0,Maziar Raissi,SIAM Journal on Scientific Computing,False,2799.0
+https://openalex.org/W2112796928,139,1,Gradient-based learning applied to document recognition,1998.0,Yann LeCun,Proceedings of the IEEE,False,2485.0
+https://openalex.org/W2766298346,137,1,Non-intrusive reduced order modeling of nonlinear problems using neural networks,2018.0,Jan S. Hesthaven,Journal of Computational Physics,True,2666.0
+https://openalex.org/W1979769287,132,1,Distilling Free-Form Natural Laws from Experimental Data,2009.0,Michael Schmidt,Science,False,2306.0
+https://openalex.org/W2573798107,124,1,Learning partial differential equations via data discovery and sparse optimization,2017.0,Hayden Schaeffer,Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences,False,1992.0
+https://openalex.org/W2986795381,115,1,Model reduction for nonlinear dynamical systems using deep convolutional autoencoders.,2023.0,Kookjin Lee,OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information),False,2048.0
+https://openalex.org/W2152896489,114,1,A Survey of Projection-Based Model Reduction Methods for Parametric Dynamical Systems,2015.0,Peter Benner,SIAM Review,False,2091.0
+https://openalex.org/W4212774754,113,1,Advances in neural information processing systems 7,1996.0,,Computers & Mathematics with Applications,False,1990.0
+https://openalex.org/W1583837637,111,1,Proceedings of the 24th international conference on Machine learning,2007.0,,,False,2198.0
+https://openalex.org/W3133294546,109,1,Physics-informed machine learning: case studies for weather and climate modelling,2021.0,Karthik Kashinath,Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences,True,1877.0
+https://openalex.org/W2271840356,108,1,TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems,2016.0,Martı́n Abadi,arXiv (Cornell University),False,1646.0
+https://openalex.org/W2594632285,106,1,Physics-informed machine learning approach for reconstructing Reynolds stress modeling discrepancies based on DNS data,2017.0,Jianxun Wang,Physical Review Fluids,True,2099.0
+https://openalex.org/W2014356541,105,1,Dynamic mode decomposition of numerical and experimental data,2010.0,Peter J. Schmid,Journal of Fluid Mechanics,False,1749.0
+https://openalex.org/W2585298970,104,1,Deep learning in fluid dynamics,2017.0,J. Nathan Kutz,Journal of Fluid Mechanics,False,1903.0
+https://openalex.org/W2786232134,103,1,Deep UQ: Learning deep neural network surrogate models for high dimensional uncertainty quantification,2018.0,Rohit K. Tripathy,Journal of Computational Physics,True,1907.0
+https://openalex.org/W3185585276,103,1,Integrating Scientific Knowledge with Machine Learning for Engineering and Environmental Systems,2022.0,Jared Willard,ACM Computing Surveys,False,1584.0
+https://openalex.org/W2902480423,102,1,Super-resolution reconstruction of turbulent flows with machine learning,2019.0,Kai Fukami,Journal of Fluid Mechanics,False,1621.0
+https://openalex.org/W2507348356,101,1,Inferring solutions of differential equations using noisy multi-fidelity data,2017.0,Maziar Raissi,Journal of Computational Physics,False,1994.0
+https://openalex.org/W2806765782,101,1,Data-Driven Identification of Parametric Partial Differential Equations,2019.0,Samuel Rudy,SIAM Journal on Applied Dynamical Systems,True,1665.0
+https://openalex.org/W2985630280,98,1,Deep Learning Methods for Reynolds-Averaged Navier–Stokes Simulations of Airfoil Flows,2019.0,Nils Thuerey,AIAA Journal,True,1697.0
+https://openalex.org/W2930380020,95,1,Data-driven discovery of coordinates and governing equations,2019.0,Kathleen P. Champion,Proceedings of the National Academy of Sciences,False,1524.0
+https://openalex.org/W2913323966,94,1,Deep learning and process understanding for data-driven Earth system science,2019.0,Markus Reichstein,Nature,False,1244.0
+https://openalex.org/W2133665775,93,1,Image quality assessment: from error visibility to structural similarity,2004.0,Zhou Wang,IEEE Transactions on Image Processing,False,800.0
+https://openalex.org/W2904260561,90,1,Physics-informed machine learning approach for augmenting turbulence models: A comprehensive framework,2018.0,Jin-Long Wu,Physical Review Fluids,False,1629.0
+https://openalex.org/W2915854813,89,1,Workshop Report on Basic Research Needs for Scientific Machine Learning: Core Technologies for Artificial Intelligence,2019.0,Nathan Baker,,False,1676.0
+https://openalex.org/W2133041109,88,1,Certified Reduced Basis Methods for Parametrized Partial Differential Equations,2015.0,Jan S. Hesthaven,SpringerBriefs in mathematics,False,1509.0
+https://openalex.org/W2112823474,87,1,The Proper Orthogonal Decomposition in the Analysis of Turbulent Flows,1993.0,Gal Berkooz,Annual Review of Fluid Mechanics,False,1530.0
+https://openalex.org/W4236965008,86,1,Proceedings of IEEE Conference on Computer Vision and Pattern Recognition,1993.0,,,False,1461.0
+https://openalex.org/W3000293971,85,1,A Comprehensive Deep Learning-Based Approach to Reduced Order Modeling of Nonlinear Time-Dependent Parametrized PDEs,2021.0,Stefania Fresca,Journal of Scientific Computing,True,1409.0
+https://openalex.org/W2805869290,83,1,Deep Fluids: A Generative Network for Parameterized Fluid Simulations,2019.0,Byungsoo Kim,Computer Graphics Forum,False,1602.0
+https://openalex.org/W2095705004,83,1,Dropout: a simple way to prevent neural networks from overfitting,2014.0,Nitish Srivastava,,False,1213.0
+https://openalex.org/W2149498546,83,1,Inverse problems: A Bayesian perspective,2010.0,Andrew M. Stuart,Acta Numerica,False,1397.0
+https://openalex.org/W1485009520,83,1,Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting,2015.0,Xingjian Shi,arXiv (Cornell University),False,1246.0
+https://openalex.org/W2093828424,82,1,Automated reverse engineering of nonlinear dynamical systems,2007.0,Josh Bongard,Proceedings of the National Academy of Sciences,False,1485.0
+https://openalex.org/W2889523591,79,1,Data-driven discovery of PDEs in complex datasets,2019.0,Jens Berg,Journal of Computational Physics,True,1459.0
+https://openalex.org/W4211049957,79,1,,,,,False,1244.0
+https://openalex.org/W2157331557,79,1,Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation,2014.0,Kyunghyun Cho,Conference on Empirical Methods in Natural Language Processing (EMNLP),False,1109.0
+https://openalex.org/W4286909924,79,1,Enhancing computational fluid dynamics with machine learning,2022.0,Ricardo Vinuesa,Nature Computational Science,False,1540.0
+https://openalex.org/W3096831136,76,1,Generative adversarial networks,2020.0,Ian Goodfellow,Communications of the ACM,False,1303.0
+https://openalex.org/W2980396542,75,1,Data-driven deep learning of partial differential equations in modal space,2020.0,Kailiang Wu,Journal of Computational Physics,True,1489.0
+https://openalex.org/W3137611682,75,1,Physics-informed machine learning for reduced-order modeling of nonlinear problems,2021.0,Wenqian Chen,Journal of Computational Physics,True,1606.0
+https://openalex.org/W2049753327,74,1,Nonlinear Model Reduction via Discrete Empirical Interpolation,2010.0,Saifon Chaturantabut,SIAM Journal on Scientific Computing,False,1312.0
+https://openalex.org/W2501995758,74,1,Accelerating Eulerian Fluid Simulation With Convolutional Networks,2016.0,Jonathan Tompson,arXiv (Cornell University),False,1462.0
+https://openalex.org/W2101234009,72,1,Scikit-learn: Machine Learning in Python,2012.0,Fabián Pedregosa,ORBi (University of Liège),False,738.0
+https://openalex.org/W2767286248,71,1,Searching for Activation Functions,2017.0,Prajit Ramachandran,arXiv (Cornell University),False,1313.0
+https://openalex.org/W1512208174,71,1,Inverse Problem Theory and Methods for Model Parameter Estimation,2005.0,Albert Tarantola,Society for Industrial and Applied Mathematics eBooks,False,871.0
+https://openalex.org/W2612690371,68,1,Advances in Neural Information Processing Systems 29,2016.0,Onur Teymur,,False,1151.0
+https://openalex.org/W1856502440,66,1,Bayesian Numerical Homogenization,2015.0,Houman Owhadi,Multiscale Modeling and Simulation,False,1657.0
+https://openalex.org/W1981276685,65,1,Advances in neural information processing systems 7,1997.0,Krzysztof J. Cios,Neurocomputing,False,872.0
+https://openalex.org/W2295099209,65,1,Reduced Basis Methods for Partial Differential Equations: An Introduction,2015.0,Alfio Maria Quarteroni,,False,1179.0
+https://openalex.org/W2885696722,64,1,Learning Parameters and Constitutive Relationships with Physics Informed Deep Neural Networks,2018.0,Alexandre M. Tartakovsky,arXiv (Cornell University),True,1437.0
+https://openalex.org/W2027355161,64,1,Spectral and finite difference solutions of the Burgers equation,1986.0,C. Basdevant,Computers & Fluids,False,1205.0
+https://openalex.org/W1959608418,64,1,Auto-Encoding Variational Bayes,2013.0,Diederik P. Kingma,UvA-DARE (University of Amsterdam),False,919.0
+https://openalex.org/W2948680363,64,1,Hamiltonian Neural Networks,2019.0,Sam Greydanus,arXiv (Cornell University),False,845.0
+https://openalex.org/W2951629468,63,1,Data driven governing equations approximation using deep neural networks,2019.0,Tong Qin,Journal of Computational Physics,False,1040.0
+https://openalex.org/W2947630964,63,1,AI Feynman: A physics-inspired method for symbolic regression,2020.0,Silviu‐Marian Udrescu,Science Advances,False,956.0
+https://openalex.org/W2135046866,62,1,Regression Shrinkage and Selection Via the Lasso,1996.0,Robert John Tibshirani,Journal of the Royal Statistical Society Series B (Statistical Methodology),False,1005.0
+https://openalex.org/W2302255633,61,1,Identity Mappings in Deep Residual Networks,2016.0,Kaiming He,Lecture notes in computer science,False,1315.0
+https://openalex.org/W1901616594,61,1,"Machine learning: Trends, perspectives, and prospects",2015.0,Michael I. Jordan,Science,False,785.0
+https://openalex.org/W2141394518,60,1,Deterministic Nonperiodic Flow,1963.0,Edward N. Lorenz,Journal of the Atmospheric Sciences,False,803.0
+https://openalex.org/W3123208564,58,1,POD-DL-ROM: Enhancing deep learning-based reduced order models for nonlinear parametrized PDEs by proper orthogonal decomposition,2021.0,Stefania Fresca,Computer Methods in Applied Mechanics and Engineering,True,1097.0
+https://openalex.org/W3212629973,57,1,A fast and accurate physics-informed neural network reduced order model with shallow masked autoencoder,2021.0,Youngkyu Kim,Journal of Computational Physics,True,1222.0
+https://openalex.org/W1591018827,57,1,A Data–Driven Approximation of the Koopman Operator: Extending Dynamic Mode Decomposition,2015.0,Matthew O. Williams,Journal of Nonlinear Science,False,889.0
+https://openalex.org/W2018159038,56,1,The Wiener--Askey Polynomial Chaos for Stochastic Differential Equations,2002.0,Dongbin Xiu,SIAM Journal on Scientific Computing,False,1002.0
+https://openalex.org/W4302369407,56,1,Physics-guided Neural Networks (PGNN): An Application in Lake Temperature Modeling,2017.0,Arka Daw,arXiv (Cornell University),True,736.0
+https://openalex.org/W2766291668,56,1,Physics-Guided Neural Networks (PGNN): An Application in Lake Temperature Modeling,2022.0,Arka Daw,Chapman & Hall/CRC eBooks,False,652.0
+https://openalex.org/W2100495367,55,1,Reducing the Dimensionality of Data with Neural Networks,2006.0,Geoffrey E. Hinton,Science,False,764.0
+https://openalex.org/W2619381903,55,1,DifferentialEquations.jl – A Performant and Feature-Rich Ecosystem for Solving Differential Equations in Julia,2017.0,Christopher Rackauckas,Journal of Open Research Software,False,714.0
+https://openalex.org/W1972005403,54,1,Identification of distributed parameter systems: A neural net based approach,1998.0,Raúl González‐García,Computers & Chemical Engineering,False,866.0
+https://openalex.org/W3004360475,54,1,Reduced-order modeling of advection-dominated systems with recurrent neural networks and convolutional autoencoders,2021.0,Romit Maulik,Physics of Fluids,True,1051.0
+https://openalex.org/W2809491586,54,1,Non-intrusive reduced order modeling of unsteady flows using artificial neural networks with application to a combustion problem,2019.0,Qian Wang,Journal of Computational Physics,False,965.0
+https://openalex.org/W3008005432,54,1,Lift & Learn: Physics-informed machine learning for large-scale nonlinear dynamical systems,2020.0,Elizabeth Qian,Physica D Nonlinear Phenomena,True,1163.0
+https://openalex.org/W582134693,53,1,Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning,2015.0,Yarin Gal,arXiv (Cornell University),False,688.0
+https://openalex.org/W2552465644,53,1,Image-to-Image Translation with Conditional Adversarial Networks,2017.0,Phillip Isola,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,False,654.0
+https://openalex.org/W2261676784,53,1,Data-driven computational mechanics,2016.0,Trenton Kirchdoerfer,Computer Methods in Applied Mechanics and Engineering,False,996.0
+https://openalex.org/W1997054581,53,1,Hamiltonian Systems and Transformation in Hilbert Space,1931.0,Bernard Osgood Koopman,Proceedings of the National Academy of Sciences,False,835.0
+https://openalex.org/W3005641041,53,1,Deep learning methods for super-resolution reconstruction of turbulent flows,2020.0,Bo Liu,Physics of Fluids,False,909.0
+https://openalex.org/W1057021034,52,1,A Mathematical Model Illustrating the Theory of Turbulence,1948.0,J. M. Burgers,Advances in applied mechanics,False,798.0
+https://openalex.org/W2604272474,52,1,Advances in Neural Information Processing Systems 25,2012.0,Yichuan Zhang,,False,926.0
+https://openalex.org/W2559655401,52,1,,,,,False,966.0
+https://openalex.org/W2770705252,52,1,Deep learning for physical processes: incorporating prior scientific knowledge*,2019.0,Emmanuel de Bézenac,Journal of Statistical Mechanics Theory and Experiment,False,831.0
+https://openalex.org/W2332297685,52,1,Data-driven operator inference for nonintrusive projection-based model reduction,2016.0,Benjamin Peherstorfer,Computer Methods in Applied Mechanics and Engineering,False,1091.0
+https://openalex.org/W2120575449,52,1,Julia: A Fresh Approach to Numerical Computing,2017.0,Jeff Bezanson,SIAM Review,False,636.0
+https://openalex.org/W2937653888,51,1,DeepMoD: Deep learning for model discovery in noisy data,2020.0,Gert‐Jan Both,Journal of Computational Physics,False,866.0
+https://openalex.org/W4320013936,50,1,Generative Adversarial Nets,2023.0,Raphael Labaca-Castro,Springer eBooks,False,1168.0
+https://openalex.org/W2946771678,50,1,Fast flow field prediction over airfoils using deep learning approach,2019.0,Vinothkumar Sekar,Physics of Fluids,False,1058.0
+https://openalex.org/W2782714865,50,1,Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach,2018.0,Jaideep Pathak,Physical Review Letters,False,695.0
+https://openalex.org/W2047591100,49,1,An ‘empirical interpolation’ method: application to efficient reduced-basis discretization of partial differential equations,2004.0,Maxime Barrault,Comptes Rendus Mathématique,False,1027.0
+https://openalex.org/W2110418811,49,1,A paradigm for data-driven predictive modeling using field inversion and machine learning,2015.0,Eric Parish,Journal of Computational Physics,False,739.0
+https://openalex.org/W2807826281,48,1,Deep neural networks for data-driven LES closure models,2019.0,Andrea Beck,Journal of Computational Physics,False,1222.0
+https://openalex.org/W3017770080,47,1,Machine-learning-based spatio-temporal super resolution reconstruction of turbulent flows,2020.0,Kai Fukami,Journal of Fluid Mechanics,False,901.0
+https://openalex.org/W3082908155,46,1,DPM: A deep learning PDE augmentation method with application to large-eddy simulation,2020.0,Justin A. Sirignano,Journal of Computational Physics,True,779.0
+https://openalex.org/W2225156818,45,1,Variational Inference: A Review for Statisticians,2017.0,David M. Blei,Journal of the American Statistical Association,False,534.0
+https://openalex.org/W2574952845,45,1,Deep Convolutional Neural Network for Inverse Problems in Imaging,2017.0,Kyong Hwan Jin,IEEE Transactions on Image Processing,False,622.0
+https://openalex.org/W2144144709,44,1,A family of embedded Runge-Kutta formulae,1980.0,John R. Dormand,Journal of Computational and Applied Mathematics,False,550.0
+https://openalex.org/W2076110561,44,1,Neural Network Modeling for Near Wall Turbulent Flow,2002.0,Michele Milano,Journal of Computational Physics,False,818.0
+https://openalex.org/W2110187357,44,1,A tensorial approach to computational continuum mechanics using object-oriented techniques,1998.0,Henry G. Weller,Computers in Physics,False,497.0
+https://openalex.org/W3010993481,44,1,Integrating Physics-Based Modeling with Machine Learning: A Survey,2020.0,Jared Willard,,False,692.0
+https://openalex.org/W1633869374,44,1,Turbulence and the dynamics of coherent structures. I. Coherent structures,1987.0,Lawrence Sirovich,Quarterly of Applied Mathematics,False,667.0
+https://openalex.org/W2964199361,44,1,On the Properties of Neural Machine Translation: Encoder–Decoder Approaches,2014.0,Kyunghyun Cho,,False,438.0
+https://openalex.org/W1665214252,44,1,Rectified Linear Units Improve Restricted Boltzmann Machines,2010.0,Vinod B Nair,International Conference on Machine Learning,False,730.0
+https://openalex.org/W3002919193,44,1,DLGA-PDE: Discovery of PDEs with incomplete candidate library via combination of deep learning and genetic algorithm,2020.0,Hao Jun Xu,Journal of Computational Physics,True,707.0
+https://openalex.org/W2147800946,44,1,Backpropagation Applied to Handwritten Zip Code Recognition,1989.0,Yann LeCun,Neural Computation,False,558.0
+https://openalex.org/W2788403524,43,1,Data-driven forecasting of high-dimensional chaotic systems with long short-term memory networks,2018.0,Pantelis  Rafail Vlachas,Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences,False,780.0
+https://openalex.org/W3105919389,42,1,Data-driven forecasting of high-dimensional chaotic systems with long short-term memory networks,2018.0,Pantelis  Rafail Vlachas,DSpace@MIT (Massachusetts Institute of Technology),False,768.0
+https://openalex.org/W2963470893,42,1,Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network,2017.0,Christian Ledig,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,False,501.0
+https://openalex.org/W2811395263,42,1,"Survey of Multifidelity Methods in Uncertainty Propagation, Inference, and Optimization",2018.0,Benjamin Peherstorfer,SIAM Review,False,773.0
+https://openalex.org/W2968873109,42,1,DL-PDE: Deep-Learning Based Data-Driven Discovery of Partial Differential Equations from Discrete and Noisy Data,2021.0,Hao Xu,Communications in Computational Physics,True,707.0
+https://openalex.org/W1538934584,42,1,Stochastic Finite Elements: A Spectral Approach,1991.0,Roger Ghanem,Springer eBooks,False,702.0
+https://openalex.org/W2987245967,42,1,Nonlinear mode decomposition with convolutional neural networks for fluid dynamics,2019.0,Takaaki Murata,Journal of Fluid Mechanics,False,738.0
+https://openalex.org/W3022973855,42,1,Learning constitutive relations from indirect observations using deep neural networks,2020.0,Daniel Zhengyu Huang,Journal of Computational Physics,False,871.0
+https://openalex.org/W2911964244,42,1,Random Forests,2001.0,Leo Breiman,Machine Learning,False,391.0
+https://openalex.org/W2976269899,41,1,"Data-driven science and engineering: machine learning, dynamical systems, and control",2019.0,Thomas Peters,Contemporary Physics,False,749.0
+https://openalex.org/W2039150507,41,1,Efficient Implementation of Weighted ENO Schemes,1996.0,Guang-Shan Jiang,Journal of Computational Physics,False,513.0
+https://openalex.org/W1746819321,41,1,Gaussian Processes for Machine Learning,2005.0,Carl Edward Rasmussen,The MIT Press eBooks,False,693.0
+https://openalex.org/W2884430236,41,1,Machine learning for molecular and materials science,2018.0,Keith T. Butler,Nature,False,830.0
+https://openalex.org/W2801938748,41,1,Prediction model of velocity field around circular cylinder over various Reynolds numbers by fusion convolutional neural networks based on pressure on the cylinder,2018.0,Xiaowei Jin,Physics of Fluids,False,619.0
+https://openalex.org/W2130942839,41,1,Sequence to Sequence Learning with Neural Networks,2014.0,Ilya Sutskever,arXiv (Cornell University),False,680.0
+https://openalex.org/W3012294986,41,1,Lagrangian Neural Networks,2020.0,Miles Cranmer,arXiv (Cornell University),False,662.0
+https://openalex.org/W2131908956,41,1,DIRECT NUMERICAL SIMULATION: A Tool in Turbulence Research,1998.0,Parviz Moin,Annual Review of Fluid Mechanics,False,610.0
+https://openalex.org/W2885469054,41,1,Data-driven reduced order modeling for time-dependent problems,2018.0,Mengwu Guo,Computer Methods in Applied Mechanics and Engineering,False,865.0
+https://openalex.org/W2782210340,40,1,Multistep Neural Networks for Data-driven Discovery of Nonlinear Dynamical Systems,2018.0,Maziar Raissi,arXiv (Cornell University),False,691.0
+https://openalex.org/W3015176898,40,1,Learning constitutive relations using symmetric positive definite neural networks,2021.0,Kailai Xu,Journal of Computational Physics,False,657.0
+https://openalex.org/W3215447930,40,1,"Ensemble-SINDy: Robust sparse model discovery in the low-data, high-noise limit, with active learning and control",2022.0,Urban Fasel,Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences,False,705.0
+https://openalex.org/W2887432454,40,1,Subgrid modelling for two-dimensional turbulence using neural networks,2018.0,R. Maulik,Journal of Fluid Mechanics,False,1052.0
+https://openalex.org/W1973333099,40,1,Bayesian Calibration of Computer Models,2001.0,Marc C. Kennedy,Journal of the Royal Statistical Society Series B (Statistical Methodology),False,613.0
+https://openalex.org/W2509002083,40,1,Machine-Learning-Augmented Predictive Modeling of Turbulent Separated Flows over Airfoils,2017.0,Anand Pratap Singh,AIAA Journal,False,727.0
+https://openalex.org/W2131241448,39,1,Practical Bayesian Optimization of Machine Learning Algorithms,2012.0,Jasper Snoek,arXiv (Cornell University),False,566.0
+https://openalex.org/W2966419255,39,1,Machine learning for fast and reliable solution of time-dependent differential equations,2019.0,Francesco Regazzoni,Journal of Computational Physics,True,722.0
+https://openalex.org/W3198653666,39,1,Solving and learning nonlinear PDEs with Gaussian processes,2021.0,Yifan Chen,Journal of Computational Physics,False,960.0
+https://openalex.org/W2788823228,39,1,Latent Space Physics: Towards Learning the Temporal Evolution of Fluid Flow,2019.0,Steffen Wiewel,Computer Graphics Forum,False,814.0
+https://openalex.org/W2176412452,39,1,Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs),2015.0,Djork-Arné Clevert,arXiv (Cornell University),False,665.0
+https://openalex.org/W2345737627,39,1,Machine learning strategies for systems with invariance properties,2016.0,Julia Ling,Journal of Computational Physics,False,678.0
+https://openalex.org/W2971940059,38,1,Enforcing Analytic Constraints in Neural Networks Emulating Physical Systems,2021.0,Tom Beucler,Physical Review Letters,False,641.0
+https://openalex.org/W2478429860,38,1,Evaluating Derivatives,2008.0,Andreas Griewank,Society for Industrial and Applied Mathematics eBooks,False,663.0
+https://openalex.org/W3151107810,38,1,Stiff neural ordinary differential equations,2021.0,Suyong Kim,Chaos An Interdisciplinary Journal of Nonlinear Science,False,499.0
+https://openalex.org/W2885397520,38,1,Projection-based model reduction: Formulations for physics-based machine learning,2018.0,Renee Swischuk,Computers & Fluids,False,761.0
+https://openalex.org/W3040454512,38,1,Weak SINDy for partial differential equations,2021.0,Daniel A. Messenger,Journal of Computational Physics,False,641.0
+https://openalex.org/W3160258528,38,1,Physics-Guided Machine Learning for Scientific Discovery: An Application in Simulating Lake Temperature Profiles,2021.0,Xiaowei Jia,ACM/IMS Transactions on Data Science,False,447.0
+https://openalex.org/W2772709428,38,1,Reduced order modeling for nonlinear structural analysis using Gaussian process regression,2018.0,Mengwu Guo,Computer Methods in Applied Mechanics and Engineering,False,810.0
+https://openalex.org/W2981246174,37,1,Perspective on machine learning for advancing fluid mechanics,2019.0,Michael P. Brenner,Physical Review Fluids,False,637.0
+https://openalex.org/W2041001120,37,1,A microscopic theory for antiphase boundary motion and its application to antiphase domain coarsening,1979.0,Samuel M. Allen,Acta Metallurgica,False,739.0
+https://openalex.org/W2046528357,37,1,Free Energy of a Nonuniform System. I. Interfacial Free Energy,1958.0,John W. Cahn,The Journal of Chemical Physics,False,621.0
+https://openalex.org/W3168972368,37,1,A Physics-Informed Deep Learning Paradigm for Traffic State and Fundamental Diagram Estimation,2021.0,Rongye Shi,IEEE Transactions on Intelligent Transportation Systems,False,294.0
+https://openalex.org/W2808559252,37,1,Deep learning to represent subgrid processes in climate models,2018.0,Stephan Rasp,Proceedings of the National Academy of Sciences,False,600.0
+https://openalex.org/W2914874661,36,1,Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,2016.0,,,False,663.0
+https://openalex.org/W4214717370,36,1,Reinforcement Learning: An Introduction,1998.0,Richard S. Sutton,IEEE Transactions on Neural Networks,False,384.0
+https://openalex.org/W3200388227,36,1,Hamiltonian neural networks for solving equations of motion,2022.0,Marios Mattheakis,Physical review. E,False,351.0
+https://openalex.org/W2038669746,35,1,A Comparison of Three Methods for Selecting Values of Input Variables in the Analysis of Output from a Computer Code,2000.0,Michael D. McKay,Technometrics,False,551.0
+https://openalex.org/W2746363015,35,1,Learning Deep Neural Network Representations for Koopman Operators of Nonlinear Dynamical Systems,2019.0,Enoch Yeung,Proceedings of the ... American Control Conference/Proceedings of the American Control Conference,False,507.0
+https://openalex.org/W2768748954,35,1,Sparse identification of nonlinear dynamics for model predictive control in the low-data limit,2018.0,Eurika Kaiser,Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences,False,535.0
+https://openalex.org/W2105934661,35,1,A New Approach to Linear Filtering and Prediction Problems,1960.0,Rudolf E. Kalman,Journal of Basic Engineering,False,338.0
+https://openalex.org/W3105245152,35,1,Subgrid modelling for two-dimensional turbulence using neural networks,2019.0,Romit Maulik,NORA - Norwegian Open Research Archives,False,905.0
+https://openalex.org/W2295598076,35,1,XGBoost,2016.0,Tianqi Chen,ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD),False,341.0
+https://openalex.org/W1885185971,35,1,Image Super-Resolution Using Deep Convolutional Networks,2015.0,Chao Dong,IEEE Transactions on Pattern Analysis and Machine Intelligence,False,364.0
+https://openalex.org/W2963448313,35,1,Modal Analysis of Fluid Flows: An Overview,2017.0,Kunihiko Taira,AIAA Journal,False,690.0
+https://openalex.org/W2604763608,34,1,Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks,2017.0,Chelsea Finn,arXiv (Cornell University),False,636.0
+https://openalex.org/W2605135824,34,1,Improved Training of Wasserstein GANs,2017.0,Ishaan Gulrajani,arXiv (Cornell University),False,471.0
+https://openalex.org/W2998104826,34,1,Multi-level convolutional autoencoder networks for parametric prediction of spatio-temporal dynamics,2020.0,Jiayang Xu,Computer Methods in Applied Mechanics and Engineering,False,639.0
+https://openalex.org/W1976068300,34,1,DISCRETE- vs. CONTINUOUS-TIME NONLINEAR SIGNAL PROCESSING OF Cu ELECTRODISSOLUTION DATA,1992.0,Ramiro Rico-Martı́nez,Chemical Engineering Communications,False,568.0
+https://openalex.org/W2951279763,34,1,Predictions of turbulent shear flows using deep neural networks,2019.0,Prem A. Srinivasan,Physical Review Fluids,False,588.0
+https://openalex.org/W2982585804,34,1,Physics Guided RNNs for Modeling Dynamical Systems: A Case Study in Simulating Lake Temperature Profiles,2019.0,Xiaowei Jia,Society for Industrial and Applied Mathematics eBooks,True,530.0
+https://openalex.org/W3025593802,34,1,Deep-learning of parametric partial differential equations from sparse and noisy data,2021.0,Hao Jun Xu,Physics of Fluids,True,738.0
+https://openalex.org/W3122043357,34,1,Using physics-informed enhanced super-resolution generative adversarial networks for subfilter modeling in turbulent reactive flows,2021.0,Mathis Bode,Proceedings of the Combustion Institute,True,531.0
+https://openalex.org/W2164954534,34,1,Spectral analysis of nonlinear flows,2009.0,Clarence W. Rowley,Journal of Fluid Mechanics,False,778.0
+https://openalex.org/W4383955976,34,1,Differentiable modelling to unify machine learning and physical models for geosciences,2023.0,Chaopeng Shen,Nature Reviews Earth & Environment,True,322.0
+https://openalex.org/W2796910131,34,1,Data-driven prediction of unsteady flow over a circular cylinder using deep learning,2019.0,Sangseung Lee,Journal of Fluid Mechanics,False,616.0
+https://openalex.org/W2099471712,33,1,GAN（Generative Adversarial Nets）,2017.0,柴田 淳司,Journal of Japan Society for Fuzzy Theory and Intelligent Informatics,False,506.0
+https://openalex.org/W1564524050,33,1,Computer Methods in Applied Mechanics and Engineering,1990.0,John Argyris,Applied Mechanics and Engineering,False,526.0
+https://openalex.org/W2923222994,33,1,Machine learning for data-driven discovery in solid Earth geoscience,2019.0,Karianne J. Bergen,Science,False,582.0
+https://openalex.org/W2788766513,33,1,A multiscale multi-permeability poroplasticity model linked by recursive homogenizations and deep learning,2018.0,Kun Wang,Computer Methods in Applied Mechanics and Engineering,False,674.0
+https://openalex.org/W2175831267,33,1,A one-equation turbulence model for aerodynamic flows,1992.0,Philippe R. Spalart,AIAA Aerospace Sciences Meeting and Exhibit,False,449.0
+https://openalex.org/W1502922572,33,1,Gaussian Processes in Machine Learning,2004.0,Carl Edward Rasmussen,Lecture notes in computer science,False,408.0
+https://openalex.org/W2095797625,33,1,On kinematic waves II. A theory of traffic flow on long crowded roads,1955.0,Sir James Lighthill,Proceedings of the Royal Society of London A Mathematical and Physical Sciences,False,347.0
+https://openalex.org/W3002310157,33,1,Coarse-scale PDEs from fine-scale observations via machine learning,2020.0,Seungjoon Lee,Chaos An Interdisciplinary Journal of Nonlinear Science,True,546.0
+https://openalex.org/W2946794331,32,1,Enforcing statistical constraints in generative adversarial networks for modeling chaotic dynamical systems,2019.0,Jinlong Wu,Journal of Computational Physics,True,818.0
+https://openalex.org/W2892208363,32,1,Robust data-driven discovery of governing physical laws with error bars,2018.0,Sheng Zhang,Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences,False,488.0
+https://openalex.org/W4210968171,32,1,Data-Driven Science and Engineering,2019.0,Steven L. Brunton,Cambridge University Press eBooks,False,371.0
+https://openalex.org/W2009375605,32,1,Impulses and Physiological States in Theoretical Models of Nerve Membrane,1961.0,Richard Fitzhugh,Biophysical Journal,False,327.0
+https://openalex.org/W2168795429,32,1,GENERAL CIRCULATION EXPERIMENTS WITH THE PRIMITIVE EQUATIONS,1963.0,Joseph Smagorinsky,Monthly Weather Review,False,520.0
+https://openalex.org/W3125013357,32,1,Perspectives on machine learning-augmented Reynolds-averaged and large eddy simulation models of turbulence,2021.0,Karthik Duraisamy,Physical Review Fluids,False,510.0
+https://openalex.org/W2093921901,32,1,Shock Waves on the Highway,1956.0,Paul I. Richards,Operations Research,False,244.0
+https://openalex.org/W2749028154,1251,2,DGM: A deep learning algorithm for solving partial differential equations,2018.0,Justin A. Sirignano,Journal of Computational Physics,True,22901.0
+https://openalex.org/W2158985775,1204,2,Artificial neural networks for solving ordinary and partial differential equations,1998.0,I.E. Lagaris,IEEE Transactions on Neural Networks,False,22597.0
+https://openalex.org/W2760972773,957,2,The Deep Ritz Method: A Deep Learning-Based Numerical Algorithm for Solving Variational Problems,2018.0,E Weinan,Communications in Mathematics and Statistics,True,19593.0
+https://openalex.org/W2137983211,877,2,Multilayer feedforward networks are universal approximators,1989.0,Kurt Hornik,Neural Networks,False,15152.0
+https://openalex.org/W2803629276,793,2,Solving high-dimensional partial differential equations using deep learning,2018.0,Jiequn Han,Proceedings of the National Academy of Sciences,True,14657.0
+https://openalex.org/W2919115771,607,2,Deep learning,2015.0,Yann LeCun,Nature,False,10215.0
+https://openalex.org/W2103496339,503,2,Approximation by superpositions of a sigmoidal function,1989.0,George V. Cybenko,Mathematics of Control Signals and Systems,False,8870.0
+https://openalex.org/W2770250658,384,2,A unified deep artificial neural network approach to partial differential equations in complex geometries,2018.0,Jens Berg,Neurocomputing,True,8678.0
+https://openalex.org/W2625995436,359,2,Deep Learning-Based Numerical Methods for High-Dimensional Parabolic Partial Differential Equations and Backward Stochastic Differential Equations,2017.0,E Weinan,Communications in Mathematics and Statistics,False,6489.0
+https://openalex.org/W2163605009,358,2,ImageNet classification with deep convolutional neural networks,2017.0,Alex Krizhevsky,Communications of the ACM,False,5983.0
+https://openalex.org/W1970454553,357,2,Neural‐network‐based approximations for solving partial differential equations,1994.0,Gamini Dissanayake,Communications in Numerical Methods in Engineering,False,8197.0
+https://openalex.org/W3101260193,319,2,Artificial Neural Networks for Solving Ordinary and Partial Differential Equations,1998.0,Isaac Elias Lagaris,,False,6505.0
+https://openalex.org/W2964121744,315,2,Adam: A Method for Stochastic Optimization,2015.0,D.P. Kingma,UvA-DARE (University of Amsterdam),False,4507.0
+https://openalex.org/W3093786597,309,2,On the Convergence of Physics Informed Neural Networks for Linear Second-Order Elliptic and Parabolic Type PDEs,2020.0,Yeonjong Shin,Communications in Computational Physics,True,7518.0
+https://openalex.org/W1988115241,293,2,Approximation capabilities of multilayer feedforward networks,1991.0,Kurt Hornik,Neural Networks,False,4893.0
+https://openalex.org/W2964110066,276,2,Weak adversarial networks for high-dimensional partial differential equations,2020.0,Yaohua Zang,Journal of Computational Physics,False,5907.0
+https://openalex.org/W2148666448,269,2,Neural-network methods for boundary value problems with irregular boundaries,2000.0,I.E. Lagaris,IEEE Transactions on Neural Networks,False,6064.0
+https://openalex.org/W3176116059,264,2,Estimates on the generalization error of physics-informed neural networks for approximating a class of inverse problems for PDEs,2021.0,Siddhartha Mishra,IMA Journal of Numerical Analysis,True,6264.0
+https://openalex.org/W2735139999,216,2,Solving parametric PDE problems with artificial neural networks,2020.0,Yuehaw Khoo,European Journal of Applied Mathematics,True,4612.0
+https://openalex.org/W1978075626,214,2,Neural algorithm for solving differential equations,1990.0,Hyuk Lee,Journal of Computational Physics,False,4874.0
+https://openalex.org/W4212988227,186,2,Estimates on the generalization error of physics-informed neural networks for approximating PDEs,2021.0,Siddhartha Mishra,IMA Journal of Numerical Analysis,True,4573.0
+https://openalex.org/W1677182931,179,2,Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,2015.0,Kaiming He,IEEE/CVF International Conference on Computer Vision (ICCV),False,3273.0
+https://openalex.org/W2528305538,157,2,Error bounds for approximations with deep ReLU networks,2017.0,Dmitry Yarotsky,Neural Networks,False,3376.0
+https://openalex.org/W2954075001,156,2,Physics Informed Extreme Learning Machine (PIELM)–A rapid method for the numerical solution of partial differential equations,2019.0,Vikas Dwivedi,Neurocomputing,True,3361.0
+https://openalex.org/W2754833785,156,2,Machine Learning Approximation Algorithms for High-Dimensional Fully Nonlinear Partial Differential Equations and Second-order Backward Stochastic Differential Equations,2019.0,Christian Beck,Journal of Nonlinear Science,True,3056.0
+https://openalex.org/W2158581396,155,2,Approximation theory of the MLP model in neural networks,1999.0,Allan M. Pinkus,Acta Numerica,False,3109.0
+https://openalex.org/W2557283755,154,2,Deep Learning,2016.0,Ian Goodfellow,,False,2685.0
+https://openalex.org/W2166116275,151,2,Universal approximation bounds for superpositions of a sigmoidal function,1993.0,Andrew R. Barron,IEEE Transactions on Information Theory,False,3067.0
+https://openalex.org/W3131579400,149,2,Three ways to solve partial differential equations with neural networks — A review,2021.0,Jan Blechschmidt,GAMM-Mitteilungen,True,2829.0
+https://openalex.org/W2111072639,139,2,Extreme learning machine: Theory and applications,2006.0,Guang-Bin Huang,Neurocomputing,False,2278.0
+https://openalex.org/W3045146186,132,2,Multi-Scale Deep Neural Network (MscaleDNN) for Solving Poisson-Boltzmann Equation in Complex Domains,2020.0,Ziqi Liu,Communications in Computational Physics,True,3178.0
+https://openalex.org/W2914483840,131,2,Frequency Principle: Fourier Analysis Sheds Light on Deep Neural Networks,2020.0,Zhi-Qin John Xu Zhi-Qin John Xu,Communications in Computational Physics,False,2707.0
+https://openalex.org/W3112199937,125,2,Local extreme learning machines and domain decomposition for solving linear and nonlinear partial differential equations,2021.0,Suchuan  Steven Dong,Computer Methods in Applied Mechanics and Engineering,True,2679.0
+https://openalex.org/W4231016689,123,2,Deep learning,2017.0,Hao Xing,Encyclopedia with Semantic Computing and Robotic Intelligence,False,2035.0
+https://openalex.org/W2796817565,119,2,Deep Neural Networks Motivated by Partial Differential Equations,2019.0,Lars Ruthotto,Journal of Mathematical Imaging and Vision,True,1923.0
+https://openalex.org/W2027197837,117,2,Universal approximation of an unknown mapping and its derivatives using multilayer feedforward networks,1990.0,Kurt Hornik,Neural Networks,False,2113.0
+https://openalex.org/W3170003932,116,2,Extreme theory of functional connections: A fast physics-informed neural network method for solving ordinary and partial differential equations,2021.0,Enrico Schiassi,Neurocomputing,True,2510.0
+https://openalex.org/W3146803896,110,2,Multilayer feedforward networks are universal approximators,1989.0,HornikK.,Neural Networks,False,2186.0
+https://openalex.org/W2125645174,106,2,Artificial Neural Network Method for Solution of Boundary Value Problems With Exact Satisfaction of Arbitrary Boundary Conditions,2009.0,Kevin Stanley McFall,IEEE Transactions on Neural Networks,False,2499.0
+https://openalex.org/W2933916181,104,2,A Theoretical Analysis of Deep Neural Networks and Parametric PDEs,2021.0,Gitta Kutyniok,Constructive Approximation,True,2452.0
+https://openalex.org/W2809090039,100,2,Neural Tangent Kernel: Convergence and Generalization in Neural Networks,2018.0,"Jacot, Arthur",arXiv (Cornell University),False,2325.0
+https://openalex.org/W2076063813,100,2,Deep learning in neural networks: An overview,2014.0,Jürgen Schmidhuber,Neural Networks,False,1512.0
+https://openalex.org/W2993551995,100,2,Deep backward schemes for high-dimensional nonlinear PDEs,2019.0,Côme Huré,Mathematics of Computation,True,1834.0
+https://openalex.org/W2043005456,99,2,Multilayer feedforward networks with a nonpolynomial activation function can approximate any function,1993.0,Moshe Leshno,Neural Networks,False,1902.0
+https://openalex.org/W3016703299,95,2,PFNN: A penalty-free neural network method for solving a class of second-order boundary-value problems on complex geometries,2020.0,Hailong Sheng,Journal of Computational Physics,False,2551.0
+https://openalex.org/W3178808513,92,2,Solving the Kolmogorov PDE by Means of Deep Learning,2021.0,Christian Beck,Journal of Scientific Computing,True,1994.0
+https://openalex.org/W2992541290,92,2,D3M: A Deep Domain Decomposition Method for Partial Differential Equations,2019.0,Ke Li,IEEE Access,True,2376.0
+https://openalex.org/W2912649832,91,2,Simulator-free solution of high-dimensional stochastic elliptic partial differential equations using deep neural networks,2019.0,Sharmila Karumuri,Journal of Computational Physics,True,2253.0
+https://openalex.org/W3173170643,90,2,Error analysis for physics-informed neural networks (PINNs) approximating Kolmogorov PDEs,2022.0,Tim De Ryck,Advances in Computational Mathematics,True,1966.0
+https://openalex.org/W2993505246,90,2,Deep Nitsche Method: Deep Ritz Method with Essential Boundary Conditions,2021.0,Yulei Liao,Communications in Computational Physics,True,2129.0
+https://openalex.org/W1836465849,90,2,Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift,2015.0,Sergey Ioffe,arXiv (Cornell University),False,1612.0
+https://openalex.org/W3082030075,87,2,Algorithms for solving high dimensional PDEs: from nonlinear Monte Carlo to machine learning,2021.0,E Weinan,Nonlinearity,True,1571.0
+https://openalex.org/W1994616650,85,2,A Stochastic Approximation Method,1951.0,Herbert E. Robbins,The Annals of Mathematical Statistics,False,1253.0
+https://openalex.org/W2890889625,83,2,A Proof that Artificial Neural Networks Overcome the Curse of Dimensionality in the Numerical Approximation of Black–Scholes Partial Differential Equations,2023.0,Philipp Grohs,Memoirs of the American Mathematical Society,True,2051.0
+https://openalex.org/W4226402869,82,2,MIM: A deep mixed residual method for solving high-order partial differential equations,2022.0,Liyao Lyu,Journal of Computational Physics,True,1774.0
+https://openalex.org/W2891788052,81,2,Analysis of the Generalization Error: Empirical Risk Minimization over Deep Artificial Neural Networks Overcomes the Curse of Dimensionality in the Numerical Approximation of Black--Scholes Partial Differential Equations,2020.0,Julius Berner,SIAM Journal on Mathematics of Data Science,True,1907.0
+https://openalex.org/W2600297185,81,2,A Proposal on Machine Learning via Dynamical Systems,2017.0,E Weinan,Communications in Mathematics and Statistics,False,1346.0
+https://openalex.org/W2856628251,80,2,ReLU Deep Neural Networks and Linear Finite Elements,2020.0,Juncai He,Journal of Computational Mathematics,True,1485.0
+https://openalex.org/W3088991477,79,2,Physics informed neural networks for simulating radiative transfer,2021.0,Siddhartha Mishra,Journal of Quantitative Spectroscopy and Radiative Transfer,True,2080.0
+https://openalex.org/W2885512191,78,2,Hidden Fluid Mechanics: A Navier-Stokes Informed Deep Learning Framework for Assimilating Flow Visualization Data,2018.0,Maziar Raissi,arXiv (Cornell University),True,1897.0
+https://openalex.org/W2034650523,78,2,The numerical solution of linear ordinary differential equations by feedforward neural networks,1994.0,Andrew J. Meade,Mathematical and Computer Modelling,False,1926.0
+https://openalex.org/W2954388788,78,2,Deep Splitting Method for Parabolic PDEs,2021.0,Christian Beck,SIAM Journal on Scientific Computing,True,1528.0
+https://openalex.org/W2923153053,77,2,A proof that rectified deep neural networks overcome the curse of dimensionality in the numerical approximation of semilinear heat equations,2020.0,Martin Hutzenthaler,Partial Differential Equations and Applications,True,1939.0
+https://openalex.org/W3115761617,76,2,An overview on deep learning-based approximation methods for partial differential equations,2022.0,Christian Beck,Discrete and Continuous Dynamical Systems - B,True,1499.0
+https://openalex.org/W2160815625,75,2,Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups,2012.0,Geoffrey E. Hinton,IEEE Signal Processing Magazine,False,1387.0
+https://openalex.org/W2755888403,75,2,Optimal approximation of piecewise smooth functions using deep ReLU neural networks,2018.0,Philipp Petersen,Neural Networks,False,1559.0
+https://openalex.org/W4387197380,74,2,ERROR ESTIMATES OF RESIDUAL MINIMIZATION USING NEURAL NETWORKS FOR LINEAR PDES,2023.0,Yeonjong Shin,Journal of Machine Learning for Modeling and Computing,True,1821.0
+https://openalex.org/W2963446712,74,2,Densely Connected Convolutional Networks,2017.0,Gao Ming Huang,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,False,1325.0
+https://openalex.org/W2436219157,72,2,Optimization Methods for Large-Scale Machine Learning,2018.0,Léon Bottou,SIAM Review,False,1235.0
+https://openalex.org/W2612252966,72,2,Stable architectures for deep neural networks,2017.0,Eldad Haber,Inverse Problems,False,1147.0
+https://openalex.org/W1855169650,71,2,Partial Differential Equations,2010.0,Lawrence Craig Evans,Graduate studies in mathematics,False,1113.0
+https://openalex.org/W2805403880,70,2,A deep learning solution approach for high-dimensional random differential equations,2019.0,Mohammad Amin Nabian,Probabilistic Engineering Mechanics,True,1739.0
+https://openalex.org/W2921773029,70,2,Deep learning observables in computational fluid dynamics,2020.0,Kjetil Olsen Lye,Journal of Computational Physics,True,1806.0
+https://openalex.org/W2077791698,70,2,The Pricing of Options and Corporate Liabilities,1973.0,Fischer Black,Journal of Political Economy,False,586.0
+https://openalex.org/W2797393904,68,2,Forward–Backward Stochastic Neural Networks: Deep Learning of High-Dimensional Partial Differential Equations,2023.0,Maziar Raissi,WORLD SCIENTIFIC eBooks,False,1734.0
+https://openalex.org/W2935339072,68,2,Artificial Neural Network Methods for the Solution of Second Order Boundary Value Problems,2019.0,Cosmin Anitescu,"Computers, materials & continua/Computers, materials & continua (Print)",True,1397.0
+https://openalex.org/W2883486956,68,2,Deep learning in high dimension: Neural network expression rates for generalized polynomial chaos expansions in UQ,2018.0,Christoph Schwab,Analysis and Applications,True,1437.0
+https://openalex.org/W1995341919,67,2,A logical calculus of the ideas immanent in nervous activity,1943.0,Warren S. McCulloch,Bulletin of Mathematical Biology,False,738.0
+https://openalex.org/W1555627060,66,2,Finite Volume Methods for Hyperbolic Problems,2002.0,Randall J. LeVeque,Cambridge University Press eBooks,False,1105.0
+https://openalex.org/W3152523416,65,2,On the approximation of functions by tanh neural networks,2021.0,Tim De Ryck,Neural Networks,False,1502.0
+https://openalex.org/W2550848904,65,2,Why and when can deep-but not shallow-networks avoid the curse of dimensionality: A review,2017.0,Tomaso Poggio,Machine Intelligence Research,False,1395.0
+https://openalex.org/W2121198253,65,2,Neural Network Differential Equation and Plasma Equilibrium Solver,1995.0,Boudewijn Ph van Milligen,Physical Review Letters,False,1521.0
+https://openalex.org/W2972153210,65,2,Ab initio solution of the many-electron Schrödinger equation with deep neural networks,2020.0,David Pfau,Physical Review Research,False,1217.0
+https://openalex.org/W2946866513,64,2,ConvPDE-UQ: Convolutional neural networks with quantified uncertainty for heterogeneous elliptic partial differential equations on varied domains,2019.0,Nickolas Winovich,Journal of Computational Physics,True,1475.0
+https://openalex.org/W2040870580,62,2,The perceptron: A probabilistic model for information storage and organization in the brain.,1958.0,Frank F. Rosenblatt,Psychological Review,False,929.0
+https://openalex.org/W2985622559,62,2,Deep least-squares methods: An unsupervised learning-based numerical method for solving elliptic PDEs,2020.0,Zhiqiang Cai,Journal of Computational Physics,True,1281.0
+https://openalex.org/W2257979135,60,2,Mastering the game of Go with deep neural networks and tree search,2016.0,David Silver,Nature,False,1163.0
+https://openalex.org/W2889762385,60,2,Machine Learning for Semi Linear PDEs,2019.0,Quentin Chan-Wai-Nam,Journal of Scientific Computing,True,1299.0
+https://openalex.org/W2899507754,60,2,Convergence of the deep BSDE method for coupled FBSDEs,2020.0,Jiequn Han,Probability Uncertainty and Quantitative Risk,True,996.0
+https://openalex.org/W4285719527,59,2,,,,,False,727.0
+https://openalex.org/W114517082,58,2,Large-Scale Machine Learning with Stochastic Gradient Descent,2010.0,Léon Bottou,Physica-Verlag eBooks,False,840.0
+https://openalex.org/W2146502635,58,2,Adaptive Subgradient Methods for Online Learning and Stochastic Optimization,2010.0,John C. Duchi,,False,1063.0
+https://openalex.org/W2523246573,58,2,An overview of gradient descent optimization algorithms,2016.0,Sebastian Ruder,arXiv (Cornell University),False,1066.0
+https://openalex.org/W2419175238,58,2,Solving the quantum many-body problem with artificial neural networks,2017.0,Giuseppe Carleo,Science,False,890.0
+https://openalex.org/W2908429425,58,2,A mesh-free method for interface problems using the deep learning approach,2019.0,Zhongjian Wang,Journal of Computational Physics,True,1482.0
+https://openalex.org/W1686810756,58,2,Very Deep Convolutional Networks for Large-Scale Image Recognition,2014.0,Karen Simonyan,arXiv (Cornell University),False,844.0
+https://openalex.org/W3008747420,57,2,Solving differential equations using deep neural networks,2020.0,Craig Michoski,Neurocomputing,True,1214.0
+https://openalex.org/W3007906701,57,2,Numerical solution of inverse problems by weak adversarial networks,2020.0,Gang Bao,Inverse Problems,True,1344.0
+https://openalex.org/W2917375922,57,2,"Error bounds for approximations with deep ReLU neural networks in Ws,p norms",2019.0,Ingo Gühring,Analysis and Applications,True,1221.0
+https://openalex.org/W6601430172,57,2,,,,,False,948.0
+https://openalex.org/W3093990252,56,2,A Phase Shift Deep Neural Network for High Frequency Approximation and Wave Problems,2020.0,Wei Cai,SIAM Journal on Scientific Computing,False,1256.0
+https://openalex.org/W3191617243,55,2,Towards Understanding the Spectral Bias of Deep Learning,2021.0,Yuan Jie Cao,International Joint Conference on Artificial Intelligence,False,1175.0
+https://openalex.org/W2891311596,55,2,A proof that deep artificial neural networks overcome the curse of dimensionality in the numerical approximation of Kolmogorov partial differential equations with constant diffusion and nonlinear drift coefficients,2021.0,Arnulf Jentzen,Communications in Mathematical Sciences,True,1426.0
+https://openalex.org/W2505225485,53,2,An Introduction to Neural Network Methods for Differential Equations,2015.0,Neha Yadav,SpringerBriefs in applied sciences and technology,False,816.0
+https://openalex.org/W2890291741,53,2,DNN Expression Rate Analysis of High-Dimensional PDEs: Application to Option Pricing,2021.0,Dennis Elbrächter,Constructive Approximation,True,1393.0
+https://openalex.org/W4296753933,52,2,Bridging Traditional and Machine Learning-Based Algorithms for Solving PDEs: The Random Feature Method,2022.0,Jingrun Chen,Journal of Machine Learning,True,1185.0
+https://openalex.org/W3040607105,52,2,Approximation rates for neural networks with encodable weights in smoothness spaces,2020.0,Ingo Gühring,Neural Networks,True,994.0
+https://openalex.org/W3112440564,52,2,Extreme learning machine collocation for the numerical solution of elliptic PDEs with sharp gradients,2021.0,Francesco Calabrò,Computer Methods in Applied Mechanics and Engineering,True,1126.0
+https://openalex.org/W2166052342,51,2,Approximation of high-dimensional parametric PDEs,2015.0,Albert K. Cohen,Acta Numerica,False,1050.0
+https://openalex.org/W2132473313,50,2,Numerical solution for high order differential equations using a hybrid neural network—Optimization method,2006.0,Alaeddin Malek,Applied Mathematics and Computation,False,943.0
+https://openalex.org/W3000236721,50,2,Deep Network Approximation for Smooth Functions,2021.0,Jianfeng Lu,SIAM Journal on Mathematical Analysis,False,1038.0
+https://openalex.org/W2092891737,49,2,The Finite Element Method for Elliptic Problems,1978.0,Philippe G. Ciarlet,Journal of Applied Mechanics,False,913.0
+https://openalex.org/W3138259231,49,2,Combining machine learning and domain decomposition methods for the solution of partial differential equations—A review,2021.0,Alexander Heinlein,GAMM-Mitteilungen,True,1262.0
+https://openalex.org/W3088681382,48,2,Multi-Scale Deep Neural Network (MscaleDNN) Methods for Oscillatory Stokes Flows in Complex Domains,2020.0,Bo Wang,Communications in Computational Physics,False,1227.0
+https://openalex.org/W1970346034,48,2,Solution of nonlinear ordinary differential equations by feedforward neural networks,1994.0,Andrew J. Meade,Mathematical and Computer Modelling,False,1250.0
+https://openalex.org/W2912389156,48,2,MgNet: A unified framework of multigrid and convolutional neural network,2019.0,Juncai He,Science China Mathematics,False,973.0
+https://openalex.org/W3096619415,48,2,VarNet: Variational Neural Networks for the Solution of Partial Differential Equations,2019.0,Reza Khodayi-mehr,arXiv (Cornell University),True,1337.0
+https://openalex.org/W2143612262,48,2,Speech recognition with deep recurrent neural networks,2013.0,Alex Graves,IEEE International Conference on Acoustics Speech and Signal Processing,False,802.0
+https://openalex.org/W2952020389,48,2,Solving inverse problems using data-driven models,2019.0,Simon Arridge,Acta Numerica,False,739.0
+https://openalex.org/W3027734040,47,2,Approximation rates for neural networks with general activation functions,2020.0,Jonathan W. Siegel,Neural Networks,False,871.0
+https://openalex.org/W3000403725,47,2,SelectNet: Self-paced learning for high-dimensional partial differential equations,2021.0,Yiqi Gu,Journal of Computational Physics,True,1247.0
+https://openalex.org/W2884714875,47,2,A machine learning framework for data driven acceleration of computations of di erential equations,2018.0,Siddhartha Mishra,Mathematics in Engineering,True,891.0
+https://openalex.org/W2963139910,46,2,Solving for high-dimensional committor functions using artificial neural networks,2018.0,Yuehaw Khoo,Research in the Mathematical Sciences,True,1051.0
+https://openalex.org/W2151084831,46,2,Monte Carlo and quasi-Monte Carlo methods,1998.0,Russel E. Caflisch,Acta Numerica,False,816.0
+https://openalex.org/W2113442785,46,2,Universal Approximation Using Radial-Basis-Function Networks,1991.0,Jihun Park,Neural Computation,False,651.0
+https://openalex.org/W2062228129,46,2,A constrained integration (CINT) approach to solving partial differential equations using artificial neural networks,2014.0,Keith Rudd,Neurocomputing,False,907.0
+https://openalex.org/W2767170987,46,2,Asymptotic Expansion as Prior Knowledge in Deep Learning Method for High Dimensional BSDEs,2017.0,Masaaki Fujii,Asia-Pacific Financial Markets,False,1172.0
+https://openalex.org/W3155529179,45,2,Numerical solution and bifurcation analysis of nonlinear partial differential equations with extreme learning machines,2021.0,Gianluca Fabiani,Journal of Scientific Computing,True,1006.0
+https://openalex.org/W2498216762,45,2,Numerical Partial Differential Equations: Finite Difference Methods,1995.0,James W. Thomas,Texts in applied mathematics,False,626.0
+https://openalex.org/W2107878631,45,2,Learning long-term dependencies with gradient descent is difficult,1994.0,Yoshua Bengio,IEEE Transactions on Neural Networks,False,691.0
+https://openalex.org/W2994720379,44,2,Training Behavior of Deep Neural Network in Frequency Domain,2019.0,Zhi‐Qin John Xu,Lecture notes in computer science,False,921.0
+https://openalex.org/W1512069430,44,2,Neural Network Method for Solving Partial Differential Equations,2001.0,Lucie P. Aarts,Neural Processing Letters,False,841.0
+https://openalex.org/W3137000502,44,2,Convergence Rate Analysis for Deep Ritz Method,2022.0,Chenguang Duan,Communications in Computational Physics,True,793.0
+https://openalex.org/W1991113069,44,2,Fronts propagating with curvature-dependent speed: Algorithms based on Hamilton-Jacobi formulations,1988.0,Stanley Osher,Journal of Computational Physics,False,526.0
+https://openalex.org/W4294958351,44,2,A discontinuity capturing shallow neural network for elliptic interface problems,2022.0,Wei-Fan Hu,Journal of Computational Physics,True,781.0
+https://openalex.org/W3204708751,43,2,The Mathematical Theory of Finite Element Methods,2007.0,Susanne C. Brenner,Texts in applied mathematics,False,911.0
+https://openalex.org/W2103559027,43,2,Nonlinear total variation based noise removal algorithms,1992.0,L. Rudin,Physica D Nonlinear Phenomena,False,490.0
+https://openalex.org/W3196894304,43,2,Variational Physics Informed Neural Networks: the Role of Quadratures and Test Functions,2022.0,Stefano Berrone,Journal of Scientific Computing,True,1106.0
+https://openalex.org/W2743985642,43,2,On Multilevel Picard Numerical Approximations for High-Dimensional Nonlinear Parabolic Partial Differential Equations and High-Dimensional Nonlinear Backward Stochastic Differential Equations,2019.0,E Weinan,Journal of Scientific Computing,False,986.0
+https://openalex.org/W3089652839,43,2,Finite Neuron Method and Convergence Analysis,2020.0,Jinchao Xu,Communications in Computational Physics,True,809.0
+https://openalex.org/W1519422254,42,2,Finite difference methods for ordinary and partial differential equations: steady-state and time-dependent problems,2008.0,,Choice Reviews Online,False,787.0
+https://openalex.org/W2079224763,42,2,Neural Networks for Optimal Approximation of Smooth and Analytic Functions,1996.0,Hrushikesh  N. Mhaskar,Neural Computation,False,1019.0
+https://openalex.org/W3022977644,42,2,A mesh-free method using piecewise deep neural network for elliptic interface problems,2022.0,Cuiyu He,Journal of Computational and Applied Mathematics,False,820.0
+https://openalex.org/W2145339207,42,2,Human-level control through deep reinforcement learning,2015.0,Volodymyr Mnih,Nature,False,405.0
+https://openalex.org/W1545761024,42,2,"Functional Analysis, Sobolev Spaces and Partial Differential Equations",2010.0,Haïm Brézis,Springer eBooks,False,544.0
+https://openalex.org/W2520751857,41,2,Single Layer Chebyshev Neural Network Model for Solving Elliptic Partial Differential Equations,2016.0,Susmita Mall,Neural Processing Letters,False,511.0
+https://openalex.org/W3020191331,41,2,Numerical Solution of the Parametric Diffusion Equation by Deep Neural Networks,2021.0,Moritz Geist,Journal of Scientific Computing,True,872.0
+https://openalex.org/W3016115703,41,2,A Machine Learning Framework for Solving High-Dimensional Mean Field Game and Mean Field Control Problems,2019.0,Lars Ruthotto,arXiv (Cornell University),False,715.0
+https://openalex.org/W2930017973,41,2,Data driven approximation of parametrized PDEs by reduced basis and neural networks,2020.0,Niccolò Dal Santo,Journal of Computational Physics,True,679.0
+https://openalex.org/W3037386592,40,2,Two-Layer Neural Networks for Partial Differential Equations: Optimization and Generalization Theory,2020.0,Tao Luo,arXiv (Cornell University),True,992.0
+https://openalex.org/W2910155483,40,2,Deep Neural Network Approximation Theory,2021.0,Dennis Elbrächter,IEEE Transactions on Information Theory,False,917.0
+https://openalex.org/W2141695047,40,2,Universal Approximation using Incremental Constructive Feedforward Networks with Random Hidden Nodes,2006.0,Guang-Bin Huang,IEEE Transactions on Neural Networks,False,652.0
+https://openalex.org/W1971735090,40,2,On the approximate realization of continuous mappings by neural networks,1989.0,Ken-ichi Funahashi,Neural Networks,False,718.0
+https://openalex.org/W3043383266,40,2,A Comparison Study of Deep Galerkin Method and Deep Ritz Method for Elliptic Problems with Different Boundary Conditions,2020.0,Jingrun Chen,Communications in Mathematical Research,True,792.0
+https://openalex.org/W2966737396,40,2,Neural networks-based backward scheme for fully nonlinear PDEs,2021.0,Huyên Pham,Partial Differential Equations and Applications,True,937.0
+https://openalex.org/W3043050416,39,2,Overcoming the curse of dimensionality for some Hamilton–Jacobi partial differential equations via neural network architectures,2020.0,Jérôme Darbon,Research in the Mathematical Sciences,True,913.0
+https://openalex.org/W4220704858,39,2,A Rate of Convergence of Physics Informed Neural Networks for the Linear Second Order Elliptic PDEs,2022.0,Yuling Jiao,Communications in Computational Physics,True,751.0
+https://openalex.org/W4295854546,39,2,INN: Interfaced neural networks as an accessible meshless approach for solving interface PDE problems,2022.0,Sidi Wu,Journal of Computational Physics,True,830.0
+https://openalex.org/W2766447205,38,2,Mastering the game of Go without human knowledge,2017.0,David Silver,Nature,False,539.0
+https://openalex.org/W2611375647,38,2,Optimal Approximation with Sparsely Connected Deep Neural Networks,2019.0,Helmut Bölcskei,SIAM Journal on Mathematics of Data Science,False,933.0
+https://openalex.org/W3165099133,38,2,The Barron Space and the Flow-Induced Function Spaces for Neural Network Models,2021.0,E Weinan,Constructive Approximation,False,859.0
+https://openalex.org/W2990653417,38,2,Deep ReLU networks and high-order finite element methods,2019.0,Joost A. A. Opschoor,Analysis and Applications,False,795.0
+https://openalex.org/W2912149013,38,2,Solving differential equations with neural networks: Applications to the calculation of cosmological phase transitions,2019.0,Maria Laura Piscopo,Physical review. D/Physical review. D.,False,357.0
+https://openalex.org/W2981014499,38,2,SwitchNet: A Neural Network Model for Forward and Inverse Scattering Problems,2019.0,Yuehaw Khoo,SIAM Journal on Scientific Computing,False,993.0
+https://openalex.org/W3161792008,38,2,Exponential ReLU DNN Expression of Holomorphic Maps in High Dimension,2021.0,Joost A. A. Opschoor,Constructive Approximation,False,719.0
+https://openalex.org/W3089372361,38,2,Machine Learning and Computational Mathematics,2020.0,Weinan E,Communications in Computational Physics,False,695.0
+https://openalex.org/W3115781672,38,2,Neural network approximation,2021.0,Ronald DeVore,Acta Numerica,True,748.0
+https://openalex.org/W2974176966,38,2,Solving many-electron Schrödinger equation using deep neural networks,2019.0,Jiequn Han,Journal of Computational Physics,False,770.0
+https://openalex.org/W2963395620,37,2,Algorithms for overcoming the curse of dimensionality for certain Hamilton–Jacobi equations arising in control theory and elsewhere,2016.0,Jérôme Darbon,Research in the Mathematical Sciences,False,873.0
+https://openalex.org/W3004547276,37,2,Solving high-dimensional eigenvalue problems using deep neural networks: A diffusion Monte Carlo like approach,2020.0,Jiequn Han,Journal of Computational Physics,False,752.0
+https://openalex.org/W3034372977,36,2,Learning and meta-learning of stochastic advection–diffusion–reaction systems from sparse measurements,2020.0,Xiaoli Chen,European Journal of Applied Mathematics,True,789.0
+https://openalex.org/W4301014524,36,2,Numerical Optimization,2006.0,Jorge M. Nocedal,Springer series in operations research/Springer series in operations research and financial engineering,False,714.0
+https://openalex.org/W2973805762,36,2,Deep-neural-network solution of the electronic Schrödinger equation,2020.0,Jan Hermann,Nature Chemistry,False,807.0
+https://openalex.org/W3002873949,35,2,Solving Fokker-Planck equation using deep learning,2020.0,Yong Xu,Chaos An Interdisciplinary Journal of Nonlinear Science,False,333.0
+https://openalex.org/W2936334504,35,2,A Discussion on Solving Partial Differential Equations using Neural Networks,2019.0,Tim Dockhorn,arXiv (Cornell University),True,904.0
+https://openalex.org/W3048421397,35,2,Iterative surrogate model optimization (ISMO): An active learning algorithm for PDE constrained optimization with deep neural networks,2020.0,Kjetil Olsen Lye,Computer Methods in Applied Mechanics and Engineering,True,1041.0
+https://openalex.org/W2163663731,35,2,Artificial neural network methods in quantum mechanics,1997.0,I.E. Lagaris,Computer Physics Communications,False,573.0
+https://openalex.org/W2087070363,35,2,An Algorithm for Least-Squares Estimation of Nonlinear Parameters,1963.0,Donald W. Marquardt,Journal of the Society for Industrial and Applied Mathematics,False,314.0
+https://openalex.org/W2078895915,35,2,Adapted solution of a backward stochastic differential equation,1990.0,Étienne Pardoux,Systems & Control Letters,False,543.0
+https://openalex.org/W2912322140,34,2,Wide neural networks of any depth evolve as linear models under gradient descent *,2020.0,Jaehoon Lee,Journal of Statistical Mechanics Theory and Experiment,False,734.0
+https://openalex.org/W2594619940,34,2,The Theory of Connections: Connecting Points,2017.0,Daniele Mortari,Mathematics,False,481.0
+https://openalex.org/W2890443329,34,2,Solving Partial Differential Equation Based on Bernstein Neural Network and Extreme Learning Machine Algorithm,2018.0,Hongli Sun,Neural Processing Letters,True,580.0
+https://openalex.org/W2126028850,34,2,Generalized multiscale finite element methods (GMsFEM),2013.0,Yalchin R. Efendiev,Journal of Computational Physics,False,504.0
+https://openalex.org/W1601728065,34,2,Theory and Practice of Finite Elements,2004.0,Alexandre Ern,Applied mathematical sciences,False,607.0
+https://openalex.org/W3090608059,33,2,A Multi-Scale DNN Algorithm for Nonlinear Elliptic Equations with Multiple Scales,2020.0,Xi-An Li,Communications in Computational Physics,False,813.0
+https://openalex.org/W2904185039,33,2,A novel improved extreme learning machine algorithm in solving ordinary differential equations by Legendre neural network methods,2018.0,Yunlei Yang,Advances in Difference Equations,False,586.0
+https://openalex.org/W2128084896,33,2,Neural networks and physical systems with emergent collective computational abilities.,1982.0,J. J. Hopfield,Proceedings of the National Academy of Sciences,False,559.0
+https://openalex.org/W2275233666,33,2,Application of Legendre Neural Network for solving ordinary differential equations,2016.0,Susmita Mall,Applied Soft Computing,False,463.0
+https://openalex.org/W2051669046,33,2,Updating Quasi-Newton Matrices with Limited Storage,1980.0,Jorge M. Nocedal,Mathematics of Computation,False,592.0
+https://openalex.org/W2769936938,33,2,Deep Primal-Dual Algorithm for BSDEs: Applications of Machine Learning to CVA and IM,2017.0,Pierre Henry‐Labordère,SSRN Electronic Journal,False,918.0
+https://openalex.org/W2998882635,33,2,A derivative-free method for solving elliptic partial differential equations with deep neural networks,2020.0,Jihun Han,Journal of Computational Physics,True,868.0
+https://openalex.org/W2508457857,33,2,Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising,2017.0,Kai Zhang,IEEE Transactions on Image Processing,False,244.0
+https://openalex.org/W2102871258,33,2,Finite-Element Neural Networks for Solving Differential Equations,2005.0,Pradeep Ramuhalli,IEEE Transactions on Neural Networks,False,718.0
+https://openalex.org/W2798229054,33,2,Deep optimal stopping,2018.0,Sebastian Becker Sebastian Becker,arXiv (Cornell University),False,769.0
+https://openalex.org/W2341171179,32,2,Dynamic Programming,1966.0,Richard Bellman,Science,False,808.0
+https://openalex.org/W2084131634,32,2,The immersed boundary method,2002.0,Charles S. Peskin,Acta Numerica,False,547.0
+https://openalex.org/W3215979667,32,2,Enforcing Exact Boundary and Initial Conditions in the Deep Mixed Residual Method,2021.0,Liyao Lyu,CSIAM Transactions on Applied Mathematics,True,718.0
+https://openalex.org/W2150134853,32,2,Scale-space and edge detection using anisotropic diffusion,1990.0,Pietro Perona,IEEE Transactions on Pattern Analysis and Machine Intelligence,False,231.0
+https://openalex.org/W2979786244,1647,3,Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators,2021.0,Lu Lu,Nature Machine Intelligence,True,27706.0
+https://openalex.org/W3118310857,1236,3,Fourier Neural Operator for Parametric Partial Differential Equations,2021.0,Zongyi Li,CaltechAUTHORS (California Institute of Technology),True,20259.0
+https://openalex.org/W2194775991,698,3,Deep Residual Learning for Image Recognition,2016.0,Kaiming He,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,False,11156.0
+https://openalex.org/W3201666041,548,3,Learning the solution operator of parametric partial differential equations with physics-informed DeepONets,2021.0,Sifan Wang,Science Advances,True,11726.0
+https://openalex.org/W1901129140,507,3,U-Net: Convolutional Networks for Biomedical Image Segmentation,2015.0,Olaf Ronneberger,Lecture notes in computer science,False,6712.0
+https://openalex.org/W2139923370,493,3,Universal approximation to nonlinear operators by neural networks with arbitrary activation functions and its application to dynamical systems,1995.0,Tianping Chen,IEEE Transactions on Neural Networks,False,8860.0
+https://openalex.org/W3010501116,426,3,Neural Operator: Graph Kernel Network for Partial Differential Equations,2020.0,Zongyi Li,arXiv (Cornell University),True,8583.0
+https://openalex.org/W3213691922,374,3,A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data,2022.0,Lu Lu,Computer Methods in Applied Mechanics and Engineering,True,7218.0
+https://openalex.org/W4392004327,331,3,Physics-Informed Neural Operator for Learning Partial Differential Equations,2024.0,Zongyi Li,ACM / IMS Journal of Data Science,True,6662.0
+https://openalex.org/W3197308578,306,3,U-FNO—An enhanced Fourier neural operator-based deep-learning model for multiphase flow,2022.0,Gege Wen,Advances in Water Resources,True,5332.0
+https://openalex.org/W3128704025,276,3,Machine learning–accelerated computational fluid dynamics,2021.0,Dmitrii Kochkov,Proceedings of the National Academy of Sciences,False,5341.0
+https://openalex.org/W2626778328,253,3,Attention Is All You Need,2025.0,Ashish Vaswani,,False,3754.0
+https://openalex.org/W2784733489,247,3,Bayesian deep convolutional encoder–decoder networks for surrogate modeling and uncertainty quantification,2018.0,Yinhao Zhu,Journal of Computational Physics,False,5328.0
+https://openalex.org/W3021748939,231,3,Model Reduction And Neural Networks For Parametric PDEs,2021.0,Kaushik Bhattacharya,SMAI Journal of Computational Mathematics,True,4830.0
+https://openalex.org/W3036157773,224,3,Multipole Graph Neural Operator for Parametric Partial Differential Equations,2020.0,Zongyi Li,arXiv (Cornell University),True,4688.0
+https://openalex.org/W3036234074,211,3,Implicit Neural Representations with Periodic Activation Functions,2020.0,Vincent Sitzmann,arXiv (Cornell University),True,3935.0
+https://openalex.org/W3194436063,211,3,Neural Operator: Learning Maps Between Function Spaces,2021.0,Nikola Kovachki,arXiv (Cornell University),True,3713.0
+https://openalex.org/W4210423197,204,3,A physics-informed variational DeepONet for predicting crack path in quasi-brittle materials,2022.0,Somdatta Goswami,Computer Methods in Applied Mechanics and Engineering,True,5189.0
+https://openalex.org/W4285429067,194,3,Fourier Neural Operator with Learned Deformations for PDEs on General Geometries,2022.0,Zongyi Li,CaltechAUTHORS (California Institute of Technology),True,3866.0
+https://openalex.org/W4225906496,175,3,FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators,2022.0,Jaideep Pathak,arXiv (Cornell University),True,3011.0
+https://openalex.org/W2515505748,173,3,Convolutional Neural Networks for Steady Flow Approximation,2016.0,Xiaoxiao Guo,ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD),False,3160.0
+https://openalex.org/W4308731656,168,3,MIONet: Learning Multiple-Input Operators via Tensor Product,2022.0,Pengzhan Jin,SIAM Journal on Scientific Computing,True,3399.0
+https://openalex.org/W3133338006,166,3,Error estimates for DeepONets: a deep learning framework in infinite dimensions,2022.0,Samuel Lanthaler,Transactions of Mathematics and Its Applications,True,3566.0
+https://openalex.org/W3186384563,166,3,On universal approximation and error bounds for Fourier Neural Operators,2021.0,Nikola Kovachki,CaltechAUTHORS (California Institute of Technology),True,3503.0
+https://openalex.org/W2950883932,163,3,Prediction of aerodynamic flow fields using convolutional neural networks,2019.0,Saakaar Bhatnagar,Computational Mechanics,False,3463.0
+https://openalex.org/W3137240924,159,3,DeepM&Mnet: Inferring the electroconvection multiphysics fields based on operator approximation by neural networks,2021.0,Shengze Cai,Journal of Computational Physics,True,3842.0
+https://openalex.org/W2991023341,157,3,Towards Physics-informed Deep Learning for Turbulent Flow Prediction,2020.0,Rui Wang,ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD),True,3658.0
+https://openalex.org/W2990138404,156,3,Advances in Neural Information Processing Systems 19,2007.0,,The MIT Press eBooks,False,2490.0
+https://openalex.org/W3212687717,143,3,Choose a Transformer: Fourier or Galerkin,2021.0,Shuhao Cao,arXiv (Cornell University),True,3042.0
+https://openalex.org/W4394578532,142,3,Neural operators for accelerating scientific simulations and design,2024.0,Kamyar Azizzadenesheli,Nature Reviews Physics,True,2027.0
+https://openalex.org/W7133228395,131,3,PDEBench: An Extensive Benchmark for Scientific Machine Learning,2022.0,Makoto Takamoto,neural information processing systems,True,2660.0
+https://openalex.org/W4225717750,124,3,Message Passing Neural PDE Solvers,2022.0,J. Brandstetter,arXiv (Cornell University),True,2352.0
+https://openalex.org/W3202621745,121,3,Multiwavelet-based Operator Learning for Differential Equations,2021.0,"Gupta, Gaurav",arXiv (Cornell University),True,2674.0
+https://openalex.org/W4322759863,119,3,GNOT: A General Neural Operator Transformer for Operator Learning,2023.0,Zhongkai Hao,arXiv (Cornell University),True,2296.0
+https://openalex.org/W3201460085,116,3,DeepM&Mnet for hypersonics: Predicting the coupled flow and finite-rate chemistry behind a normal shock using neural-network approximation of operators,2021.0,Zhiping Mao,Journal of Computational Physics,True,2868.0
+https://openalex.org/W4311988656,114,3,Wavelet Neural Operator for solving parametric partial differential equations in computational mechanics problems,2022.0,Tapas Tripura,Computer Methods in Applied Mechanics and Engineering,True,1987.0
+https://openalex.org/W2212370034,108,3,The FEniCS Project Version 1.5,2015.0,Martin Sandve Alnæs,Department of Earth Sciences EPrints Repository,False,1769.0
+https://openalex.org/W3115418185,106,3,Operator learning for predicting multiscale bubble growth dynamics,2021.0,Chensen Lin,The Journal of Chemical Physics,True,2655.0
+https://openalex.org/W4224089288,106,3,Multifidelity deep neural operators for efficient learning of partial differential equations with application to fast inverse design of nanoscale heat transport,2022.0,Lu Lu,Physical Review Research,True,2172.0
+https://openalex.org/W3202809124,104,3,Improved Architectures and Training Algorithms for Deep Operator Networks,2022.0,Sifan Wang,Journal of Scientific Computing,False,2378.0
+https://openalex.org/W3216608673,102,3,Factorized Fourier Neural Operators,2021.0,Alasdair Tran,arXiv (Cornell University),True,2295.0
+https://openalex.org/W6600175564,98,3,,,,,False,1501.0
+https://openalex.org/W4281739387,96,3,Transformer for Partial Differential Equations' Operator Learning,2022.0,Zijie Li,arXiv (Cornell University),True,2125.0
+https://openalex.org/W3170733857,93,3,Long-time integration of parametric evolution equations with physics-informed DeepONets,2022.0,Sifan Wang,Journal of Computational Physics,True,1997.0
+https://openalex.org/W4399962217,93,3,Laplace neural operator for solving differential equations,2024.0,Qianying Cao,Nature Machine Intelligence,True,1549.0
+https://openalex.org/W3087889215,85,3,A physics-informed operator regression framework for extracting data-driven continuum models,2020.0,Ravi G. Patel,Computer Methods in Applied Mechanics and Engineering,False,1870.0
+https://openalex.org/W4388654737,83,3,Learning skillful medium-range global weather forecasting,2023.0,Rémi Lam,Science,False,1175.0
+https://openalex.org/W3038186741,83,3,Solver-in-the-Loop: Learning from Differentiable Physics to Interact with Iterative PDE-Solvers,2020.0,Kiwon Um,arXiv (Cornell University),True,1509.0
+https://openalex.org/W4387317482,81,3,Physics-Informed Deep Neural Operator Networks,2023.0,Somdatta Goswami,Computational methods in engineering & the sciences,False,1736.0
+https://openalex.org/W4224952693,79,3,U-NO: U-shaped Neural Operators,2022.0,Md Ashiqur Rahman,arXiv (Cornell University),True,1749.0
+https://openalex.org/W7133242282,79,3,Geometry-Informed Neural Operator for Large-Scale 3D PDEs,2023.0,Zongyi Li,neural information processing systems,True,1468.0
+https://openalex.org/W3028316595,78,3,The Random Feature Model for Input-Output Maps between Banach Spaces,2021.0,Nicholas H. Nelsen,SIAM Journal on Scientific Computing,True,1898.0
+https://openalex.org/W4221153093,77,3,Learning deep Implicit Fourier Neural Operators (IFNOs) with applications to heterogeneous material modeling,2022.0,Huaiqian You,Computer Methods in Applied Mechanics and Engineering,True,1698.0
+https://openalex.org/W4310497802,76,3,Deep transfer operator learning for partial differential equations under conditional shift,2022.0,Somdatta Goswami,Nature Machine Intelligence,True,1433.0
+https://openalex.org/W4225860188,73,3,Learning Operators with Coupled Attention,2022.0,Georgios Kissas,arXiv (Cornell University),True,1876.0
+https://openalex.org/W3021053516,73,3,MESHFREEFLOWNET: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework,2020.0,Chiyu lMaxr Jiang,"International Conference for High Performance Computing, Networking, Storage and Analysis (SC)",True,1546.0
+https://openalex.org/W4313399349,73,3,Data-driven and physics-informed deep learning operators for solution of heat conduction equation with parametric heat source,2022.0,Seid Korić,International Journal of Heat and Mass Transfer,True,1486.0
+https://openalex.org/W4367674997,72,3,Reliable Extrapolation of Deep Neural Operators Informed by Physics or Sparse Observations,2023.0,Min Zhu,Computer Methods in Applied Mechanics and Engineering,True,1385.0
+https://openalex.org/W4300980636,72,3,Towards Multi-spatiotemporal-scale Generalized PDE Modeling,2022.0,Jayesh K. Gupta,arXiv (Cornell University),True,1388.0
+https://openalex.org/W2923537029,71,3,Machine learning and the physical sciences,2019.0,Giuseppe Carleo,Reviews of Modern Physics,False,1013.0
+https://openalex.org/W3177828909,71,3,Highly accurate protein structure prediction with AlphaFold,2021.0,John Jumper,Nature,False,1394.0
+https://openalex.org/W4383218913,70,3,Accurate medium-range global weather forecasting with 3D neural networks,2023.0,Kaifeng Bi,Nature,True,727.0
+https://openalex.org/W3092228416,70,3,Learning Mesh-Based Simulation with Graph Networks,2020.0,Tobias Pfaff,arXiv (Cornell University),False,1230.0
+https://openalex.org/W3007913393,70,3,Learning to Simulate Complex Physics with Graph Networks,2020.0,Álvaro Sánchez‐González,arXiv (Cornell University),False,1462.0
+https://openalex.org/W2116341502,70,3,The Graph Neural Network Model,2008.0,Franco Scarselli,IEEE Transactions on Neural Networks,False,1082.0
+https://openalex.org/W3025949386,70,3,The ERA5 global reanalysis,2020.0,Hans Hersbach,Quarterly Journal of the Royal Meteorological Society,False,827.0
+https://openalex.org/W3138516171,69,3,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,2021.0,Ze Liu,IEEE/CVF International Conference on Computer Vision (ICCV),False,916.0
+https://openalex.org/W2112311198,68,3,Gmsh: A 3‐D finite element mesh generator with built‐in pre‐ and post‐processing facilities,2009.0,Christophe Geuzaine,International Journal for Numerical Methods in Engineering,False,1016.0
+https://openalex.org/W7133192037,68,3,Convolutional Neural Operators for robust and accurate learning of PDEs,2023.0,Bogdan Raonić,neural information processing systems,True,1161.0
+https://openalex.org/W4294170298,68,3,Learning two-phase microstructure evolution using neural operators and autoencoder architectures,2022.0,Vivek Oommen,npj Computational Materials,True,1438.0
+https://openalex.org/W2811208018,67,3,Deep Convolutional Encoder‐Decoder Networks for Uncertainty Quantification of Dynamic Multiphase Flow in Heterogeneous Media,2018.0,Shaoxing Mo,Water Resources Research,False,1229.0
+https://openalex.org/W4391679243,66,3,Spectral Neural Operators,2023.0,Vladimir Fanaskov,Doklady Mathematics,True,1340.0
+https://openalex.org/W2607406448,65,3,Solving ill-posed inverse problems using iterative deep neural networks,2017.0,Jonas Adler,Inverse Problems,False,1085.0
+https://openalex.org/W4382048606,65,3,FourCastNet: Accelerating Global High-Resolution Weather Forecasting Using Adaptive Fourier Neural Operators,2023.0,Thorsten Kurth,Platform for Advanced Scientific Computing Conference (PASC),True,1096.0
+https://openalex.org/W2949676527,64,3,Optuna,2019.0,Takuya Akiba,ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD),False,738.0
+https://openalex.org/W2899663614,64,3,Gaussian Error Linear Units (GELUs),2016.0,Dan Hendrycks,arXiv (Cornell University),False,997.0
+https://openalex.org/W4221152086,63,3,Interfacing finite elements with deep neural operators for fast multiscale modeling of mechanics problems,2022.0,Minglang Yin,Computer Methods in Applied Mechanics and Engineering,True,1490.0
+https://openalex.org/W3035431334,63,3,Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction,2020.0,Filipe de Avila Belbute-Peres,arXiv (Cornell University),True,1187.0
+https://openalex.org/W4385657497,63,3,"Fourier-DeepONet: Fourier-enhanced deep operator networks for full waveform inversion with improved accuracy, generalizability, and robustness",2023.0,Min Zhu,Computer Methods in Applied Mechanics and Engineering,True,1187.0
+https://openalex.org/W4283460575,63,3,Approximation rates of DeepONets for learning operators arising from advection–diffusion equations,2022.0,Beichuan Deng,Neural Networks,True,852.0
+https://openalex.org/W3214773515,63,3,Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers,2021.0,John Guibas,CaltechAUTHORS (California Institute of Technology),True,1287.0
+https://openalex.org/W4244063180,62,3,Finite Difference Methods for Ordinary and Partial Differential Equations,2007.0,Randall J. LeVeque,Society for Industrial and Applied Mathematics eBooks,False,866.0
+https://openalex.org/W3016309349,62,3,A deep-learning-based surrogate model for data assimilation in dynamic subsurface flow problems,2020.0,Meng Tang,Journal of Computational Physics,False,827.0
+https://openalex.org/W2907492528,61,3,A Comprehensive Survey on Graph Neural Networks,2020.0,Zonghan Wu,IEEE Transactions on Neural Networks and Learning Systems,False,876.0
+https://openalex.org/W2909891600,61,3,Learning Neural PDE Solvers with Convergence Guarantees,2019.0,Jun-Ting Hsieh,arXiv (Cornell University),True,1097.0
+https://openalex.org/W3035965352,60,3,Array programming with NumPy,2020.0,Charles R. Harris,Nature,False,1000.0
+https://openalex.org/W1506342804,59,3,Iterative Methods for Sparse Linear Systems,2003.0,Yousef Saad,Society for Industrial and Applied Mathematics eBooks,False,796.0
+https://openalex.org/W2519887557,59,3,Semi-Supervised Classification with Graph Convolutional Networks,2016.0,Thomas Kipf,arXiv (Cornell University),False,881.0
+https://openalex.org/W4384561839,59,3,Encoding physics to learn reaction–diffusion processes,2023.0,Chengping Rao,Nature Machine Intelligence,True,1343.0
+https://openalex.org/W3210300097,58,3,Seismic Wave Propagation and Inversion with Neural Operators,2021.0,Yan Yang,The Seismic Record,True,1043.0
+https://openalex.org/W4387530909,57,3,Sequential Deep Operator Networks (S-DeepONet) for predicting full-field solutions under time-dependent loads,2023.0,Junyan He,Engineering Applications of Artificial Intelligence,True,930.0
+https://openalex.org/W2962834855,56,3,Sigmoid-weighted linear units for neural network function approximation in reinforcement learning,2018.0,Stefan Elfwing,Neural Networks,False,869.0
+https://openalex.org/W2095354302,55,3,Approximations of continuous functionals by neural networks with application to dynamic systems,1993.0,T. Chen,IEEE Transactions on Neural Networks,False,948.0
+https://openalex.org/W3152893301,54,3,Graph neural networks: A review of methods and applications,2020.0,Jie Zhou,AI Open,False,778.0
+https://openalex.org/W7133240649,54,3,NOMAD: Nonlinear Manifold Decoders for Operator Learning,2022.0,Jacob H. Seidman,neural information processing systems,True,1035.0
+https://openalex.org/W4385370256,54,3,Novel DeepONet architecture to predict stresses in elastoplastic structures with variable complex geometries and loads,2023.0,Junyan He,Computer Methods in Applied Mechanics and Engineering,True,874.0
+https://openalex.org/W2963341956,53,3,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,2019.0,Jacob Devlin,Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT),False,1099.0
+https://openalex.org/W2918495682,53,3,Learning to Optimize Multigrid PDE Solvers,2019.0,Daniel Greenfeld,arXiv (Cornell University),True,941.0
+https://openalex.org/W4401044008,53,3,Fourier-MIONet: Fourier-enhanced multiple-input neural operators for multiphase modeling of geological carbon sequestration,2024.0,Zhongyi Jiang,Reliability Engineering & System Safety,True,811.0
+https://openalex.org/W2011301426,52,3,Matplotlib: A 2D Graphics Environment,2007.0,John D. Hunter,Computing in Science & Engineering,False,850.0
+https://openalex.org/W6929334658,52,3,,,,,False,974.0
+https://openalex.org/W4296754083,52,3,The Cost-Accuracy Trade-Off in Operator Learning with Neural Networks,2022.0,Maarten V. de Hoop,Journal of Machine Learning,True,1153.0
+https://openalex.org/W3135937350,51,3,Evolutional deep neural network,2021.0,Yifan Du,Physical review. E,True,1297.0
+https://openalex.org/W2766453196,51,3,Graph Attention Networks,2017.0,Petar Veličković,arXiv (Cornell University),False,798.0
+https://openalex.org/W2805516822,51,3,"Relational inductive biases, deep learning, and graph networks",2018.0,Peter Battaglia,arXiv (Cornell University),False,944.0
+https://openalex.org/W2742127985,50,3,Deep Potential Molecular Dynamics: A Scalable Model with the Accuracy of Quantum Mechanics,2018.0,Linfeng Zhang,Physical Review Letters,False,1123.0
+https://openalex.org/W4312933868,50,3,High-Resolution Image Synthesis with Latent Diffusion Models,2022.0,Robin Rombach,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,False,703.0
+https://openalex.org/W4402827736,50,3,Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations,2024.0,Nick McGreivy,Nature Machine Intelligence,True,879.0
+https://openalex.org/W2606780347,50,3,Neural Message Passing for Quantum Chemistry,2017.0,Justin Gilmer,arXiv (Cornell University),False,878.0
+https://openalex.org/W3093190107,48,3,A point-cloud deep learning framework for prediction of fluid flow fields on irregular geometries,2021.0,Ali Kashefi,Physics of Fluids,False,952.0
+https://openalex.org/W3124944419,48,3,DeepGreen: deep learning of Green’s functions for nonlinear boundary value problems,2021.0,Craig Gin,Scientific Reports,False,1183.0
+https://openalex.org/W2558748708,48,3,Geometric Deep Learning: Going beyond Euclidean data,2017.0,Michael M. Bronstein,IEEE Signal Processing Magazine,False,668.0
+https://openalex.org/W4323904364,48,3,Real-time high-resolution CO 2 geological storage prediction using nested Fourier neural operators,2023.0,Gege Wen,Energy & Environmental Science,True,784.0
+https://openalex.org/W7133202430,48,3,PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers,2023.0,Phillip Lippe,neural information processing systems,True,788.0
+https://openalex.org/W2908510526,48,3,Decoupled Weight Decay Regularization,2017.0,Ilya Loshchilov,arXiv (Cornell University),False,722.0
+https://openalex.org/W1789155650,48,3,The quiet revolution of numerical weather prediction,2015.0,Péter Bauer,Nature,False,515.0
+https://openalex.org/W3081814969,47,3,SympNets: Intrinsic structure-preserving symplectic networks for identifying Hamiltonian systems,2020.0,Pengzhan Jin,Neural Networks,False,1120.0
+https://openalex.org/W73123583,47,3,Automated Solution of Differential Equations by the Finite Element Method: The FEniCS Book,2012.0,Anders Logg,CERN Document Server (European Organization for Nuclear Research),False,667.0
+https://openalex.org/W4391590960,46,3,Transolver: A Fast Transformer Solver for PDEs on General Geometries,2024.0,Haixu Wu,arXiv (Cornell University),False,748.0
+https://openalex.org/W2909750748,46,3,DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation,2019.0,Jeong Joon Park,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,False,760.0
+https://openalex.org/W4309208391,46,3,"Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications",2022.0,Zhongkai Hao,arXiv (Cornell University),True,755.0
+https://openalex.org/W4386366778,46,3,Multifidelity deep operator networks for data-driven and physics-informed problems,2023.0,Amanda A. Howard,Journal of Computational Physics,True,1069.0
+https://openalex.org/W4318978575,45,3,A physics-informed diffusion model for high-fidelity flow field reconstruction,2023.0,Dule Shu,Journal of Computational Physics,True,655.0
+https://openalex.org/W4292069163,45,3,On the Partial Difference Equations of Mathematical Physics,1967.0,Richard Courant,IBM Journal of Research and Development,False,858.0
+https://openalex.org/W7133215855,45,3,Generic Bounds on the Approximation Error for Physics-Informed (and) Operator Learning,2022.0,Tim De Ryck,neural information processing systems,True,927.0
+https://openalex.org/W4367302263,44,3,Applications of physics informed neural operators,2023.0,Shawn Rosofsky,Machine Learning Science and Technology,True,712.0
+https://openalex.org/W4310291155,44,3,Neural operator prediction of linear instability waves in high-speed boundary layers,2022.0,Patricio Clark Di Leoni,Journal of Computational Physics,True,721.0
+https://openalex.org/W4304958862,44,3,Fourier neural operator approach to large eddy simulation of three-dimensional turbulence,2022.0,Zhijie Li,Theoretical and Applied Mechanics Letters,True,876.0
+https://openalex.org/W3036167779,43,3,Denoising Diffusion Probabilistic Models,2020.0,Jonathan Ho,arXiv (Cornell University),False,756.0
+https://openalex.org/W2948567396,43,3,Physics-Informed Probabilistic Learning of Linear Embeddings of Nonlinear Dynamics with Guaranteed Stability,2020.0,Shaowu Pan,SIAM Journal on Applied Dynamical Systems,True,838.0
+https://openalex.org/W4229034759,43,3,Wavelet neural operator: a neural operator for parametric partial differential equations,2022.0,Tapas Tripura,arXiv (Cornell University),True,977.0
+https://openalex.org/W4393177831,43,3,Geom-DeepONet: A point-cloud-based deep operator network for field predictions on 3D parameterized geometries,2024.0,Junyan He,Computer Methods in Applied Mechanics and Engineering,True,799.0
+https://openalex.org/W3208453486,42,3,A seamless multiscale operator neural network for inferring bubble dynamics,2021.0,Chensen Lin,Journal of Fluid Mechanics,True,1131.0
+https://openalex.org/W3205765690,42,3,Mosaic flows: A transferable deep learning framework for solving PDEs on unseen domains,2021.0,Hengjie Wang,Computer Methods in Applied Mechanics and Engineering,True,967.0
+https://openalex.org/W4389164284,42,3,Deep neural operators as accurate surrogates for shape optimization,2023.0,Khemraj Shukla,Engineering Applications of Artificial Intelligence,True,825.0
+https://openalex.org/W4379925125,42,3,Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere,2023.0,Boris Bonev,arXiv (Cornell University),True,692.0
+https://openalex.org/W2995001833,41,3,Learning to Control PDEs with Differentiable Physics,2020.0,Philipp Holl,arXiv (Cornell University),True,615.0
+https://openalex.org/W4245654886,40,3,Automated Solution of Differential Equations by the Finite Element Method,2012.0,,Lecture notes in computational science and engineering,False,542.0
+https://openalex.org/W3216107495,40,3,Transformers for modeling physical systems,2021.0,Nicholas Geneva,Neural Networks,False,939.0
+https://openalex.org/W4385059818,40,3,Long-term predictions of turbulence by implicit U-Net enhanced Fourier neural operator,2023.0,Zhijie Li,Physics of Fluids,True,711.0
+https://openalex.org/W3030163527,39,3,Language Models are Few-Shot Learners,2020.0,"Brown, Tom B.",arXiv (Cornell University),False,767.0
+https://openalex.org/W2518108298,39,3,SGDR: Stochastic Gradient Descent with Warm Restarts,2016.0,Ilya Loshchilov,arXiv (Cornell University),False,578.0
+https://openalex.org/W1490180844,39,3,Spectral Methods in MATLAB,2000.0,Lloyd Nicholas Trefethen,Society for Industrial and Applied Mathematics eBooks,False,762.0
+https://openalex.org/W4309079709,39,3,SVD perspectives for augmenting DeepONet flexibility and interpretability,2022.0,Simone Venturi,Computer Methods in Applied Mechanics and Engineering,False,745.0
+https://openalex.org/W1903029394,39,3,Fully convolutional networks for semantic segmentation,2015.0,Jonathan Long,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,False,422.0
+https://openalex.org/W2076077791,38,3,Numerical Solution of the Navier-Stokes Equations,1968.0,ALEXANDRE JOEL CHORIN,Mathematics of Computation,False,634.0
+https://openalex.org/W3099878876,37,3,Array programming with NumPy,2020.0,"Harris, CR",RePEc: Research Papers in Economics,False,591.0
+https://openalex.org/W4386859252,37,3,In-context operator learning with data prompts for differential equation problems,2023.0,Liu Yang,Proceedings of the National Academy of Sciences,True,564.0
+https://openalex.org/W4221156259,37,3,Nonlocal kernel network (NKN): A stable and resolution-independent deep neural network,2022.0,Huaiqian You,Journal of Computational Physics,True,995.0
+https://openalex.org/W4399622598,37,3,Koopman neural operator as a mesh-free solver of non-linear partial differential equations,2024.0,Wei Xiong,Journal of Computational Physics,True,653.0
+https://openalex.org/W4225405705,37,3,E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials,2022.0,Simon Batzner,Nature Communications,False,379.0
+https://openalex.org/W4213309214,37,3,Fourier Neural Operator for Solving Subsurface Oil/Water Two-Phase Flow Partial Differential Equation,2022.0,Kai Zhang,SPE Journal,True,465.0
+https://openalex.org/W4390224269,37,3,Neural Operators for Bypassing Gain and Control Computations in PDE Backstepping,2023.0,Luke Bhan,IEEE Transactions on Automatic Control,True,191.0
+https://openalex.org/W4385490607,36,3,Scientific discovery in the age of artificial intelligence,2023.0,Hanchen Wang,Nature,False,603.0
+https://openalex.org/W4385772954,36,3,Phase-Field DeepONet: Physics-informed deep operator neural network for fast simulations of pattern formation governed by gradient flows of free-energy functionals,2023.0,Wei Li,Computer Methods in Applied Mechanics and Engineering,True,848.0
+https://openalex.org/W3003709258,36,3,WeatherBench: A Benchmark Data Set for Data‐Driven Weather Forecasting,2020.0,Stephan Rasp,Journal of Advances in Modeling Earth Systems,False,487.0
+https://openalex.org/W4388726199,36,3,Solving Seismic Wave Equations on Variable Velocity Models With Fourier Neural Operator,2023.0,Bian Li,IEEE Transactions on Geoscience and Remote Sensing,True,435.0
+https://openalex.org/W4226431136,36,3,Lie Point Symmetry Data Augmentation for Neural PDE Solvers,2022.0,J. Brandstetter,arXiv (Cornell University),True,677.0
+https://openalex.org/W2624431344,36,3,Inductive Representation Learning on Large Graphs,2017.0,William L. Hamilton,arXiv (Cornell University),False,620.0
+https://openalex.org/W2939129005,35,3,Unsupervised Deep Learning Algorithm for PDE-based Forward and Inverse Problems,2019.0,Leah Bar,arXiv (Cornell University),True,877.0
+https://openalex.org/W4390841447,35,3,Multi-resolution partial differential equations preserved learning framework for spatiotemporal dynamics,2024.0,Xin‐Yang Liu,Communications Physics,True,865.0
+https://openalex.org/W4318225439,35,3,ClimaX: A foundation model for weather and climate,2023.0,Tung Thanh Nguyen,arXiv (Cornell University),True,525.0
+https://openalex.org/W4399675984,35,3,Learning nonlinear operators in latent spaces for real-time predictions of complex dynamics in physical systems,2024.0,Katiana Kontolati,Nature Communications,True,734.0
+https://openalex.org/W2749581528,35,3,Super-convergence: very fast training of neural networks using large learning rates,2019.0,Leslie N. Smith,Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications,False,582.0
+https://openalex.org/W4220965096,35,3,Data-driven discovery of Green’s functions with human-understandable deep learning,2022.0,Nicolas Boullé,Scientific Reports,True,746.0
+https://openalex.org/W2560609797,35,3,PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation,2017.0,Raffaelli Charles,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,False,638.0
+https://openalex.org/W4390246622,34,3,En-DeepONet: An enrichment approach for enhancing the expressivity of neural operators with applications to seismology,2023.0,Ehsan Haghighat,Computer Methods in Applied Mechanics and Engineering,True,755.0
+https://openalex.org/W2140153041,34,3,GMRES: A Generalized Minimal Residual Algorithm for Solving Nonsymmetric Linear Systems,1986.0,Yousef Saad,SIAM Journal on Scientific and Statistical Computing,False,484.0
+https://openalex.org/W4403491647,34,3,Blending neural operators and relaxation methods in PDE numerical solvers,2024.0,Enrui Zhang,Nature Machine Intelligence,True,643.0
+https://openalex.org/W4307570062,34,3,B-DeepONet: An enhanced Bayesian DeepONet for solving noisy parametric PDEs using accelerated replica exchange SGLD,2022.0,Guang Lin,Journal of Computational Physics,True,663.0
+https://openalex.org/W3213708983,32,3,Solving PDE-Constrained Control Problems Using Operator Learning,2022.0,Rakhoon Hwang,Proceedings of the AAAI Conference on Artificial Intelligence,True,694.0
+https://openalex.org/W4210574324,32,3,The Mathematical theory of finite element methods,2003.0,,Computers & Mathematics with Applications,False,590.0
+https://openalex.org/W4247680473,171,4,Large Sample Properties of Simulations Using Latin Hypercube Sampling,1987.0,Michael L. Stein,Technometrics,False,3202.0
+https://openalex.org/W3177788059,122,4,A two-stage physics-informed neural network method based on conserved quantities and applications in localized wave solutions,2022.0,Shuning Lin,Journal of Computational Physics,True,2395.0
+https://openalex.org/W3121370881,90,4,Solving localized wave solutions of the derivative nonlinear Schrödinger equation using an improved PINN method,2021.0,Juncai Pu,Nonlinear Dynamics,True,2028.0
+https://openalex.org/W3117301071,89,4,Data-driven rogue waves and parameter discovery in the defocusing nonlinear Schrödinger equation with a potential using the PINN deep learning,2021.0,Li Wang,Physics Letters A,True,1916.0
+https://openalex.org/W3168017910,71,4,Data-driven femtosecond optical soliton excitations and parameters discovery of the high-order NLSE using the PINN,2021.0,Yin Fang,Nonlinear Dynamics,True,1218.0
+https://openalex.org/W3165445341,65,4,PINN deep learning method for the Chen–Lee–Liu equation: Rogue wave on the periodic background,2021.0,Wei‐Qi Peng,Communications in Nonlinear Science and Numerical Simulation,True,1157.0
+https://openalex.org/W3210985820,63,4,Gradient-optimized physics-informed neural networks (GOPINNs): a deep learning method for solving the complex modified KdV equation,2021.0,Jiaheng Li,Nonlinear Dynamics,True,1455.0
+https://openalex.org/W3120286796,63,4,"Soliton, breather, and rogue wave solutions for solving the nonlinear Schrödinger equation using a deep learning method with physical constraints*",2021.0,Juncai Pu,Chinese Physics B,False,1209.0
+https://openalex.org/W1019830208,60,4,Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning,2015.0,Babak Alipanahi,Nature Biotechnology,False,1250.0
+https://openalex.org/W3094391672,60,4,A deep learning method for solving third-order nonlinear evolution equations,2020.0,Jun Li,Communications in Theoretical Physics,False,1145.0
+https://openalex.org/W3091491475,54,4,Solving second-order nonlinear evolution partial differential equations using deep learning*,2020.0,Jun Li,Communications in Theoretical Physics,True,1092.0
+https://openalex.org/W2194321275,52,4,Human-level concept learning through probabilistic program induction,2015.0,Brenden M. Lake,Science,False,1097.0
+https://openalex.org/W4301188084,52,4,Mix-Training Physics-Informed Neural Networks for the Rogue Waves of Nonlinear Schrödinger Equation,2022.0,Jiaheng Li,Chaos Solitons & Fractals,True,905.0
+https://openalex.org/W3106144253,50,4,Solving forward and inverse problems of the logarithmic nonlinear Schrödinger equation with PT -symmetric harmonic potential via deep learning,2020.0,Zijian Zhou,Physics Letters A,True,1174.0
+https://openalex.org/W3197421817,49,4,Predicting the dynamic process and model parameters of the vector optical solitons in birefringent fibers via the modified PINN,2021.0,Gang-Zhou Wu,Chaos Solitons & Fractals,False,873.0
+https://openalex.org/W2907294897,49,4,Bilinear neural network method to obtain the exact analytical solutions of nonlinear partial differential equations and its application to p-gBKP equation,2018.0,Runfa Zhang,Nonlinear Dynamics,True,477.0
+https://openalex.org/W4281259677,49,4,Data-driven vector localized waves and parameters discovery for Manakov system using deep learning approach,2022.0,Juncai Pu,Chaos Solitons & Fractals,True,1022.0
+https://openalex.org/W4313529129,47,4,Physics-informed neural network methods based on Miura transformations and discovery of new localized wave solutions,2022.0,Shuning Lin,Physica D Nonlinear Phenomena,True,946.0
+https://openalex.org/W4385649106,44,4,Enforcing continuous symmetries in physics-informed neural network for solving forward and inverse problems of partial differential equations,2023.0,Zhi‐Yong Zhang,Journal of Computational Physics,True,934.0
+https://openalex.org/W4225269297,39,4,Prediction of optical solitons using an improved physics-informed neural network method with the conservation law constraint,2022.0,Gang-Zhou Wu,Chaos Solitons & Fractals,True,805.0
+https://openalex.org/W3207455116,38,4,Data-driven peakon and periodic peakon solutions and parameter discovery of some nonlinear dispersive equations via deep learning,2021.0,Li Wang,Physica D Nonlinear Phenomena,True,921.0
+https://openalex.org/W3203264955,37,4,Data-driven vector soliton solutions of coupled nonlinear Schrödinger equation using a deep learning algorithm,2021.0,Yi-Fan Mo,Physics Letters A,True,891.0
+https://openalex.org/W4224033936,37,4,Data-Driven Soliton Solutions and Model Parameters of Nonlinear Wave Models Via the Conservation-Law Constrained Neural Network Method,2022.0,Yin Fang,Chaos Solitons & Fractals,True,627.0
+https://openalex.org/W1979722387,36,4,"XLI. On the change of form of long waves advancing in a rectangular canal, and on a new type of long stationary waves",1895.0,D. J. Korteweg,The London Edinburgh and Dublin Philosophical Magazine and Journal of Science,False,617.0
+https://openalex.org/W4288032460,36,4,Data-driven rogue waves and parameters discovery in nearly integrable PT -symmetric Gross–Pitaevskii equations via PINNs deep learning,2022.0,Ming Zhong,Physica D Nonlinear Phenomena,False,730.0
+https://openalex.org/W4226244456,228,5,Physics‐Informed Neural Networks (PINNs) for Wave Propagation and Full Waveform Inversions,2022.0,Majid Rasht‐Behesht,Journal of Geophysical Research Solid Earth,True,3808.0
+https://openalex.org/W3161445736,136,5,PINNeik: Eikonal solution using physics-informed neural networks,2021.0,Umair bin Waheed,Computers & Geosciences,True,2605.0
+https://openalex.org/W3047035577,124,5,Solving the frequency-domain acoustic VTI wave equation using physics-informed neural networks,2021.0,Chao Song,Geophysical Journal International,True,2232.0
+https://openalex.org/W3015062287,88,5,EikoNet: Solving the Eikonal Equation With Deep Neural Networks,2020.0,Jonathan Smith,IEEE Transactions on Geoscience and Remote Sensing,False,1775.0
+https://openalex.org/W3035842227,87,5,Solving the wave equation with physics-informed deep learning,2020.0,Ben Moseley,arXiv (Cornell University),True,1404.0
+https://openalex.org/W3047011887,83,5,Physics informed machine learning: Seismic wave equation,2020.0,Sadegh Karimpouli,Geoscience Frontiers,True,1629.0
+https://openalex.org/W3211225070,73,5,A versatile framework to solve the Helmholtz equation using physics-informed neural networks,2021.0,Chao Song,Geophysical Journal International,True,1208.0
+https://openalex.org/W3196492281,62,5,Wavefield solutions from machine learned functions constrained by the Helmholtz equation,2021.0,Tariq A. Alkhalifah,Artificial Intelligence in Geosciences,False,992.0
+https://openalex.org/W2100245965,57,5,An overview of full-waveform inversion in exploration geophysics,2009.0,Jean Virieux,Geophysics,False,629.0
+https://openalex.org/W3153949322,56,5,Wavefield Reconstruction Inversion via Physics-Informed Neural Networks,2021.0,Chao Song,IEEE Transactions on Geoscience and Remote Sensing,True,928.0
+https://openalex.org/W3204171709,54,5,PINNup: Robust Neural Network Wavefield Solutions Using Frequency Upscaling and Neuron Splitting,2022.0,Xinquan Huang,Journal of Geophysical Research Solid Earth,True,966.0
+https://openalex.org/W4304588351,52,5,Simulating seismic multifrequency wavefields with the Fourier feature physics-informed neural network,2022.0,Chao Song,Geophysical Journal International,True,864.0
+https://openalex.org/W4388626883,42,5,SeismicNet: Physics-informed neural networks for seismic wave modeling in semi-infinite domain,2023.0,Pu Ren,Computer Physics Communications,True,892.0
+https://openalex.org/W3109534075,55,6,Intelligent computing with Levenberg–Marquardt artificial neural networks for nonlinear system of COVID-19 epidemic model for future generation disease control,2020.0,Tahir Nawaz Cheema,The European Physical Journal Plus,False,206.0
+https://openalex.org/W3127748774,52,6,A stochastic numerical analysis based on hybrid NAR-RBFs networks nonlinear SITR model for novel COVID-19 dynamics,2021.0,Muhammad Shoaib,Computer Methods and Programs in Biomedicine,False,208.0
+https://openalex.org/W2979562792,48,6,Enhancing Thermal Conductivity of Fluids With Nanoparticles,1995.0,Stephen U. S. Choi,Developments and Applications of Non-Newtonian Flows,False,93.0
+https://openalex.org/W3084527880,44,6,Integrated neuro-evolution-based computing solver for dynamics of nonlinear corneal shape model numerically,2020.0,Iftikhar Ahmad,Neural Computing and Applications,False,162.0
+https://openalex.org/W3166596662,43,6,Neuro-computing networks for entropy generation under the influence of MHD and thermal radiation,2021.0,Muhammad Shoaib,Surfaces and Interfaces,True,151.0
+https://openalex.org/W3208306711,42,6,Ohmic heating effects and entropy generation for nanofluidic system of Ree-Eyring fluid: Intelligent computing paradigm,2021.0,Muhammad Shoaib,International Communications in Heat and Mass Transfer,True,148.0
+https://openalex.org/W2938724855,39,6,Novel applications of intelligent computing paradigms for the analysis of nonlinear reactive transport model of the fluid in soft tissues and microvessels,2019.0,Iftikhar Ahmad,Neural Computing and Applications,False,161.0
+https://openalex.org/W2035685097,36,6,Convective Transport in Nanofluids,2005.0,Jacopo Buongiorno,ASME Journal of Heat and Mass Transfer,False,83.0
+https://openalex.org/W3213133776,36,6,Intelligent backpropagated neural networks application on Darcy-Forchheimer ferrofluid slip flow system,2021.0,Muhammad Shoaib,International Communications in Heat and Mass Transfer,True,110.0
+https://openalex.org/W3094858401,35,6,Numerical investigation for rotating flow of MHD hybrid nanofluid with thermal radiation over a stretching sheet,2020.0,Muhammad Shoaib,Scientific Reports,False,125.0
+https://openalex.org/W3040738612,34,6,A stochastic computational intelligent solver for numerical treatment of mosquito dispersal model in a heterogeneous environment,2020.0,Muhammad Umar,The European Physical Journal Plus,False,132.0
+https://openalex.org/W3093175864,33,6,Design of neural network based intelligent computing for neumerical treatment of unsteady 3D flow of Eyring-Powell magneto-nanofluidic model,2020.0,Zahoor Shah,Journal of Materials Research and Technology,True,104.0
+https://openalex.org/W3027696403,33,6,Design of neuro-swarming-based heuristics to solve the third-order nonlinear multi-singular Emden–Fowler equation,2020.0,Zulqurnain Sabir,The European Physical Journal Plus,False,126.0

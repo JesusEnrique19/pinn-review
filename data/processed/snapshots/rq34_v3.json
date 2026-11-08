@@ -1,0 +1,119 @@
+{
+  "coded": 250,
+  "random_stratum": 196,
+  "method_family_counts": {
+    "vanilla_pinn": 52,
+    "adaptive_sampling": 9,
+    "other": 29,
+    "variational_weak_form": 8,
+    "operator_learning": 58,
+    "physics_informed_operator": 8,
+    "loss_balancing": 8,
+    "training_strategy": 17,
+    "optimizer": 5,
+    "architecture": 36,
+    "domain_decomposition": 10,
+    "hard_constraints": 10,
+    "uncertainty_bayesian": 11,
+    "hybrid_numerical": 19,
+    "foundation_model": 6,
+    "equation_discovery": 8
+  },
+  "failure_mode_counts": {
+    "none_stated": 68,
+    "computational_cost": 56,
+    "noisy_sparse_data": 33,
+    "high_dimensionality": 21,
+    "parametric_generalisation": 27,
+    "gradient_imbalance": 6,
+    "spectral_bias": 6,
+    "sharp_gradients": 18,
+    "ill_conditioning": 6,
+    "causality_violation": 4,
+    "multiscale": 12,
+    "complex_geometry": 9
+  },
+  "empty_gap_cells": 99,
+  "quality_prevalence": {
+    "q1_strong_baseline": {
+      "n": 105,
+      "yes": 18,
+      "partial": 19,
+      "share_yes": 0.17142857142857143,
+      "ci95_yes": [
+        0.111,
+        0.255
+      ]
+    },
+    "q2_cost_parity": {
+      "n": 105,
+      "yes": 16,
+      "partial": 64,
+      "share_yes": 0.1523809523809524,
+      "ci95_yes": [
+        0.096,
+        0.233
+      ]
+    },
+    "q3_seeds_variance": {
+      "n": 105,
+      "yes": 16,
+      "partial": 40,
+      "share_yes": 0.1523809523809524,
+      "ci95_yes": [
+        0.096,
+        0.233
+      ]
+    },
+    "q4_code_available": {
+      "n": 105,
+      "yes": 23,
+      "partial": 11,
+      "share_yes": 0.21904761904761905,
+      "ci95_yes": [
+        0.151,
+        0.307
+      ]
+    },
+    "q5_tuning_parity": {
+      "n": 105,
+      "yes": 0,
+      "partial": 28,
+      "share_yes": 0.0,
+      "ci95_yes": [
+        0.0,
+        0.035
+      ]
+    },
+    "q6_metric_defined": {
+      "n": 105,
+      "yes": 48,
+      "partial": 39,
+      "share_yes": 0.45714285714285713,
+      "ci95_yes": [
+        0.365,
+        0.552
+      ]
+    },
+    "q7_generalisation_test": {
+      "n": 81,
+      "yes": 55,
+      "partial": 26,
+      "share_yes": 0.6790123456790124,
+      "ci95_yes": [
+        0.571,
+        0.771
+      ]
+    },
+    "q8_limitations": {
+      "n": 105,
+      "yes": 68,
+      "partial": 18,
+      "share_yes": 0.6476190476190476,
+      "ci95_yes": [
+        0.553,
+        0.732
+      ]
+    }
+  }
+}

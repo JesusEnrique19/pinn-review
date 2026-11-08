@@ -1,0 +1,15 @@
+{
+  "topics": {
+    "papers": 13961,
+    "clusters_ge50": 16,
+    "other_share": 0.0,
+    "seed_stability_ari": 0.5948621873046991
+  },
+  "fronts": {
+    "papers": 11724,
+    "clusters_ge50": 25,
+    "other_share": 0.00861480723302627,
+    "seed_stability_ari": 0.7310615602228848
+  },
+  "convergent_validity_nmi": 0.25708056304595234
+}

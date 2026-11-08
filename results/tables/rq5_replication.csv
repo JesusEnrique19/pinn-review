@@ -1,0 +1,6 @@
+problem,method,source,setting,reported,ours_median,n,within_one_order
+P1,M0,krishnapriyan2021,"1D convection beta=30, regular PINN",0.897,0.06314846455351253,5,False
+P4,M0,wang2021gradpath,"Helmholtz a1=1 a2=4, 50 units x 3 hidden layers, model M1 (original PINN)",0.106,0.1508524849967782,5,True
+P4,M0,wang2021gradpath,"Helmholtz, 50 units x 5 hidden layers, model M1",0.14,0.1508524849967782,5,True
+P4,M1,wang2021gradpath,"Helmholtz, 50 units x 3 hidden layers, model M2 (learning-rate annealing)",0.0112,1.0000235559042592,5,False
+P4,M1,wang2021gradpath,"Helmholtz, 50 units x 5 hidden layers, model M2",0.00743,1.0000235559042592,5,False

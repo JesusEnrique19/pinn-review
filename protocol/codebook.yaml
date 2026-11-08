@@ -1,0 +1,167 @@
+# Extraction codebook, version 1 (protocol Section 7).
+# Each field has an operational definition. "multi" fields take a list of values.
+# Changes after G0 are logged in protocol/deviations.md and bump the version.
+
+version: 1
+
+fields:
+  openalex_id:
+    type: string
+    required: true
+    definition: Canonical OpenAlex work ID of the coded paper.
+
+  coder:
+    type: string
+    required: true
+    definition: Initials of the human coder who verified the record.
+
+  contribution_type:
+    type: multi
+    required: true
+    definition: What the paper contributes. Code every type that applies.
+    values:
+      method: Proposes a new or modified method.
+      empirical_comparison: Systematically compares existing methods.
+      theory: Proves approximation, convergence, generalisation or training-dynamics results.
+      benchmark: Introduces a benchmark suite or dataset.
+      software: Introduces a software library or framework.
+      survey: Reviews literature.
+
+  method_family:
+    type: multi
+    required: true
+    definition: Taxonomy branch of the proposed or evaluated method(s).
+    values:
+      vanilla_pinn: Standard soft-constrained PINN with fixed loss weights.
+      loss_balancing: Adaptive or learned loss weights (e.g. learning-rate annealing, NTK weights, self-adaptive weights, GradNorm-type).
+      adaptive_sampling: Collocation points chosen or reweighted from residuals or error indicators (e.g. RAR, RAD, importance sampling).
+      domain_decomposition: Domain split into subdomains with local networks (e.g. XPINN, cPINN, FBPINN, hp-VPINN).
+      hard_constraints: Boundary, initial or symmetry conditions satisfied exactly by construction.
+      architecture: Network design aimed at PDE learning (Fourier features, adaptive activations, residual/gated nets, transformers, KANs).
+      optimizer: Optimisation algorithm changes (second-order, natural gradient, quasi-Newton variants, preconditioning).
+      training_strategy: Curriculum, causal weighting, time marching, sequence-to-sequence, transfer or meta-learning.
+      variational_weak_form: Loss built from a weak, variational or energy formulation.
+      uncertainty_bayesian: Bayesian, ensemble or probabilistic formulations for uncertainty quantification.
+      operator_learning: Learns a map between function spaces from data (DeepONet, FNO, graph/transformer operators).
+      physics_informed_operator: Operator learning with a PDE residual in the loss (PI-DeepONet, PINO).
+      foundation_model: Pre-trained across multiple PDEs or physics and adapted to new ones.
+      hybrid_numerical: Couples a network with a conventional solver (FEM/FD/FV/spectral) inside the method.
+      equation_discovery: Identifies the governing equation itself (sparse regression, symbolic).
+      other: None of the above; describe in notes.
+
+  failure_mode_targeted:
+    type: multi
+    required: true
+    definition: Pathology the paper explicitly claims to address. Use none_stated if no claim is made.
+    values:
+      spectral_bias: Difficulty learning high-frequency components.
+      gradient_imbalance: Loss terms with disparate gradient magnitudes dominate training.
+      ill_conditioning: Ill-conditioned loss landscape or Hessian; slow or stalled convergence.
+      causality_violation: Time-dependent solutions learned out of temporal order.
+      sharp_gradients: Shocks, interfaces, boundary layers or discontinuities.
+      multiscale: Several interacting spatial or temporal scales.
+      high_dimensionality: Curse of dimensionality in the PDE input space.
+      complex_geometry: Irregular domains or boundaries.
+      parametric_generalisation: Retraining needed for new parameters, inputs or geometries.
+      noisy_sparse_data: Noisy or scarce observations.
+      computational_cost: Training or inference cost.
+      none_stated: No specific failure mode claimed.
+
+  pde_class:
+    type: multi
+    required: true
+    definition: Mathematical class of the equations solved in the experiments.
+    values:
+      elliptic: Elliptic PDEs (Poisson, Helmholtz, steady diffusion).
+      parabolic: Parabolic PDEs (heat, Allen-Cahn, reaction-diffusion).
+      hyperbolic: Hyperbolic PDEs (advection, wave, inviscid conservation laws).
+      mixed_or_systems: Mixed-type or coupled systems (Navier-Stokes, elasticity, multiphysics).
+      ode: Ordinary differential equations.
+      integro_fractional: Integral, integro-differential or fractional equations.
+      stochastic: Stochastic differential or partial differential equations.
+      other: Other; describe in notes.
+
+  problem_type:
+    type: multi
+    required: true
+    definition: Task solved.
+    values:
+      forward: Solve for the solution field with known equation and data.
+      inverse_parameter: Estimate unknown coefficients or parameters.
+      inverse_field: Reconstruct unknown fields, sources or boundary data.
+      parametric_surrogate: Learn the solution across a family of parameters or inputs.
+      equation_discovery: Discover the governing equation.
+      control_design: Optimal control or design optimisation.
+      uncertainty_quantification: Quantify uncertainty of predictions.
+
+  application_domain:
+    type: single
+    required: true
+    definition: Main application area of the experiments.
+    values:
+      generic_benchmark: Canonical test equations without an application focus.
+      fluid_dynamics: Fluid flow, aerodynamics, CFD.
+      solid_mechanics: Elasticity, plasticity, fracture.
+      heat_transfer: Conduction, convection, radiation.
+      electromagnetics_optics: Maxwell, photonics, optics.
+      quantum: Schrodinger and quantum systems.
+      biomedical: Cardiovascular, tissue, pharmacokinetics.
+      geoscience_climate: Seismic, groundwater, weather, climate.
+      energy_power_systems: Power grids, batteries, combustion, reactors.
+      chemistry_materials: Reaction kinetics, materials.
+      finance: Option pricing and financial PDEs.
+      robotics_control: Robotics, control systems.
+      cyber_physical_digital_twin: Digital twins, cyber-physical systems, structural health monitoring.
+      other: Other; describe in notes.
+
+  benchmark_pdes:
+    type: text
+    required: false
+    definition: Named equations used in experiments, separated by semicolons (e.g. "Burgers; Allen-Cahn").
+
+  error_metric:
+    type: single
+    required: true
+    definition: Primary accuracy metric reported.
+    values:
+      rel_l2: Relative L2 error.
+      abs_l2_or_mse: Absolute L2 error or mean squared error.
+      linf: Maximum absolute error.
+      other: Other metric; describe in notes.
+      none: No quantitative accuracy metric.
+
+  best_reported_error:
+    type: number
+    required: false
+    definition: Best value of the primary metric reported for the proposed method on its main benchmark.
+
+quality:
+  definition: >-
+    Evidence-quality rubric (RQ4), adapted from McGreivy and Hakim (2024) and the NeurIPS
+    reproducibility checklist. Each item is coded yes, partial, no, or na (not applicable).
+  values: ["yes", "partial", "no", "na"]  # quoted: YAML 1.1 parses bare yes/no as booleans
+  items:
+    q1_strong_baseline:
+      definition: Accuracy is compared against a conventional numerical solver (FEM, FD, FV or spectral) whose resolution or tolerance is stated.
+      partial: A conventional solver is used only to generate the reference, without a cost or accuracy comparison.
+    q2_cost_parity:
+      definition: Computational cost (wall-clock, FLOPs, or hardware time) is reported for the proposed method and the baselines, or methods are compared at equal accuracy or equal cost.
+      partial: Cost is reported for the proposed method only.
+    q3_seeds_variance:
+      definition: Results come from at least three independent runs and report dispersion (standard deviation, IQR or confidence interval).
+      partial: Multiple runs without dispersion, or fewer than three runs.
+    q4_code_available:
+      definition: A public link to code sufficient to reproduce the main results is provided and accessible.
+      partial: Code is promised "upon request" or only partially released.
+    q5_tuning_parity:
+      definition: Hyperparameter selection for baselines is described and uses a budget comparable to the proposed method.
+      partial: Baseline settings are listed but the tuning budget is not described.
+    q6_metric_defined:
+      definition: The error metric and the evaluation points or reference grid are explicitly defined.
+      partial: The metric is named but the evaluation set is not described.
+    q7_generalisation_test:
+      definition: The method is evaluated outside its training configuration (unseen parameters, inputs, geometries or time horizons).
+      na_when: The paper solves a single forward problem with no generalisation claim.
+    q8_limitations:
+      definition: The paper reports limitations or failure cases of the proposed method.
+      partial: Limitations are mentioned generically without evidence.

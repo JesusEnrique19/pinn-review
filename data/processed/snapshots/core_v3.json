@@ -1,0 +1,25 @@
+{
+  "screened_title_abstract": 322,
+  "included_random": 196,
+  "excluded_by_reason": {
+    "EC4_APPLICATION": 73,
+    "EC1_NO_DE": 31,
+    "OFF_TOPIC": 20,
+    "EC2_NOTICE": 2
+  },
+  "seeds_added": 54,
+  "core_total": 250,
+  "ic4_prevalence_by_year": {
+    "2017": 1.0,
+    "2018": 1.0,
+    "2019": 0.6,
+    "2020": 0.75,
+    "2021": 0.6111111111111112,
+    "2022": 0.6129032258064516,
+    "2023": 0.6304347826086957,
+    "2024": 0.6153846153846154,
+    "2025": 0.582089552238806
+  },
+  "ic4_prevalence_tier1_weighted": 0.6122322669664182,
+  "estimated_ic4_papers_in_tier1": 8547
+}

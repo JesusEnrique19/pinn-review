@@ -1,0 +1,60 @@
+﻿{
+  "topics": {
+    "papers": 13961,
+    "clusters_ge50": 16,
+    "other_share": 0.0,
+    "seed_stability_ari": 0.5948621873046991
+  },
+  "fronts": {
+    "papers": 11724,
+    "clusters_ge50": 25,
+    "other_share": 0.00861480723302627,
+    "seed_stability_ari": 0.7310615602228848
+  },
+  "convergent_validity_nmi": 0.25708056304595234
+}
+
+TOPICS (size, median year, trend 2021-25):
+  [0]  2408 2024 +0.0033 | partial, nonlinear, operator, adaptive, inverse, multi, modeling, analysis
+  [1]  2211 2024 -0.0115 | operator, operators, systems, partial, time, physical, dynamics, high
+  [2]  1836 2024 -0.0276 | partial, numerical, function, boundary, loss, solve, error, approximation
+  [3]  1089 2024 +0.0081 | flow, heat, modeling, transfer, nanofluid, thermal, heat transfer, hybrid
+  [4]   986 2024 +0.0068 | structural, material, thermal, analysis, design, physical, stress, element
+  [5]   966 2024 +0.0023 | flow, fluid, flows, field, turbulent, velocity, cfd, fields
+  [6]   741 2024 +0.0045 | reservoir, water, flow, pressure, modeling, physical, simulation, production
+  [7]   728 2024 +0.0021 | control, traffic, optimal, systems, dynamics, state, time, nonlinear
+  [8]   723 2024 +0.0031 | imaging, electromagnetic, reconstruction, image, inverse, field, design, scattering
+  [9]   485 2024 +0.0006 | wave, seismic, inversion, acoustic, velocity, wavefield, frequency, sound
+  [10]   468 2024 +0.0024 | weather, forecasting, plasma, climate, ice, ocean, time, physical
+  [11]   409 2024 +0.0019 | heat, flow, thermal, nanofluid, fluid, parameter, number, artificial
+  [12]   402 2024 +0.0014 | quantum, nonlinear, soliton, schrödinger, wave, systems, fiber, dynamics
+  [13]   249 2024 +0.0024 | power, battery, ion, temperature, power flow, systems, thermal, physical
+  [14]   131 2024 -0.0005 | pricing, option, options, option pricing, financial, black scholes, scholes, volatility
+  [15]   129 2024 +0.0007 | dynamics, disease, covid, epidemic, covid 19, 19, spread, infectious
+
+FRONTS:
+  [0]  2064 2024 | flow, loss, physical, boundary, field, conditions, time, high
+  [1]  1072 2024 | operator, operators, deeponet, time, fourier, fno, partial, high
+  [2]   811 2023 | partial, error, numerical, function, approximation, loss, boundary, convergence
+  [3]   759 2023 | systems, reduced, order, nonlinear, dynamics, time, partial, reduced order
+  [4]   751 2024 | structural, stress, material, element, finite, finite element, response, analysis
+  [5]   543 2024 | heat, nanofluid, flow, thermal, fluid, parameter, artificial, number
+  [6]   542 2023 | stochastic, high dimensional, approximation, dimensional, high, numerical, partial, pricing
+  [7]   483 2023 | bayesian, inverse, partial, uncertainty, parameters, numerical, parameter, dimensional
+  [8]   473 2024 | image, resolution, reconstruction, diffusion, generative, super, super resolution, high
+  [9]   462 2023 | flow, graph, turbulence, fluid, simulations, simulation, dynamics, computational
+  [10]   454 2024 | reservoir, flow, pressure, production, porous, co2, soil, porous media
+  [11]   407 2024 | control, dynamics, systems, modeling, time, nonlinear, process, optimal
+  [12]   380 2024 | seismic, inversion, wave, acoustic, wavefield, velocity, frequency, sound
+  [13]   366 2024 | electromagnetic, design, scattering, field, inverse, inverse design, optical, numerical
+  [14]   321 2024 | weather, forecasting, ice, physical, ocean, climate, sea, driven
+  [15]   311 2024 | nonlinear, soliton, schrödinger, nonlinear schrödinger, wave, fiber, solitons, waves
+  [16]   263 2024 | interface, domain decomposition, decomposition, domain, tfc, extreme, numerical, optimal
+  [17]   230 2024 | traffic, control, backstepping, traffic flow, state, vehicle, traffic state, estimation
+  [18]   209 2024 | power, wind, wake, power flow, power systems, ac, opf, systems
+  [19]   186 2024 | quantum, molecular, systems, energy, dynamics, classical, materials, potential
+  [20]   171 2024 | battery, ion, chemical, lithium, lithium ion, modeling, plasma, batteries
+  [21]   159 2024 | blood, flow, blood flow, cardiac, clinical, hemodynamic, patient, cardiovascular
+  [22]    75 2025 | kans, kolmogorov arnold, arnold, kolmogorov, thermal, kan, mlps, pikan
+  [23]    74 2024 | plasma, magnetic, boundary, value, equilibrium, boundary value, fusion, magnetic field
+  [24]    57 2024 | manufacturing, additive manufacturing, metal, additive, temperature, process, laser, deposition

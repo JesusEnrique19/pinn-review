@@ -1,0 +1,155 @@
+{
+  "citing_papers": 11724,
+  "distinct_references": 188896,
+  "nodes": 1000,
+  "min_citations_in_network": 32,
+  "edges": 221730,
+  "resolution_sweep": {
+    "0.5": {
+      "clusters": 2,
+      "clusters_ge10": 2,
+      "quality": 0.000702661296001719
+    },
+    "0.75": {
+      "clusters": 4,
+      "clusters_ge10": 4,
+      "quality": 0.10263568003167597
+    },
+    "1.0": {
+      "clusters": 7,
+      "clusters_ge10": 7,
+      "quality": 0.09268493762866181
+    },
+    "1.25": {
+      "clusters": 13,
+      "clusters_ge10": 11,
+      "quality": 0.07884835487658334
+    },
+    "1.5": {
+      "clusters": 19,
+      "clusters_ge10": 17,
+      "quality": 0.05838991513272659
+    },
+    "2.0": {
+      "clusters": 38,
+      "clusters_ge10": 28,
+      "quality": 0.03848767682098979
+    }
+  },
+  "main_resolution": 1.0,
+  "clusters": 7,
+  "bootstrap_ari_mean": 0.7199956519747537,
+  "bootstrap_ari_ci95": [
+    0.6067272218966175,
+    0.8276665153546225
+  ],
+  "cluster_summaries": [
+    {
+      "cluster": 0,
+      "size": 371,
+      "citations": 56124,
+      "median_year": 2021.0,
+      "top": [
+        "Maziar Raissi (2018.0) Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+        "George Em Karniadakis (2021.0) Physics-informed machine learning",
+        "Lu Lu (2021.0) DeepXDE: A Deep Learning Library for Solving Differential Equations",
+        "Sifan Wang (2021.0) Understanding and Mitigating Gradient Flow Pathologies in Physics-Informed Neural Networks",
+        "Salvatore Cuomo (2022.0) Scientific Machine Learning Through Physics\u2013Informed Neural Networks: Where we are and What\u2019s Next"
+      ]
+    },
+    {
+      "cluster": 1,
+      "size": 208,
+      "citations": 18519,
+      "median_year": 2017.0,
+      "top": [
+        "Diederik P. Kingma (2014.0) Adam: A Method for Stochastic Optimization",
+        "Maziar Raissi (2017.0) Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations",
+        "Adam Paszke (2019.0) PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+        "Yinhao Zhu (2019.0) Physics-constrained deep learning for high-dimensional surrogate modeling and uncertainty quantification without labeled data",
+        "Maziar Raissi (2017.0) Hidden physics models: Machine learning of nonlinear partial differential equations"
+      ]
+    },
+    {
+      "cluster": 2,
+      "size": 198,
+      "citations": 21334,
+      "median_year": 2018.0,
+      "top": [
+        "Justin A. Sirignano (2018.0) DGM: A deep learning algorithm for solving partial differential equations",
+        "I.E. Lagaris (1998.0) Artificial neural networks for solving ordinary and partial differential equations",
+        "E Weinan (2018.0) The Deep Ritz Method: A Deep Learning-Based Numerical Algorithm for Solving Variational Problems",
+        "Kurt Hornik (1989.0) Multilayer feedforward networks are universal approximators",
+        "Jiequn Han (2018.0) Solving high-dimensional partial differential equations using deep learning"
+      ]
+    },
+    {
+      "cluster": 3,
+      "size": 172,
+      "citations": 18645,
+      "median_year": 2021.0,
+      "top": [
+        "Lu Lu (2021.0) Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators",
+        "Zongyi Li (2021.0) Fourier Neural Operator for Parametric Partial Differential Equations",
+        "Kaiming He (2016.0) Deep Residual Learning for Image Recognition",
+        "Sifan Wang (2021.0) Learning the solution operator of parametric partial differential equations with physics-informed DeepONets",
+        "Olaf Ronneberger (2015.0) U-Net: Convolutional Networks for Biomedical Image Segmentation"
+      ]
+    },
+    {
+      "cluster": 4,
+      "size": 25,
+      "citations": 1523,
+      "median_year": 2021.0,
+      "top": [
+        "Michael L. Stein (1987.0) Large Sample Properties of Simulations Using Latin Hypercube Sampling",
+        "Shuning Lin (2022.0) A two-stage physics-informed neural network method based on conserved quantities and applications in localized wave solutions",
+        "Juncai Pu (2021.0) Solving localized wave solutions of the derivative nonlinear Schr\u00f6dinger equation using an improved PINN method",
+        "Li Wang (2021.0) Data-driven rogue waves and parameter discovery in the defocusing nonlinear Schr\u00f6dinger equation with a potential using the PINN deep learning",
+        "Yin Fang (2021.0) Data-driven femtosecond optical soliton excitations and parameters discovery of the high-order NLSE using the PINN"
+      ]
+    },
+    {
+      "cluster": 5,
+      "size": 13,
+      "citations": 1142,
+      "median_year": 2021.0,
+      "top": [
+        "Majid Rasht\u2010Behesht (2022.0) Physics\u2010Informed Neural Networks (PINNs) for Wave Propagation and Full Waveform Inversions",
+        "Umair bin Waheed (2021.0) PINNeik: Eikonal solution using physics-informed neural networks",
+        "Chao Song (2021.0) Solving the frequency-domain acoustic VTI wave equation using physics-informed neural networks",
+        "Jonathan Smith (2020.0) EikoNet: Solving the Eikonal Equation With Deep Neural Networks",
+        "Ben Moseley (2020.0) Solving the wave equation with physics-informed deep learning"
+      ]
+    },
+    {
+      "cluster": 6,
+      "size": 13,
+      "citations": 530,
+      "median_year": 2020.0,
+      "top": [
+        "Tahir Nawaz Cheema (2020.0) Intelligent computing with Levenberg\u2013Marquardt artificial neural networks for nonlinear system of COVID-19 epidemic model for future generation disease control",
+        "Muhammad Shoaib (2021.0) A stochastic numerical analysis based on hybrid NAR-RBFs networks nonlinear SITR model for novel COVID-19 dynamics",
+        "Stephen U. S. Choi (1995.0) Enhancing Thermal Conductivity of Fluids With Nanoparticles",
+        "Iftikhar Ahmad (2020.0) Integrated neuro-evolution-based computing solver for dynamics of nonlinear corneal shape model numerically",
+        "Muhammad Shoaib (2021.0) Neuro-computing networks for entropy generation under the influence of MHD and thermal radiation"
+      ]
+    }
+  ],
+  "robustness": {
+    "robust_intersection": {
+      "nodes": 1000,
+      "clusters": 8,
+      "bootstrap_ari_mean": 0.7571689885388462,
+      "ari_vs_main_on_shared_nodes": 0.8863471749521747,
+      "shared_nodes": 970
+    },
+    "robust_block_a": {
+      "nodes": 1000,
+      "clusters": 6,
+      "bootstrap_ari_mean": 0.44513840943308747,
+      "ari_vs_main_on_shared_nodes": 0.41685548730900496,
+      "shared_nodes": 798
+    }
+  }
+}

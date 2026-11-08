@@ -1,0 +1,13 @@
+{
+  "harvested_lines": 19186,
+  "repeated_ids_from_paging": 43,
+  "unique_records": 19143,
+  "papers_after_dedup": 18111,
+  "merged_by_rule": {
+    "title": 838,
+    "arxiv": 165,
+    "doi": 29
+  },
+  "papers_with_multiple_versions": 827,
+  "records_without_references": 4678
+}

@@ -1,0 +1,19 @@
+{
+  "n": 660,
+  "positives": 386,
+  "models": {
+    "tfidf_lr": {
+      "roc_auc": 0.901,
+      "average_precision": 0.918,
+      "precision_at_target_recall": 0.773,
+      "recall_at_threshold": 0.943
+    },
+    "specter2_lr": {
+      "roc_auc": 0.916,
+      "average_precision": 0.933,
+      "precision_at_target_recall": 0.8,
+      "recall_at_threshold": 0.942
+    }
+  },
+  "selected": "specter2_lr"
+}

@@ -1,0 +1,66 @@
+﻿{
+  "keywords_tested": 435,
+  "bursts": 114,
+  "top20_overlap_gamma_0.5": 1.0,
+  "top20_overlap_gamma_2.0": 1.0,
+  "citation_edges_internal": 103821,
+  "main_path_length": 35
+}
+                                             keyword  start    end    weight  papers
+                                 deep neural network 2017Q3 2022Q3 57.050598     403
+                      partial differential equations 2018Q3 2020Q2 32.231680    2099
+                          artificial neural networks 2017Q1 2021Q3 27.966377     676
+            nonlinear partial differential equations 2017Q4 2021Q3 20.591878     415
+                          kolmogorov-arnold networks 2025Q1 2025Q4 19.235958     118
+                             curse of dimensionality 2017Q3 2022Q4 13.694553     196
+                                       deep learning 2017Q2 2022Q2 13.063531     206
+                                     model reduction 2019Q3 2022Q2 12.419996     323
+numerical solution of partial differential equations 2018Q1 2021Q3 11.177998     110
+                         feedforward neural networks 2017Q1 2022Q4 10.974644     154
+                       convolutional neural networks 2019Q2 2021Q4 10.774303     351
+                                  elliptic equations 2019Q1 2022Q1 10.486115     172
+                    hamilton-jacobi-bellman equation 2017Q1 2021Q1 10.403183     106
+                                    machine learning 2017Q1 2021Q1 10.237680      89
+                                   thermal radiation 2025Q2 2025Q3 10.085733     165
+                        neural network approximation 2019Q4 2021Q2 10.022980     106
+                                        digital twin 2025Q3 2025Q4  9.645553     158
+                        pde-constrained optimization 2018Q2 2021Q4  9.491893      73
+                                                shap 2025Q2 2025Q4  8.800363      30
+                         stochastic gradient descent 2017Q4 2021Q1  8.730103      54
+
+MAIN PATH:
+  2017-11-28 [955] Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equ
+  2018-01-20 [605] Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations
+  2018-08-10 [100] Learning Parameters and Constitutive Relationships with Physics Informed Deep Neural Networks
+  2019-07-26 [517] Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse st
+  2019-10-11 [721] A composite neural network that learns from multi-fidelity data: Application to function approximati
+  2020-07-08 [665] PPINN: Parareal physics-informed neural network for time-dependent PDEs
+  2020-07-14 [98] Overcoming the curse of dimensionality for some Hamilton–Jacobi partial differential equations via n
+  2021-01-27 [62] Neural networks-based backward scheme for fully nonlinear PDEs
+  2021-03-31 [32] Uniform error estimates for artificial neural network approximations for heat equations
+  2021-04-06 [29] Deep neural network approximation for high-dimensional elliptic PDEs with boundary conditions
+  2021-05-06 [101] DNN Expression Rate Analysis of High-Dimensional PDEs: Application to Option Pricing
+  2021-06-02 [169] A Theoretical Analysis of Deep Neural Networks and Parametric PDEs
+  2021-06-05 [75] Numerical Solution of the Parametric Diffusion Equation by Deep Neural Networks
+  2021-07-07 [334] Model Reduction And Neural Networks For Parametric PDEs
+  2021-07-15 [120] On universal approximation and error bounds for Fourier Neural Operators
+  2021-08-19 [217] Neural Operator: Learning Maps Between Function Spaces
+  2021-11-10 [548] A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAI
+  2022-01-28 [432] A physics-informed variational DeepONet for predicting crack path in quasi-brittle materials
+  2022-02-01 [53] Simulating progressive intramural damage leading to aortic dissection using DeepONet: an operator–re
+  2022-02-16 [394] Analyses of internal structures and defects in materials using physics-informed neural networks
+  2022-05-10 [113] Interfacing finite elements with deep neural operators for fast multiscale modeling of mechanics pro
+  2022-06-27 [228] A mixed formulation for physics-informed neural networks as a potential solver for engineering probl
+  2022-11-14 [50] Physics-Guided, Physics-Informed, and Physics-Encoded Neural Networks in Scientific Computing
+  2022-11-15 [102] Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications
+  2023-02-28 [78] GNOT: A General Neural Operator Transformer for Operator Learning
+  2023-07-01 [75] Long-term predictions of turbulence by implicit U-Net enhanced Fourier neural operator
+  2023-11-25 [93] Fourier neural operator for real-time simulation of 3D dynamic urban microclimate
+  2024-04-08 [328] Neural operators for accelerating scientific simulations and design
+  2024-06-19 [40] An improved physics-informed neural network with adaptive weighting and mixed differentiation for so
+  2024-12-06 [80] Unveiling the optimization process of physics informed neural networks: How accurate and competitive
+  2025-03-11 [250] From PINNs to PIKANs: recent advances in physics-informed machine learning
+  2025-08-01 [13] Physics-informed neural networks for inviscid transonic flows around an airfoil
+  2025-08-08 [5] Hybrid quantum physics-informed neural network: Towards efficient learning of high-speed flows
+  2025-11-06 [9] QCPINN: quantum-classical physics-informed neural networks for solving PDEs
+  2025-12-17 [1] Multi-Objective Loss Balancing in Physics-Informed Neural Networks for Fluid Flow Applications

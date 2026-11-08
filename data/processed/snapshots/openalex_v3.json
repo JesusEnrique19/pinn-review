@@ -1,0 +1,10 @@
+{
+  "version": "v3",
+  "source": "OpenAlex API",
+  "filter": "title_and_abstract.search:\"physics-informed neural network\" OR \"physics informed neural network\" OR PINNs OR \"neural operator\" OR DeepONet OR \"Fourier neural operator\" OR \"physics-constrained neural network\" OR \"physics-guided neural network\" OR ((\"physics-informed deep learning\" OR \"physics-informed machine learning\" OR \"scientific machine learning\" OR \"operator learning\") AND (\"differential equation\" OR \"differential equations\" OR PDE OR PDEs OR ODE OR ODEs OR \"governing equations\" OR \"conservation laws\" OR \"Navier-Stokes\" OR \"dynamical system\" OR \"dynamical systems\" OR \"dynamic systems\" OR neural OR survey OR review)) OR ((\"neural network\" OR \"neural networks\" OR \"deep learning\" OR \"machine learning\") AND (\"partial differential equation\" OR \"partial differential equations\" OR PDE OR PDEs)) OR (\"deep Ritz\" OR \"deep Galerkin\" OR \"neural PDE solver\" OR \"physics-constrained deep learning\" OR \"physics-constrained surrogate\") OR ((\"foundation model\" OR \"foundation models\" OR pretraining OR \"pre-training\") AND (PDE OR PDEs OR \"partial differential\" OR \"physical systems\" OR \"physics simulation\")) OR ((\"physics-informed\" OR \"physics informed\") AND (\"deep neural network\" OR \"deep neural networks\" OR \"generative adversarial\" OR GAN OR \"Fourier network\" OR \"Fourier networks\" OR \"Fourier feature\" OR LSTM OR CNN OR convolutional OR recurrent OR autoencoder OR transformer OR \"Kolmogorov-Arnold\" OR KAN OR \"extreme learning machine\" OR \"graph neural network\" OR generative OR \"diffusion model\")),publication_year:2017-2025,type:article|preprint|review|conference-paper,language:en",
+  "retrieved_at": "2026-10-30T22:43:51+00:00",
+  "records": 19186,
+  "api_reported_count": 19158,
+  "sha256": "3c6e58792a664122c311d8927e88681781f9bdd43b88fb799c74cdbea770ba39",
+  "file": "openalex_v3.jsonl.gz"
+}

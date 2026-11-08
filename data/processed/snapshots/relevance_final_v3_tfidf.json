@@ -1,0 +1,20 @@
+{
+  "model": "tfidf_lr",
+  "threshold": 0.4098,
+  "train_n": 660,
+  "test_n": 200,
+  "test_prevalence": 0.655,
+  "test_precision": 0.801,
+  "test_precision_ci95": [
+    0.732,
+    0.856
+  ],
+  "test_recall": 0.954,
+  "test_recall_ci95": [
+    0.904,
+    0.979
+  ],
+  "test_human_labels": 0,
+  "corpus_n": 18111,
+  "tier1_n": 14425
+}

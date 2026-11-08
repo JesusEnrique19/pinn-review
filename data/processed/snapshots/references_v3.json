@@ -1,0 +1,13 @@
+{
+  "papers_without_openalex_refs": 3733,
+  "with_doi_or_arxiv": 3442,
+  "found_in_s2_with_refs": 2210,
+  "supplemented": 1496,
+  "reference_mentions": 67008,
+  "mapped_internal": 17267,
+  "mapped_external": 13790,
+  "unmapped": 35951,
+  "external_dois_resolved": 3738,
+  "external_dois_requested": 3805,
+  "papers_with_references_after": 11724
+}

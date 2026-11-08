@@ -1,0 +1,117 @@
+# Versioned retrieval queries (protocol Section 4.3). Never edit a version once it has been run;
+# add a new version instead and record the run in protocol/search_log.md.
+
+v0:
+  source: openalex
+  field: title_and_abstract.search
+  years: [2017, 2025]
+  description: Protocol v1.0 Section 4.3, Block A.
+  terms:
+    - '"physics-informed neural network"'
+    - '"physics informed neural network"'
+    - 'PINNs'
+    - '"physics-informed deep learning"'
+    - '"physics-informed machine learning"'
+    - '"neural operator"'
+    - 'DeepONet'
+    - '"Fourier neural operator"'
+    - '"operator learning"'
+    - '"scientific machine learning"'
+    - '"physics-constrained neural network"'
+    - '"physics-guided neural network"'
+
+v1:
+  source: openalex
+  field: title_and_abstract.search
+  years: [2017, 2025]
+  description: >-
+    v0 recall was 0.833 (45/54). The nine misses were neural PDE solvers that do not use PINN or
+    operator branding (deep Ritz, deep Galerkin, neural PDE solvers, PDE foundation models,
+    physics-constrained surrogates). Blocks B-D cover IC1 by concept rather than by name.
+  terms:
+    # Block A: method-family names (= v0)
+    - '"physics-informed neural network"'
+    - '"physics informed neural network"'
+    - 'PINNs'
+    - '"physics-informed deep learning"'
+    - '"physics-informed machine learning"'
+    - '"neural operator"'
+    - 'DeepONet'
+    - '"Fourier neural operator"'
+    - '"operator learning"'
+    - '"scientific machine learning"'
+    - '"physics-constrained neural network"'
+    - '"physics-guided neural network"'
+    # Block B: neural networks applied to PDEs (concept form of IC1)
+    - '(("neural network" OR "neural networks" OR "deep learning" OR "machine learning") AND ("partial differential equation" OR "partial differential equations" OR PDE OR PDEs))'
+    # Block C: named neural PDE solvers outside the PINN/operator vocabulary
+    - '("deep Ritz" OR "deep Galerkin" OR "neural PDE solver" OR "physics-constrained deep learning" OR "physics-constrained surrogate")'
+    # Block D: pre-trained / foundation models for PDEs and physical systems
+    - '(("foundation model" OR "foundation models" OR pretraining OR "pre-training") AND (PDE OR PDEs OR "partial differential" OR "physical systems" OR "physics simulation"))'
+
+v2:
+  source: openalex
+  field: title_and_abstract.search
+  years: [2017, 2025]
+  # IC2/IC3 enforced at retrieval: v1 records of other types or languages had precision 0
+  filters: 'type:article|preprint|review|conference-paper,language:en'
+  description: >-
+    v1 failed G1 (precision 0.655, hold-out recall 0.926; LLM labels pending audit). Per-term
+    precision on the v1 sample: generic terms "scientific machine learning" 0.38,
+    "physics-informed machine learning" 0.50 and "physics-informed deep learning" 0.55, so they
+    now require a differential-equation term. Five of six hold-out misses paired
+    "physics-informed" with a network type absent from v1 (Block E). "operator learning" now
+    requires a neural or PDE context (non-ML uses: clinical learning curves, scheduling).
+  terms:
+    # Block A: specific method-family names
+    - '"physics-informed neural network"'
+    - '"physics informed neural network"'
+    - 'PINNs'
+    - '"neural operator"'
+    - 'DeepONet'
+    - '"Fourier neural operator"'
+    - '"physics-constrained neural network"'
+    - '"physics-guided neural network"'
+    # Block A2: generic labels, only with a differential-equation context
+    - '(("physics-informed deep learning" OR "physics-informed machine learning" OR "scientific machine learning" OR "operator learning") AND ("differential equation" OR "differential equations" OR PDE OR PDEs OR ODE OR ODEs OR "governing equations" OR "conservation laws" OR "Navier-Stokes" OR neural))'
+    # Block B: neural networks applied to PDEs (concept form of IC1)
+    - '(("neural network" OR "neural networks" OR "deep learning" OR "machine learning") AND ("partial differential equation" OR "partial differential equations" OR PDE OR PDEs))'
+    # Block C: named neural PDE solvers outside the PINN/operator vocabulary
+    - '("deep Ritz" OR "deep Galerkin" OR "neural PDE solver" OR "physics-constrained deep learning" OR "physics-constrained surrogate")'
+    # Block D: pre-trained / foundation models for PDEs and physical systems
+    - '(("foundation model" OR "foundation models" OR pretraining OR "pre-training") AND (PDE OR PDEs OR "partial differential" OR "physical systems" OR "physics simulation"))'
+    # Block E: "physics-informed" with network types not named in Block A
+    - '(("physics-informed" OR "physics informed") AND ("deep neural network" OR "deep neural networks" OR "generative adversarial" OR GAN OR "Fourier network" OR "Fourier networks" OR "Fourier feature" OR LSTM OR CNN OR convolutional OR recurrent OR autoencoder OR transformer OR "Kolmogorov-Arnold" OR KAN OR "extreme learning machine" OR "graph neural network"))'
+
+v3:
+  source: openalex
+  field: title_and_abstract.search
+  years: [2017, 2025]
+  # IC2/IC3 enforced at retrieval: v1 records of other types or languages had precision 0
+  filters: 'type:article|preprint|review|conference-paper,language:en'
+  description: >-
+    v2 measured: hold-out recall 0.988 (80/81), seed recall 0.981 (53/54), precision 0.738 on kept
+    v1-sample records. v3 recovers three IC1-eligible records lost by the Block A2 qualifier (a PIML
+    survey, a dynamical-systems control method, a physics-informed generative model) by adding
+    dynamical-system and survey/review context to A2 and generative models to Block E. Book chapters
+    and conference abstracts stay excluded (IC2).
+  terms:
+    # Block A: specific method-family names
+    - '"physics-informed neural network"'
+    - '"physics informed neural network"'
+    - 'PINNs'
+    - '"neural operator"'
+    - 'DeepONet'
+    - '"Fourier neural operator"'
+    - '"physics-constrained neural network"'
+    - '"physics-guided neural network"'
+    # Block A2: generic labels, only with a differential-equation context
+    - '(("physics-informed deep learning" OR "physics-informed machine learning" OR "scientific machine learning" OR "operator learning") AND ("differential equation" OR "differential equations" OR PDE OR PDEs OR ODE OR ODEs OR "governing equations" OR "conservation laws" OR "Navier-Stokes" OR "dynamical system" OR "dynamical systems" OR "dynamic systems" OR neural OR survey OR review))'
+    # Block B: neural networks applied to PDEs (concept form of IC1)
+    - '(("neural network" OR "neural networks" OR "deep learning" OR "machine learning") AND ("partial differential equation" OR "partial differential equations" OR PDE OR PDEs))'
+    # Block C: named neural PDE solvers outside the PINN/operator vocabulary
+    - '("deep Ritz" OR "deep Galerkin" OR "neural PDE solver" OR "physics-constrained deep learning" OR "physics-constrained surrogate")'
+    # Block D: pre-trained / foundation models for PDEs and physical systems
+    - '(("foundation model" OR "foundation models" OR pretraining OR "pre-training") AND (PDE OR PDEs OR "partial differential" OR "physical systems" OR "physics simulation"))'
+    # Block E: "physics-informed" with network types not named in Block A
+    - '(("physics-informed" OR "physics informed") AND ("deep neural network" OR "deep neural networks" OR "generative adversarial" OR GAN OR "Fourier network" OR "Fourier networks" OR "Fourier feature" OR LSTM OR CNN OR convolutional OR recurrent OR autoencoder OR transformer OR "Kolmogorov-Arnold" OR KAN OR "extreme learning machine" OR "graph neural network" OR generative OR "diffusion model"))'

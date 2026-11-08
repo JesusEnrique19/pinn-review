@@ -1,0 +1,27 @@
+{
+  "rule": "k=3 most-cited 2024-2025 reviews with Block A terms in the title, type=review, >=150 references, not in seed set",
+  "reviews": [
+    {
+      "id": "https://openalex.org/W4414050850",
+      "title": "Advances in physics-informed neural networks for solving complex partial differential equations and their engineering applications: A systematic review",
+      "year": 2025,
+      "cited_by": 67
+    },
+    {
+      "id": "https://openalex.org/W4406417557",
+      "title": "Application of physics-informed neural networks in fault diagnosis and fault-tolerant control design for electric vehicles: A review",
+      "year": 2025,
+      "cited_by": 43
+    },
+    {
+      "id": "https://openalex.org/W4410412417",
+      "title": "Recent Advances in Food Drying Modeling: Empirical to Multiscale Physics\u2010Informed Neural Networks",
+      "year": 2025,
+      "cited_by": 37
+    }
+  ],
+  "references_total": 619,
+  "references_2017_2025": 509,
+  "sampled": 150,
+  "seed": 20261030
+}

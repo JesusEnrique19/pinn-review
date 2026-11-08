@@ -1,0 +1,137 @@
+# References that are not in the seed set. Each entry gives an identifier (openalex, doi or arxiv) and the
+# expected title; the build resolves the identifier in OpenAlex and fails if the titles disagree.
+# Entries with `ieee` have no resolvable identifier and are typed by hand (flagged "manual" in the build log).
+
+page2021prisma:
+  doi: 10.1136/bmj.n71
+  title: "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews"
+rethlefsen2021prismas:
+  doi: 10.1186/s13643-020-01542-z
+  title: "PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews"
+kitchenham2007:
+  ieee: "B. Kitchenham and S. Charters, “Guidelines for performing systematic literature reviews in software engineering,” Keele University and Durham University, Tech. Rep. EBSE-2007-01, 2007."
+petersen2015:
+  doi: 10.1016/j.infsof.2015.03.007
+  title: "Guidelines for conducting systematic mapping studies in software engineering: An update"
+priem2022openalex:
+  arxiv: "2205.01833"
+  title: "OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts"
+singh2023scirepeval:
+  arxiv: "2211.13308"
+  title: "SciRepEval: A Multi-Format Benchmark for Scientific Document Representations"
+traag2019leiden:
+  doi: 10.1038/s41598-019-41695-z
+  title: "From Louvain to Leiden: guaranteeing well-connected communities"
+vaneck2009association:
+  doi: 10.1002/asi.21075
+  title: "How to normalize cooccurrence data? An analysis of some well-known similarity measures"
+kleinberg2003bursts:
+  doi: 10.1023/a:1024940629314
+  title: "Bursty and Hierarchical Structure in Streams"
+hummon1989mainpath:
+  doi: 10.1016/0378-8733(89)90017-8
+  title: "Connectivity in a citation network: The development of DNA theory"
+  authors: ["Norman P. Hummon", "Patrick Doreian"]
+  source: "Crossref and OpenAlex misspell the second author as 'Dereian'; byline of Social Networks 11(1):39-63"
+clauset2009powerlaw:
+  doi: 10.1137/070710111
+  title: "Power-Law Distributions in Empirical Data"
+alstott2014powerlaw:
+  doi: 10.1371/journal.pone.0085777
+  title: "powerlaw: A Python Package for Analysis of Heavy-Tailed Distributions"
+demsar2006:
+  ieee: "J. Demšar, “Statistical comparisons of classifiers over multiple data sets,” *Journal of Machine Learning Research*, vol. 7, pp. 1–30, 2006."
+wilson1927:
+  doi: 10.1080/01621459.1927.10502953
+  title: "Probable Inference, the Law of Succession, and Statistical Inference"
+hubert1985ari:
+  doi: 10.1007/bf01908075
+  title: "Comparing partitions"
+grootendorst2022bertopic:
+  arxiv: "2203.05794"
+  title: "BERTopic: Neural topic modeling with a class-based TF-IDF procedure"
+cox2002etd:
+  doi: 10.1006/jcph.2002.6995
+  title: "Exponential Time Differencing for Stiff Systems"
+kassam2005etdrk4:
+  doi: 10.1137/s1064827502410633
+  title: "Fourth-Order Time-Stepping for Stiff PDEs"
+bradford1934:
+  ieee: "S. C. Bradford, “Sources of information on specific subjects,” *Engineering*, vol. 137, pp. 85–86, 1934."
+lotka1926:
+  ieee: "A. J. Lotka, “The frequency distribution of scientific productivity,” *Journal of the Washington Academy of Sciences*, vol. 16, no. 12, pp. 317–323, 1926."
+farea2024:
+  openalex: W4401992148
+  title: "Understanding Physics-Informed Neural Networks: Techniques, Applications, Trends, and Challenges"
+guo2025review:
+  openalex: W4414050850
+  title: "Advances in physics-informed neural networks for solving complex partial differential equations and their engineering applications: A systematic review"
+habib2024review:
+  openalex: W4403012634
+  title: "A systematic and bibliometric review on physics-based neural networks applications as a solution for structural engineering partial differential equations"
+cohan2020specter:
+  arxiv: "2004.07180"
+  title: "SPECTER: Document-level Representation Learning using Citation-informed Transformers"
+
+# Verified venue overrides for seed papers whose OpenAlex record is the preprint (checked 2026-11-01)
+li2021fno:
+  published: {kind: conference, venue: "International Conference on Learning Representations (ICLR)", year: 2021}
+  source: "OpenAlex W3118310857 (ICLR 2021 location); OpenReview id c8P9NQVtmnO"
+krishnapriyan2021:
+  published: {kind: conference, venue: "Advances in Neural Information Processing Systems", volume: 34, year: 2021,
+              first_page: 26548, last_page: 26560}
+  source: "proceedings.neurips.cc/paper/2021/hash/df438e5206f31600e6ae4af72f2725f1-Abstract.html (citation meta)"
+mcclenny2023:
+  published: {kind: journal, venue: "Journal of Computational Physics", volume: 474, first_page: 111722, year: 2023,
+              doi: 10.1016/j.jcp.2022.111722}
+  source: "Crossref 10.1016/j.jcp.2022.111722"
+baydin2018ad:
+  published: {kind: journal, venue: "Journal of Machine Learning Research", volume: 18, issue: 153, first_page: 1, last_page: 43,
+              year: 2018}
+  source: "jmlr.org/papers/v18/17-468.html"
+rahaman2019:
+  published: {kind: conference, venue: "Proc. 36th International Conference on Machine Learning (ICML)", volume: 97,
+              year: 2019, first_page: 5301, last_page: 5310}
+  source: "proceedings.mlr.press/v97/rahaman19a.html (PMLR vol. 97)"
+jacot2018ntk:
+  published: {kind: conference, venue: "Advances in Neural Information Processing Systems", volume: 31, year: 2018}
+  source: "proceedings.neurips.cc/paper/2018/hash/5a4be1fa34e62bb8a6ec6b91d2462f5a-Abstract.html"
+tancik2020:
+  published: {kind: conference, venue: "Advances in Neural Information Processing Systems", volume: 33, year: 2020,
+              first_page: 7537, last_page: 7547}
+  source: "proceedings.neurips.cc/paper/2020/hash/55053683268957697aa39fba6f231c68-Abstract.html"
+kovachki2023:
+  published: {kind: journal, venue: "Journal of Machine Learning Research", volume: 24, issue: 89, first_page: 1,
+              last_page: 97, year: 2023,
+              title: "Neural Operator: Learning Maps Between Function Spaces With Applications to PDEs"}
+  source: "jmlr.org/papers/v24/21-1524.html"
+wang2024pirate:
+  published: {kind: journal, venue: "Journal of Machine Learning Research", volume: 25, issue: 402, first_page: 1,
+              last_page: 51, year: 2024}
+  source: "jmlr.org/papers/v25/24-0313.html"
+zhao2024pinnsformer:
+  published: {kind: conference, venue: "International Conference on Learning Representations (ICLR)", year: 2024}
+  source: "proceedings.iclr.cc/paper_files/paper/2024/hash/a6f2763089c0bd8f56006c42f09ee24c-Abstract-Conference.html"
+muller2023engd:
+  published: {kind: conference, venue: "Proc. 40th International Conference on Machine Learning (ICML)", volume: 202,
+              year: 2023, first_page: 25471, last_page: 25485,
+              title: "Achieving High Accuracy with PINNs via Energy Natural Gradient Descent"}
+  source: "proceedings.mlr.press/v202/muller23b.html (PMLR vol. 202)"
+rathore2024:
+  published: {kind: conference, venue: "Proc. 41st International Conference on Machine Learning (ICML)", volume: 235,
+              year: 2024, first_page: 42159, last_page: 42191}
+  source: "proceedings.mlr.press/v235/rathore24a.html (PMLR vol. 235)"
+hao2024dpot:
+  published: {kind: conference, venue: "Proc. 41st International Conference on Machine Learning (ICML)", volume: 235,
+              year: 2024, first_page: 17616, last_page: 17635}
+  source: "proceedings.mlr.press/v235/hao24d.html (PMLR vol. 235)"
+kingma2015adam:
+  published: {kind: conference, venue: "3rd International Conference on Learning Representations (ICLR)", year: 2015}
+  source: "arXiv:1412.6980 journal comment: published at ICLR 2015, San Diego"
+sukumar2022:
+  published: {doi: 10.1016/j.cma.2021.114333}
+  source: "Crossref record of the journal version (title checked)"
+lu2022fair:
+  published: {doi: 10.1016/j.cma.2022.114778}
+  source: "Crossref record of the journal version (title checked)"
+

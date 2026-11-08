@@ -1,0 +1,97 @@
+﻿{
+  "citing_papers": 11724,
+  "distinct_references": 188896,
+  "nodes": 1000,
+  "min_citations_in_network": 32,
+  "edges": 221730,
+  "resolution_sweep": {
+    "0.5": {
+      "clusters": 2,
+      "clusters_ge10": 2,
+      "quality": 0.000702661296001719
+    },
+    "0.75": {
+      "clusters": 4,
+      "clusters_ge10": 4,
+      "quality": 0.10263568003167597
+    },
+    "1.0": {
+      "clusters": 7,
+      "clusters_ge10": 7,
+      "quality": 0.09268493762866181
+    },
+    "1.25": {
+      "clusters": 13,
+      "clusters_ge10": 11,
+      "quality": 0.07884835487658334
+    },
+    "1.5": {
+      "clusters": 19,
+      "clusters_ge10": 17,
+      "quality": 0.05838991513272659
+    },
+    "2.0": {
+      "clusters": 38,
+      "clusters_ge10": 28,
+      "quality": 0.03848767682098979
+    }
+  },
+  "main_resolution": 1.0,
+  "clusters": 7,
+  "bootstrap_ari_mean": 0.7199956519747537,
+  "bootstrap_ari_ci95": [
+    0.6067272218966175,
+    0.8276665153546225
+  ],
+  "robustness": {
+    "robust_intersection": {
+      "nodes": 1000,
+      "clusters": 8,
+      "bootstrap_ari_mean": 0.7571689885388462,
+      "ari_vs_main_on_shared_nodes": 0.8863471749521747,
+      "shared_nodes": 970
+    },
+    "robust_block_a": {
+      "nodes": 1000,
+      "clusters": 6,
+      "bootstrap_ari_mean": 0.44513840943308747,
+      "ari_vs_main_on_shared_nodes": 0.41685548730900496,
+      "shared_nodes": 798
+    }
+  }
+}
+
+[0] n=371 median_year=2021.0
+    Maziar Raissi (2018.0) Physics-informed neural networks: A deep learning framework for solving forward and inverse probl
+    George Em Karniadakis (2021.0) Physics-informed machine learning
+    Lu Lu (2021.0) DeepXDE: A Deep Learning Library for Solving Differential Equations
+
+[1] n=208 median_year=2017.0
+    Diederik P. Kingma (2014.0) Adam: A Method for Stochastic Optimization
+    Maziar Raissi (2017.0) Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential 
+    Adam Paszke (2019.0) PyTorch: An Imperative Style, High-Performance Deep Learning Library
+
+[2] n=198 median_year=2018.0
+    Justin A. Sirignano (2018.0) DGM: A deep learning algorithm for solving partial differential equations
+    I.E. Lagaris (1998.0) Artificial neural networks for solving ordinary and partial differential equations
+    E Weinan (2018.0) The Deep Ritz Method: A Deep Learning-Based Numerical Algorithm for Solving Variational Problems
+
+[3] n=172 median_year=2021.0
+    Lu Lu (2021.0) Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators
+    Zongyi Li (2021.0) Fourier Neural Operator for Parametric Partial Differential Equations
+    Kaiming He (2016.0) Deep Residual Learning for Image Recognition
+
+[4] n=25 median_year=2021.0
+    Michael L. Stein (1987.0) Large Sample Properties of Simulations Using Latin Hypercube Sampling
+    Shuning Lin (2022.0) A two-stage physics-informed neural network method based on conserved quantities and applications i
+    Juncai Pu (2021.0) Solving localized wave solutions of the derivative nonlinear Schrödinger equation using an improved P
+
+[5] n=13 median_year=2021.0
+    Majid Rasht‐Behesht (2022.0) Physics‐Informed Neural Networks (PINNs) for Wave Propagation and Full Waveform Inversions
+    Umair bin Waheed (2021.0) PINNeik: Eikonal solution using physics-informed neural networks
+    Chao Song (2021.0) Solving the frequency-domain acoustic VTI wave equation using physics-informed neural networks
+
+[6] n=13 median_year=2020.0
+    Tahir Nawaz Cheema (2020.0) Intelligent computing with Levenberg–Marquardt artificial neural networks for nonlinear syst
+    Muhammad Shoaib (2021.0) A stochastic numerical analysis based on hybrid NAR-RBFs networks nonlinear SITR model for nove
+    Stephen U. S. Choi (1995.0) Enhancing Thermal Conductivity of Fluids With Nanoparticles

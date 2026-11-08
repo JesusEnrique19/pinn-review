@@ -1,0 +1,992 @@
+{
+  "tier1": {
+    "papers": 13961,
+    "growth": {
+      "counts": {
+        "2017": 53,
+        "2018": 107,
+        "2019": 197,
+        "2020": 425,
+        "2021": 810,
+        "2022": 1323,
+        "2023": 2091,
+        "2024": 3415,
+        "2025": 5540
+      },
+      "models": {
+        "exponential": {
+          "params": [
+            108.46765958835854,
+            0.49209621231049494
+          ],
+          "rss": 23922.61855120415,
+          "aic": 74.968195863469,
+          "bic": 75.36264501814145,
+          "delta_aic": 4.397366228386247
+        },
+        "logistic": {
+          "params": [
+            40196.170471968755,
+            0.530590824509522,
+            11.459767574086712
+          ],
+          "rss": 16832.093163073812,
+          "aic": 73.804362657579,
+          "bic": 74.39603638958766,
+          "delta_aic": 3.233533022496246
+        },
+        "gompertz": {
+          "params": [
+            1639551400.2695851,
+            16.902529467530606,
+            0.03671367262385558
+          ],
+          "rss": 11751.794172606737,
+          "aic": 70.57082963508276,
+          "bic": 71.16250336709142,
+          "delta_aic": 0.0
+        }
+      },
+      "best_by_aic": "gompertz",
+      "doubling_time_years": 1.4085602839848612,
+      "doubling_time_ci95": [
+        1.356682901569703,
+        1.4310699611513849
+      ],
+      "yoy_growth_last3": [
+        0.5804988662131518,
+        0.6331898613103779,
+        0.6222547584187408
+      ]
+    },
+    "bradford": {
+      "sources": 2642,
+      "papers_with_source": 13643,
+      "zone_sizes": {
+        "1": 14,
+        "2": 241,
+        "3": 2387
+      },
+      "bradford_multipliers": [
+        17.214285714285715,
+        9.904564315352697
+      ],
+      "leimkuhler": {
+        "a": 0.13715462255464325,
+        "b": 0.5356642869360371,
+        "r2": 0.996897887837434
+      },
+      "top10": [
+        {
+          "name": "arXiv (Cornell University)",
+          "papers": 2158
+        },
+        {
+          "name": "SSRN Electronic Journal",
+          "papers": 480
+        },
+        {
+          "name": "Journal of Computational Physics",
+          "papers": 333
+        },
+        {
+          "name": "Computer Methods in Applied Mechanics and Engineering",
+          "papers": 319
+        },
+        {
+          "name": "Physics of Fluids",
+          "papers": 304
+        },
+        {
+          "name": "Lecture notes in computer science",
+          "papers": 133
+        },
+        {
+          "name": "Engineering Applications of Artificial Intelligence",
+          "papers": 128
+        },
+        {
+          "name": "neural information processing systems",
+          "papers": 128
+        },
+        {
+          "name": "Scientific Reports",
+          "papers": 107
+        },
+        {
+          "name": "HAL",
+          "papers": 93
+        }
+      ]
+    },
+    "bradford_without_preprints": {
+      "sources": 2630,
+      "papers_with_source": 10810,
+      "zone_sizes": {
+        "1": 53,
+        "2": 332,
+        "3": 2245
+      },
+      "bradford_multipliers": [
+        6.264150943396227,
+        6.7620481927710845
+      ],
+      "leimkuhler": {
+        "a": 0.17514556035353385,
+        "b": 0.11154546463095573,
+        "r2": 0.9984306071241125
+      },
+      "top10": [
+        {
+          "name": "Journal of Computational Physics",
+          "papers": 333
+        },
+        {
+          "name": "Computer Methods in Applied Mechanics and Engineering",
+          "papers": 319
+        },
+        {
+          "name": "Physics of Fluids",
+          "papers": 304
+        },
+        {
+          "name": "Lecture notes in computer science",
+          "papers": 133
+        },
+        {
+          "name": "neural information processing systems",
+          "papers": 128
+        },
+        {
+          "name": "Engineering Applications of Artificial Intelligence",
+          "papers": 128
+        },
+        {
+          "name": "Scientific Reports",
+          "papers": 107
+        },
+        {
+          "name": "Mathematics",
+          "papers": 87
+        },
+        {
+          "name": "Nonlinear Dynamics",
+          "papers": 83
+        },
+        {
+          "name": "SIAM Journal on Scientific Computing",
+          "papers": 76
+        }
+      ]
+    },
+    "preprint_share": 0.21044337798151994,
+    "lotka": {
+      "authors": 30387,
+      "single_paper_share": 0.736597887254418,
+      "max_papers": 200,
+      "alpha": 2.537475585937499,
+      "xmin": 1,
+      "tail_authors": 30387,
+      "ks_D": 0.01677160498087782,
+      "ks_p_boot": 0.0,
+      "n_boot": 100,
+      "vs_lognormal": {
+        "R": -8.139812709239413,
+        "p": 3.958898221461678e-16
+      },
+      "vs_exponential": {
+        "R": 12.481585052213756,
+        "p": 9.409463251279998e-36
+      }
+    },
+    "countries": {
+      "papers_with_country": 12098,
+      "countries": 118,
+      "international_share": 0.27293767564886756,
+      "top10": [
+        {
+          "country": "CN",
+          "papers": 4260,
+          "share": 0.3521243180691023
+        },
+        {
+          "country": "US",
+          "papers": 3449,
+          "share": 0.2850884443709704
+        },
+        {
+          "country": "DE",
+          "papers": 785,
+          "share": 0.06488675814184162
+        },
+        {
+          "country": "GB",
+          "papers": 684,
+          "share": 0.056538270788560094
+        },
+        {
+          "country": "IN",
+          "papers": 652,
+          "share": 0.053893205488510496
+        },
+        {
+          "country": "SA",
+          "papers": 514,
+          "share": 0.04248636138204662
+        },
+        {
+          "country": "FR",
+          "papers": 482,
+          "share": 0.039841296081997025
+        },
+        {
+          "country": "PK",
+          "papers": 391,
+          "share": 0.03231939163498099
+        },
+        {
+          "country": "KR",
+          "papers": 368,
+          "share": 0.030418250950570342
+        },
+        {
+          "country": "HK",
+          "papers": 335,
+          "share": 0.027690527359894197
+        }
+      ],
+      "top_pairs": [
+        {
+          "pair": [
+            "CN",
+            "US"
+          ],
+          "papers": 406
+        },
+        {
+          "pair": [
+            "PK",
+            "SA"
+          ],
+          "papers": 238
+        },
+        {
+          "pair": [
+            "CN",
+            "HK"
+          ],
+          "papers": 199
+        },
+        {
+          "pair": [
+            "GB",
+            "US"
+          ],
+          "papers": 132
+        },
+        {
+          "pair": [
+            "CN",
+            "GB"
+          ],
+          "papers": 128
+        },
+        {
+          "pair": [
+            "CN",
+            "SA"
+          ],
+          "papers": 123
+        },
+        {
+          "pair": [
+            "PK",
+            "TW"
+          ],
+          "papers": 123
+        },
+        {
+          "pair": [
+            "CN",
+            "PK"
+          ],
+          "papers": 101
+        },
+        {
+          "pair": [
+            "CN",
+            "DE"
+          ],
+          "papers": 98
+        },
+        {
+          "pair": [
+            "SA",
+            "TW"
+          ],
+          "papers": 95
+        }
+      ]
+    }
+  },
+  "robust_intersection": {
+    "papers": 12878,
+    "growth": {
+      "counts": {
+        "2017": 42,
+        "2018": 102,
+        "2019": 178,
+        "2020": 387,
+        "2021": 752,
+        "2022": 1249,
+        "2023": 1957,
+        "2024": 3177,
+        "2025": 5034
+      },
+      "models": {
+        "exponential": {
+          "params": [
+            107.24772842852359,
+            0.48200638071634555
+          ],
+          "rss": 31918.410953909726,
+          "aic": 77.56342321758402,
+          "bic": 77.95787237225646,
+          "delta_aic": 9.584835231074791
+        },
+        "logistic": {
+          "params": [
+            22899.52044707908,
+            0.5458586068472753,
+            10.325349284180096
+          ],
+          "rss": 15169.041867080618,
+          "aic": 72.86808599964489,
+          "bic": 73.45975973165355,
+          "delta_aic": 4.889498013135665
+        },
+        "gompertz": {
+          "params": [
+            14375697.954687107,
+            12.368100931182651,
+            0.05509470244906047
+          ],
+          "rss": 8810.807338562607,
+          "aic": 67.97858798650923,
+          "bic": 68.57026171851788,
+          "delta_aic": 0.0
+        }
+      },
+      "best_by_aic": "gompertz",
+      "doubling_time_years": 1.438045653109006,
+      "doubling_time_ci95": [
+        1.3715855141351327,
+        1.4677908373100708
+      ],
+      "yoy_growth_last3": [
+        0.566853482786229,
+        0.623403168114461,
+        0.5845136921624174
+      ]
+    },
+    "bradford": {
+      "sources": 2469,
+      "papers_with_source": 12581,
+      "zone_sizes": {
+        "1": 13,
+        "2": 229,
+        "3": 2227
+      },
+      "bradford_multipliers": [
+        17.615384615384617,
+        9.724890829694322
+      ],
+      "leimkuhler": {
+        "a": 0.13748050998048844,
+        "b": 0.5602197749443804,
+        "r2": 0.996817228899677
+      },
+      "top10": [
+        {
+          "name": "arXiv (Cornell University)",
+          "papers": 2039
+        },
+        {
+          "name": "SSRN Electronic Journal",
+          "papers": 439
+        },
+        {
+          "name": "Journal of Computational Physics",
+          "papers": 320
+        },
+        {
+          "name": "Computer Methods in Applied Mechanics and Engineering",
+          "papers": 302
+        },
+        {
+          "name": "Physics of Fluids",
+          "papers": 302
+        },
+        {
+          "name": "Engineering Applications of Artificial Intelligence",
+          "papers": 117
+        },
+        {
+          "name": "neural information processing systems",
+          "papers": 116
+        },
+        {
+          "name": "Lecture notes in computer science",
+          "papers": 108
+        },
+        {
+          "name": "Scientific Reports",
+          "papers": 100
+        },
+        {
+          "name": "HAL",
+          "papers": 90
+        }
+      ]
+    },
+    "bradford_without_preprints": {
+      "sources": 2458,
+      "papers_with_source": 9926,
+      "zone_sizes": {
+        "1": 51,
+        "2": 316,
+        "3": 2091
+      },
+      "bradford_multipliers": [
+        6.196078431372549,
+        6.617088607594937
+      ],
+      "leimkuhler": {
+        "a": 0.17653840144669833,
+        "b": 0.11354010065147382,
+        "r2": 0.9984872928311092
+      },
+      "top10": [
+        {
+          "name": "Journal of Computational Physics",
+          "papers": 320
+        },
+        {
+          "name": "Computer Methods in Applied Mechanics and Engineering",
+          "papers": 302
+        },
+        {
+          "name": "Physics of Fluids",
+          "papers": 302
+        },
+        {
+          "name": "Engineering Applications of Artificial Intelligence",
+          "papers": 117
+        },
+        {
+          "name": "neural information processing systems",
+          "papers": 116
+        },
+        {
+          "name": "Lecture notes in computer science",
+          "papers": 108
+        },
+        {
+          "name": "Scientific Reports",
+          "papers": 100
+        },
+        {
+          "name": "Mathematics",
+          "papers": 79
+        },
+        {
+          "name": "Nonlinear Dynamics",
+          "papers": 76
+        },
+        {
+          "name": "SIAM Journal on Scientific Computing",
+          "papers": 73
+        }
+      ]
+    },
+    "preprint_share": 0.2135424755396801,
+    "lotka": {
+      "authors": 27692,
+      "single_paper_share": 0.7345081612017911,
+      "max_papers": 197,
+      "alpha": 2.954736328125,
+      "xmin": 3,
+      "tail_authors": 3414,
+      "ks_D": 0.013141728482846393,
+      "ks_p_boot": 0.06,
+      "n_boot": 100,
+      "vs_lognormal": {
+        "R": -1.6950556728174426,
+        "p": 0.09006486006716014
+      },
+      "vs_exponential": {
+        "R": 4.800140024494581,
+        "p": 1.585547318874527e-06
+      }
+    },
+    "countries": {
+      "papers_with_country": 11157,
+      "countries": 117,
+      "international_share": 0.27023393385318634,
+      "top10": [
+        {
+          "country": "CN",
+          "papers": 3948,
+          "share": 0.3538585641301425
+        },
+        {
+          "country": "US",
+          "papers": 3166,
+          "share": 0.2837680380030474
+        },
+        {
+          "country": "DE",
+          "papers": 727,
+          "share": 0.06516088554270862
+        },
+        {
+          "country": "GB",
+          "papers": 615,
+          "share": 0.05512234471632159
+        },
+        {
+          "country": "IN",
+          "papers": 585,
+          "share": 0.052433449852110785
+        },
+        {
+          "country": "SA",
+          "papers": 461,
+          "share": 0.04131935108003944
+        },
+        {
+          "country": "FR",
+          "papers": 450,
+          "share": 0.04033342296316214
+        },
+        {
+          "country": "KR",
+          "papers": 338,
+          "share": 0.030294882136775118
+        },
+        {
+          "country": "PK",
+          "papers": 332,
+          "share": 0.029757103163932958
+        },
+        {
+          "country": "HK",
+          "papers": 316,
+          "share": 0.028323025903020525
+        }
+      ],
+      "top_pairs": [
+        {
+          "pair": [
+            "CN",
+            "US"
+          ],
+          "papers": 388
+        },
+        {
+          "pair": [
+            "PK",
+            "SA"
+          ],
+          "papers": 206
+        },
+        {
+          "pair": [
+            "CN",
+            "HK"
+          ],
+          "papers": 186
+        },
+        {
+          "pair": [
+            "GB",
+            "US"
+          ],
+          "papers": 120
+        },
+        {
+          "pair": [
+            "CN",
+            "GB"
+          ],
+          "papers": 114
+        },
+        {
+          "pair": [
+            "CN",
+            "SA"
+          ],
+          "papers": 106
+        },
+        {
+          "pair": [
+            "PK",
+            "TW"
+          ],
+          "papers": 103
+        },
+        {
+          "pair": [
+            "CN",
+            "DE"
+          ],
+          "papers": 88
+        },
+        {
+          "pair": [
+            "CN",
+            "PK"
+          ],
+          "papers": 83
+        },
+        {
+          "pair": [
+            "SA",
+            "TW"
+          ],
+          "papers": 83
+        }
+      ]
+    }
+  },
+  "robust_block_a": {
+    "papers": 7987,
+    "growth": {
+      "counts": {
+        "2017": 3,
+        "2018": 3,
+        "2019": 27,
+        "2020": 97,
+        "2021": 301,
+        "2022": 629,
+        "2023": 1209,
+        "2024": 2142,
+        "2025": 3576
+      },
+      "models": {
+        "exponential": {
+          "params": [
+            36.553515922315114,
+            0.5747874733118197
+          ],
+          "rss": 44972.28993823565,
+          "aic": 80.64919500336464,
+          "bic": 81.04364415803708,
+          "delta_aic": 29.559591319284465
+        },
+        "logistic": {
+          "params": [
+            8345.741192698484,
+            0.753859446956109,
+            8.386791398071415
+          ],
+          "rss": 6755.062740453623,
+          "aic": 65.58740664915267,
+          "bic": 66.17908038116133,
+          "delta_aic": 14.497802965072495
+        },
+        "gompertz": {
+          "params": [
+            105821.30185171487,
+            10.305523101913407,
+            0.1390285014977693
+          ],
+          "rss": 1349.0832170160627,
+          "aic": 51.089603684080174,
+          "bic": 51.68127741608883,
+          "delta_aic": 0.0
+        }
+      },
+      "best_by_aic": "gompertz",
+      "doubling_time_years": 1.2059190792140246,
+      "doubling_time_ci95": [
+        1.1099164098275407,
+        1.2559220847520423
+      ],
+      "yoy_growth_last3": [
+        0.9220985691573926,
+        0.7717121588089331,
+        0.669467787114846
+      ]
+    },
+    "bradford": {
+      "sources": 1939,
+      "papers_with_source": 7774,
+      "zone_sizes": {
+        "1": 14,
+        "2": 234,
+        "3": 1691
+      },
+      "bradford_multipliers": [
+        16.714285714285715,
+        7.226495726495727
+      ],
+      "leimkuhler": {
+        "a": 0.1503212853110036,
+        "b": 0.3550589354665948,
+        "r2": 0.9943360077811502
+      },
+      "top10": [
+        {
+          "name": "arXiv (Cornell University)",
+          "papers": 1209
+        },
+        {
+          "name": "SSRN Electronic Journal",
+          "papers": 279
+        },
+        {
+          "name": "Physics of Fluids",
+          "papers": 237
+        },
+        {
+          "name": "Computer Methods in Applied Mechanics and Engineering",
+          "papers": 169
+        },
+        {
+          "name": "Journal of Computational Physics",
+          "papers": 152
+        },
+        {
+          "name": "Engineering Applications of Artificial Intelligence",
+          "papers": 77
+        },
+        {
+          "name": "neural information processing systems",
+          "papers": 77
+        },
+        {
+          "name": "Scientific Reports",
+          "papers": 63
+        },
+        {
+          "name": "Zenodo (CERN European Organization for Nuclear Research)",
+          "papers": 52
+        },
+        {
+          "name": "Lecture notes in computer science",
+          "papers": 52
+        }
+      ]
+    },
+    "bradford_without_preprints": {
+      "sources": 1928,
+      "papers_with_source": 6179,
+      "zone_sizes": {
+        "1": 55,
+        "2": 318,
+        "3": 1555
+      },
+      "bradford_multipliers": [
+        5.781818181818182,
+        4.889937106918239
+      ],
+      "leimkuhler": {
+        "a": 0.19534233290178346,
+        "b": 0.0786804570500336,
+        "r2": 0.9981187184489126
+      },
+      "top10": [
+        {
+          "name": "Physics of Fluids",
+          "papers": 237
+        },
+        {
+          "name": "Computer Methods in Applied Mechanics and Engineering",
+          "papers": 169
+        },
+        {
+          "name": "Journal of Computational Physics",
+          "papers": 152
+        },
+        {
+          "name": "neural information processing systems",
+          "papers": 77
+        },
+        {
+          "name": "Engineering Applications of Artificial Intelligence",
+          "papers": 77
+        },
+        {
+          "name": "Scientific Reports",
+          "papers": 63
+        },
+        {
+          "name": "Lecture notes in computer science",
+          "papers": 52
+        },
+        {
+          "name": "Mathematics",
+          "papers": 47
+        },
+        {
+          "name": "AIAA SciTech Forum",
+          "papers": 43
+        },
+        {
+          "name": "EAGE Annual Conference & Exhibition",
+          "papers": 43
+        }
+      ]
+    },
+    "preprint_share": 0.20833855014398397,
+    "lotka": {
+      "authors": 18602,
+      "single_paper_share": 0.7594882270723579,
+      "max_papers": 163,
+      "alpha": 2.6559814453124995,
+      "xmin": 1,
+      "tail_authors": 18602,
+      "ks_D": 0.01722882576278717,
+      "ks_p_boot": 0.0,
+      "n_boot": 100,
+      "vs_lognormal": {
+        "R": -5.917569812000943,
+        "p": 3.267331929049518e-09
+      },
+      "vs_exponential": {
+        "R": 7.867478964936946,
+        "p": 3.618590872578174e-15
+      }
+    },
+    "countries": {
+      "papers_with_country": 6886,
+      "countries": 105,
+      "international_share": 0.2399070577984316,
+      "top10": [
+        {
+          "country": "CN",
+          "papers": 2583,
+          "share": 0.375108916642463
+        },
+        {
+          "country": "US",
+          "papers": 1810,
+          "share": 0.26285216381063026
+        },
+        {
+          "country": "DE",
+          "papers": 410,
+          "share": 0.059541097879756026
+        },
+        {
+          "country": "GB",
+          "papers": 357,
+          "share": 0.05184432181237293
+        },
+        {
+          "country": "IN",
+          "papers": 355,
+          "share": 0.05155387743247168
+        },
+        {
+          "country": "FR",
+          "papers": 253,
+          "share": 0.036741214057507986
+        },
+        {
+          "country": "KR",
+          "papers": 217,
+          "share": 0.031513215219285504
+        },
+        {
+          "country": "HK",
+          "papers": 197,
+          "share": 0.02860877142027302
+        },
+        {
+          "country": "CA",
+          "papers": 187,
+          "share": 0.027156549520766772
+        },
+        {
+          "country": "IT",
+          "papers": 178,
+          "share": 0.025849549811211153
+        }
+      ],
+      "top_pairs": [
+        {
+          "pair": [
+            "CN",
+            "US"
+          ],
+          "papers": 224
+        },
+        {
+          "pair": [
+            "CN",
+            "HK"
+          ],
+          "papers": 111
+        },
+        {
+          "pair": [
+            "CN",
+            "GB"
+          ],
+          "papers": 73
+        },
+        {
+          "pair": [
+            "GB",
+            "US"
+          ],
+          "papers": 60
+        },
+        {
+          "pair": [
+            "CN",
+            "DE"
+          ],
+          "papers": 54
+        },
+        {
+          "pair": [
+            "AU",
+            "CN"
+          ],
+          "papers": 49
+        },
+        {
+          "pair": [
+            "CN",
+            "SG"
+          ],
+          "papers": 46
+        },
+        {
+          "pair": [
+            "IN",
+            "US"
+          ],
+          "papers": 38
+        },
+        {
+          "pair": [
+            "KR",
+            "US"
+          ],
+          "papers": 36
+        },
+        {
+          "pair": [
+            "DE",
+            "US"
+          ],
+          "papers": 34
+        }
+      ]
+    }
+  }
+}

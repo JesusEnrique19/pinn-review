@@ -1,0 +1,23 @@
+{
+  "q1_strong_baseline": {
+    "n": 21,
+    "agreement": 0.5238095238095238,
+    "rule_yes_confirmed": 0,
+    "rule_yes": 2,
+    "verifier_yes": 1
+  },
+  "q3_seeds_variance": {
+    "n": 21,
+    "agreement": 0.5714285714285714,
+    "rule_yes_confirmed": 5,
+    "rule_yes": 6,
+    "verifier_yes": 7
+  },
+  "q4_code_available": {
+    "n": 21,
+    "agreement": 0.8571428571428571,
+    "rule_yes_confirmed": 5,
+    "rule_yes": 6,
+    "verifier_yes": 6
+  }
+}

@@ -1,0 +1,9 @@
+prev step=1 lambda_bc=1.5 loss_res=6.92e+03 loss_bc=0.0523
+prev step=11 lambda_bc=17.5 loss_res=7.2e+03 loss_bc=0.00113
+prev step=101 lambda_bc=1.24e+04 loss_res=6.88e+03 loss_bc=0.000227
+prev step=250 lambda_bc=4.65e+04 loss_res=6.87e+03 loss_bc=1.4e-05
+prev step=500 lambda_bc=2.12e+05 loss_res=7.12e+03 loss_bc=2.59e-06
+prev step=750 lambda_bc=3.42e+05 loss_res=7e+03 loss_bc=1.07e-06
+prev step=1000 lambda_bc=3.24e+05 loss_res=6.87e+03 loss_bc=9.37e-07
+prev step=1250 lambda_bc=2.33e+05 loss_res=6.94e+03 loss_bc=1.11e-06
+prev step=1500 lambda_bc=2.27e+05 loss_res=7.03e+03 loss_bc=1.78e-06

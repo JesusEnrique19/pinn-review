@@ -1,0 +1,36 @@
+id,date,title,citations
+https://openalex.org/W2772097715,2017-11-28,Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations,955
+https://openalex.org/W2785024182,2018-01-20,Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations,605
+https://openalex.org/W2885696722,2018-08-10,Learning Parameters and Constitutive Relationships with Physics Informed Deep Neural Networks,100
+https://openalex.org/W2890968382,2019-07-26,Quantifying total uncertainty in physics-informed neural networks for solving forward and inverse stochastic problems,517
+https://openalex.org/W2919958648,2019-10-11,A composite neural network that learns from multi-fidelity data: Application to function approximation and inverse PDE problems,721
+https://openalex.org/W3041682155,2020-07-08,PPINN: Parareal physics-informed neural network for time-dependent PDEs,665
+https://openalex.org/W3043050416,2020-07-14,Overcoming the curse of dimensionality for some Hamilton–Jacobi partial differential equations via neural network architectures,98
+https://openalex.org/W2966737396,2021-01-27,Neural networks-based backward scheme for fully nonlinear PDEs,62
+https://openalex.org/W2991444716,2021-03-31,Uniform error estimates for artificial neural network approximations for heat equations,32
+https://openalex.org/W3041086160,2021-04-06,Deep neural network approximation for high-dimensional elliptic PDEs with boundary conditions,29
+https://openalex.org/W2890291741,2021-05-06,DNN Expression Rate Analysis of High-Dimensional PDEs: Application to Option Pricing,101
+https://openalex.org/W2933916181,2021-06-02,A Theoretical Analysis of Deep Neural Networks and Parametric PDEs,169
+https://openalex.org/W3020191331,2021-06-05,Numerical Solution of the Parametric Diffusion Equation by Deep Neural Networks,75
+https://openalex.org/W3021748939,2021-07-07,Model Reduction And Neural Networks For Parametric PDEs,334
+https://openalex.org/W3186384563,2021-07-15,On universal approximation and error bounds for Fourier Neural Operators,120
+https://openalex.org/W3194436063,2021-08-19,Neural Operator: Learning Maps Between Function Spaces,217
+https://openalex.org/W3213691922,2021-11-10,A comprehensive and fair comparison of two neural operators (with practical extensions) based on FAIR data,548
+https://openalex.org/W4210423197,2022-01-28,A physics-informed variational DeepONet for predicting crack path in quasi-brittle materials,432
+https://openalex.org/W4210888884,2022-02-01,Simulating progressive intramural damage leading to aortic dissection using DeepONet: an operator–regression neural network,53
+https://openalex.org/W4213199992,2022-02-16,Analyses of internal structures and defects in materials using physics-informed neural networks,394
+https://openalex.org/W4221152086,2022-05-10,Interfacing finite elements with deep neural operators for fast multiscale modeling of mechanics problems,113
+https://openalex.org/W4283689645,2022-06-27,A mixed formulation for physics-informed neural networks as a potential solver for engineering problems in heterogeneous domains: Comparison with finite element method,228
+https://openalex.org/W4309136088,2022-11-14,"Physics-Guided, Physics-Informed, and Physics-Encoded Neural Networks in Scientific Computing",50
+https://openalex.org/W4309208391,2022-11-15,"Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications",102
+https://openalex.org/W4322759863,2023-02-28,GNOT: A General Neural Operator Transformer for Operator Learning,78
+https://openalex.org/W4385059818,2023-07-01,Long-term predictions of turbulence by implicit U-Net enhanced Fourier neural operator,75
+https://openalex.org/W4389003515,2023-11-25,Fourier neural operator for real-time simulation of 3D dynamic urban microclimate,93
+https://openalex.org/W4394578532,2024-04-08,Neural operators for accelerating scientific simulations and design,328
+https://openalex.org/W4399797801,2024-06-19,An improved physics-informed neural network with adaptive weighting and mixed differentiation for solving the incompressible Navier–Stokes equations,40
+https://openalex.org/W4405106683,2024-12-06,Unveiling the optimization process of physics informed neural networks: How accurate and competitive can PINNs be?,80
+https://openalex.org/W4408339746,2025-03-11,From PINNs to PIKANs: recent advances in physics-informed machine learning,250
+https://openalex.org/W4413431712,2025-08-01,Physics-informed neural networks for inviscid transonic flows around an airfoil,13
+https://openalex.org/W4413251953,2025-08-08,Hybrid quantum physics-informed neural network: Towards efficient learning of high-speed flows,5
+https://openalex.org/W4415975327,2025-11-06,QCPINN: quantum-classical physics-informed neural networks for solving PDEs,9
+https://openalex.org/W7139964793,2025-12-17,Multi-Objective Loss Balancing in Physics-Informed Neural Networks for Fluid Flow Applications,1

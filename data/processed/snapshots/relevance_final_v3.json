@@ -1,0 +1,20 @@
+{
+  "model": "specter2_lr",
+  "threshold": 0.4145,
+  "train_n": 660,
+  "test_n": 200,
+  "test_prevalence": 0.655,
+  "test_precision": 0.81,
+  "test_precision_ci95": [
+    0.741,
+    0.865
+  ],
+  "test_recall": 0.947,
+  "test_recall_ci95": [
+    0.894,
+    0.974
+  ],
+  "test_human_labels": 0,
+  "corpus_n": 18111,
+  "tier1_n": 13961
+}
