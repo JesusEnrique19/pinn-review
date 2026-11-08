@@ -2,8 +2,24 @@
   "title": "pinn-review: reproducible pipeline for a bibliometric mapping, evidence audit and equal-budget re-evaluation of physics-informed neural networks and neural operators",
   "upload_type": "software",
   "description": "Code, protocol, processed data, coding records, benchmark runs, figures and tables behind the review article. Every number in the article is generated from these files. Publisher abstracts are not redistributed; they can be re-fetched from OpenAlex by the work identifiers kept in every file.",
-  "creators": [{"name": "Andrade, Jesus"}],
+  "creators": [
+    {
+      "name": "Andrade Andrade, Jesús Enrique",
+      "affiliation": "Independent Researcher, Riobamba, Ecuador"
+    },
+    {
+      "name": "Andrade-Segarra, Diego Andres",
+      "affiliation": "Escuela Superior Politécnica de Chimborazo (ESPOCH)"
+    }
+  ],
   "license": "MIT",
   "access_right": "open",
-  "keywords": ["physics-informed neural networks", "neural operators", "bibliometrics", "systematic mapping", "reproducibility", "benchmark"]
+  "keywords": [
+    "physics-informed neural networks",
+    "neural operators",
+    "bibliometrics",
+    "systematic mapping",
+    "reproducibility",
+    "benchmark"
+  ]
 }
