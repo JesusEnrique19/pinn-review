@@ -1,0 +1,47 @@
+{
+ "labeller": "human author",
+ "n": 50,
+ "tasks": {
+  "all": {
+   "n": 50,
+   "agreement": 0.92,
+   "kappa": 0.8109640831758035,
+   "kappa_ci95": [
+    0.6153846153846153,
+    0.9547920433996383
+   ],
+   "disagreements": [
+    7,
+    12,
+    36,
+    42
+   ]
+  },
+  "relevance": {
+   "n": 30,
+   "agreement": 0.9,
+   "kappa": 0.7096774193548389,
+   "kappa_ci95": [
+    0.29411764705882365,
+    1.0
+   ],
+   "disagreements": [
+    7,
+    12,
+    42
+   ]
+  },
+  "screening": {
+   "n": 20,
+   "agreement": 0.95,
+   "kappa": 0.8979591836734693,
+   "kappa_ci95": [
+    0.6341463414634146,
+    1.0
+   ],
+   "disagreements": [
+    36
+   ]
+  }
+ }
+}
